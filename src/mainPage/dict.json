@@ -1,0 +1,149 @@
+[
+  {
+    "lt": "išvestinė",
+    "en": "derivative",
+    "comments": "MPS"
+  },
+  { "lt": "tolydi", "en": "continuous", "comments": "MPS" },
+  { "lt": "tolygiai tolydi", "en": "uniformly continuous", "comments": "MPS" },
+  {
+    "lt": "trūkiai (trūkio taškai)",
+    "en": "Discontinuities (discontinuity points)",
+    "comments": "MPS"
+  },
+  {
+    "lt": "Neišreikštinis išvestinės skaičiavimas",
+    "en": "Implicit differentiation",
+    "comments": "MPS"
+  },
+  { "lt": "Dekarto", "en": "Cartesian", "comments": "DM" },
+  { "lt": "De Morgano", "en": "de Moivre’s", "comments": "DM" },
+  { "lt": "Deriniai", "en": "Combinations", "comments": "10,12kl." },
+  { "lt": "Gretiniai", "en": "Permutations", "comments": "10,12kl." },
+  { "lt": "Kėliniai", "en": "nPn permutations", "comments": "10,12kl." },
+  { "lt": "matematinė viltis", "en": "expected value", "comments": "12kl." },
+  { "lt": "dispersija", "en": "varience", "comments": "12kl." },
+  {
+    "lt": "vidutinis kvadratinis nuokrypis",
+    "en": "standart deviation",
+    "comments": "12kl."
+  },
+  { "lt": "Sąryšis", "en": "Relation", "comments": "DM" },
+  {
+    "lt": "(ne-)suderinta (lygčių sistema)",
+    "en": "(in-)consistent",
+    "comments": "MPS"
+  },
+  {
+    "lt": "Magnetinė indukcija",
+    "en": "Magnetic flux density",
+    "comments": "12kl.fiz"
+  },
+  { "lt": "(ne-)apibrėžta (lygčių sistema)", "en": "", "comments": "MPS" },
+  {
+    "lt": "Trikampio taisyklė (Matricos determinantas)",
+    "en": "Rule of Sarrus",
+    "comments": "MPS"
+  },
+  { "lt": "Laplaso teorema", "en": "Laplace expansion", "comments": "MPS" },
+  {
+    "lt": "Kontinuumo galia",
+    "en": "Cardinality of kontinuum",
+    "comments": "DM"
+  },
+  { "lt": "Kūnas", "en": "Field", "comments": "MPS" },
+  {
+    "lt": "Negalimo trečiojo dėsnis",
+    "en": "Law of excluded middle",
+    "comments": "DM"
+  },
+  {
+    "lt": "Gretutiniai kampai",
+    "en": "Angles on one side of a straight line",
+    "comments": "7kl"
+  },
+  { "lt": "sutvarkytas rinkinys", "en": "ordered tuple", "comments": "DM" },
+  {
+    "lt": "Kėliniai",
+    "en": "Permutation group (one-line notation)",
+    "comments": "MPS"
+  },
+  {
+    "lt": "Keitiniai",
+    "en": "Permutation group (two-line notation)",
+    "comments": "MPS"
+  },
+  {
+    "lt": "Algoritmų teorija",
+    "en": "Theory of computation",
+    "comments": "AT"
+  },
+  {
+    "lt": "Matematinės logikos pradmenys",
+    "en": "Boolean algebra",
+    "comments": "DM"
+  },
+  { "lt": "Prasilenkiančios tiesės", "en": "Skew lines", "comments": "MPS" },
+  {
+    "lt": "mišrioji vektorių daugyba",
+    "en": "triple scalar/box product",
+    "comments": "MPS"
+  },
+  {
+    "lt": "skaliarinė vektorių daugyba",
+    "en": "dot product",
+    "comments": "MPS, 11kl"
+  },
+  {
+    "lt": "vektorinė vektorių daugyba",
+    "en": "cross product",
+    "comments": "MPS"
+  },
+  {
+    "lt": "koši-buniakovsio nelygybė",
+    "en": "Cauchy-Schwarz inequality",
+    "comments": "MPS"
+  },
+  {
+    "lt": "Kanoninės lygtys",
+    "en": "Symmetric equations :DD",
+    "comments": "MPS"
+  },
+  { "lt": "Matricos rangas", "en": "matrix column space", "comments": "MPS" },
+  {
+    "lt": "egzistencinis kvantorius",
+    "en": "existential quantifier",
+    "comments": "DM"
+  },
+  {
+    "lt": "visuotinumo (bendrumo) kvantorius",
+    "en": "universal quantifier",
+    "comments": "DM"
+  },
+  { "lt": "kirstinė ", "en": "traversal", "comments": "7kl" },
+  { "lt": "atitinkamieji ", "en": "corresponding", "comments": "7kl" },
+  { "lt": "priešiniai ", "en": "alternate", "comments": "7kl" },
+  { "lt": "vienašaliai ", "en": "consecutive", "comments": "7kl" },
+  {
+    "lt": "kryžminiai",
+    "en": "vertically opposite, vertical",
+    "comments": "7kl"
+  },
+  {
+    "lt": "gretutiniai kampai",
+    "en": "angles on one side of a straight line",
+    "comments": "7kl"
+  },
+  {
+    "lt": "diferencialiniai ir integraliniai skaičiavimai",
+    "en": "calculus",
+    "comments": "MPS2, 12kl."
+  },
+  { "lt": " eilutė; sekos suma", "en": "series", "comments": "MPS2, 11kl." },
+  { "lt": " sandauga", "en": "product", "comments": "MPS" },
+  { "lt": "", "en": "decidable", "comments": "AT" },
+  { "lt": " apskaičiuojamas", "en": "computable", "comments": "AT" },
+  { "lt": "rodyklė", "en": "pointer", "comments": "PP" },
+  { "lt": "tiesių pluoštas", "en": "family of lines", "comments": "MMT1" },
+  { "lt": "artinys", "comments": "11 klasė" }
+]
