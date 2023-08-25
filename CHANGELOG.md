@@ -11,16 +11,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Fixed
 
+- Some styling
+- More instructions for GitHub PR
+
 ## Changed
+
+- Less useless descriptions
 
 ## Removed
 
-## [1.0.0] 2023-08-25
+## [1.0.0] - 2023-08-25
 
 ## Added
 
 - Initial working deployed version
 
 [unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.0...HEAD
-
 [1.0.0]: https://github.com/naglissul/sci-dict-lt/releases/tag/v1.0.0

@@ -137,13 +137,21 @@
   {
     "lt": "diferencialiniai ir integraliniai skaičiavimai",
     "en": "calculus",
-    "comments": "MPS2, 12kl."
+    "comments": "Real analysis, 12kl."
   },
-  { "lt": " eilutė; sekos suma", "en": "series", "comments": "MPS2, 11kl." },
+  {
+    "lt": " eilutė; sekos suma",
+    "en": "series",
+    "comments": "Real analysis, 11kl."
+  },
   { "lt": " sandauga", "en": "product", "comments": "MPS" },
   { "lt": "", "en": "decidable", "comments": "AT" },
   { "lt": " apskaičiuojamas", "en": "computable", "comments": "AT" },
-  { "lt": "rodyklė", "en": "pointer", "comments": "PP" },
-  { "lt": "tiesių pluoštas", "en": "family of lines", "comments": "MMT1" },
+  { "lt": "rodyklė", "en": "pointer", "comments": "C language" },
+  {
+    "lt": "tiesių pluoštas",
+    "en": "family of lines",
+    "comments": "Analytic geometry"
+  },
   { "lt": "artinys", "comments": "11 klasė" }
 ]

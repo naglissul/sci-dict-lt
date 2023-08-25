@@ -33,11 +33,12 @@ function MainPage() {
         </Table>
       </div>
 
+      <p>Abbreviations:</p>
       <p>
-        comments: 1. VU Programų sistemos 2021-2022 1kursas: MPS - matematika
-        programų sistemoms I/IIId, DM - diskrečioji matematika, AT - algoritmų
-        teorija, PP - procedūrinis programavimas (C) 2. MMT - VU Matematika ir
-        matematikos taikymai 1kursas
+        VU Programų sistemos 2021-2022 pirmasis kursas
+        <li>MPS - matematika programų sistemoms I/IIId,</li>
+        <li>DM - diskrečioji matematika,</li>
+        <li>AT - algoritmų teorija.</li>
       </p>
     </section>
   );
