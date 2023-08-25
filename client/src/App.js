@@ -11,9 +11,10 @@ function App() {
       className={`${isDarkMode && "bg-dark text-light"}`}
     >
       <header>
-        <h1 className="title">Science dictionary LT -{">"} EN</h1>
+        <h1 className="title">
+          Science dictionary <br /> LT -{">"} EN
+        </h1>
         <div className="dark-button-container">
-          {" "}
           <DarkModeButton
             isDarkMode={isDarkMode}
             setIsDarkMode={setIsDarkMode}
