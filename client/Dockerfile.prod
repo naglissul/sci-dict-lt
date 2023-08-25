@@ -1,9 +1,12 @@
 FROM node:alpine AS build
-WORKDIR /client
-COPY package.json .
-RUN npm i
+WORKDIR /
 COPY . .
+RUN ls
+RUN node -v
+RUN npm install
+RUN ls
 RUN npm run build
+RUN ls
 
 FROM nginx
-COPY --from=build /client/build /usr/share/nginx/html
+COPY --from=build /build /usr/share/nginx/html
