@@ -9,6 +9,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Added
 
+- More references
+
+## Fixed
+
+## Changed
+
+## Removed
+
+## [1.0.1] - 2023-08-29
+
+## Added
+
 - More words
 
 ## Fixed
@@ -20,13 +32,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Less useless descriptions
 
-## Removed
-
 ## [1.0.0] - 2023-08-25
 
 ## Added
 
 - Initial working deployed version
 
-[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/naglissul/sci-dict-lt/releases/tag/v1.0.0
