@@ -40,6 +40,8 @@ function MainPage() {
         <li>DM - diskrečioji matematika,</li>
         <li>AT - algoritmų teorija.</li>
       </p>
+      <p>Contributors:</p>
+      <li>Tomas Babelis</li>
     </section>
   );
 }

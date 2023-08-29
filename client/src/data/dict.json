@@ -25,8 +25,13 @@
   { "lt": "dispersija", "en": "varience", "comments": "12kl." },
   {
     "lt": "vidutinis kvadratinis nuokrypis",
-    "en": "standart deviation",
-    "comments": "12kl."
+    "en": "Root-Mean-Square deviation (RMSD)",
+    "comments": "similar to standard deviation, 12kl., T.B."
+  },
+  {
+    "lt": "standartinis nuokrypis",
+    "en": "standard deviation",
+    "comments": "similar to RMSD, T.B."
   },
   { "lt": "Sąryšis", "en": "Relation", "comments": "DM" },
   {
@@ -101,7 +106,7 @@
   },
   {
     "lt": "koši-buniakovsio nelygybė",
-    "en": "Cauchy-Schwarz inequality",
+    "en": "Cauchy-Schwarz-Buniakowsky inequality",
     "comments": "MPS"
   },
   {
@@ -109,7 +114,16 @@
     "en": "Symmetric equations :DD",
     "comments": "MPS"
   },
-  { "lt": "Matricos rangas", "en": "matrix column space", "comments": "MPS" },
+  {
+    "lt": "Matricos rangas",
+    "en": "matrix rank",
+    "comments": "related (?) to matrix column space, MPS, T.B."
+  },
+  {
+    "lt": "",
+    "en": "matrix column space",
+    "comments": "related (?) to matrix rank, MPS, T.B."
+  },
   {
     "lt": "egzistencinis kvantorius",
     "en": "existential quantifier",
@@ -120,19 +134,36 @@
     "en": "universal quantifier",
     "comments": "DM"
   },
-  { "lt": "kirstinė ", "en": "traversal", "comments": "7kl" },
-  { "lt": "atitinkamieji ", "en": "corresponding", "comments": "7kl" },
-  { "lt": "priešiniai ", "en": "alternate", "comments": "7kl" },
-  { "lt": "vienašaliai ", "en": "consecutive", "comments": "7kl" },
+  {
+    "lt": "kirstinė ",
+    "en": "transversal",
+    "comments": "7kl, geometry, parallels"
+  },
+  { "lt": "kirstinė", "en": "secant", "comments": "geometry, circle, T.B." },
+  {
+    "lt": "atitinkamieji ",
+    "en": "corresponding",
+    "comments": "7kl, geometry, parallels"
+  },
+  {
+    "lt": "priešiniai",
+    "en": "alternate",
+    "comments": "7kl, geometry, parallels"
+  },
+  {
+    "lt": "vienašaliai ",
+    "en": "consecutive",
+    "comments": "7kl, geometry, parallels"
+  },
   {
     "lt": "kryžminiai",
-    "en": "vertically opposite, vertical",
-    "comments": "7kl"
+    "en": "vertically opposite, vertical, opposite",
+    "comments": "7kl, geometry"
   },
   {
     "lt": "gretutiniai kampai",
     "en": "angles on one side of a straight line",
-    "comments": "7kl"
+    "comments": "7kl, geometry"
   },
   {
     "lt": "diferencialiniai ir integraliniai skaičiavimai",
@@ -153,5 +184,394 @@
     "en": "family of lines",
     "comments": "Analytic geometry"
   },
-  { "lt": "artinys", "comments": "11 klasė" }
+  { "lt": "artinys", "comments": "11 klasė" },
+  {
+    "lt": "skaitmenys po kablelio",
+    "en": "decimal places (d.p.)",
+    "comments": "Basic concepts, T.B."
+  },
+  {
+    "lt": "reikšminiai skaitmenys",
+    "en": "significant figures (s.f.)",
+    "comments": "Basic concepts, T.B."
+  },
+  { "lt": "lyginis", "en": "even", "comments": "Basic concepts, T.B." },
+  { "lt": "nelyginis", "en": "odd", "comments": "Basic concepts, T.B." },
+  { "lt": "teigiamas", "en": "positive", "comments": "Basic concepts, T.B." },
+  { "lt": "neigiamas", "en": "negative", "comments": "Basic concepts, T.B." },
+  { "lt": "sudėti", "en": "to add", "comments": "Basic concepts, T.B." },
+  { "lt": "atimti", "en": "to subtract", "comments": "Basic concepts, T.B." },
+  {
+    "lt": "sudauginti",
+    "en": "to multiply",
+    "comments": "Basic concepts, T.B."
+  },
+  {
+    "lt": "(pa-)dalinti",
+    "en": "to divide",
+    "comments": "Basic concepts, T.B."
+  },
+  { "lt": "sudėtis", "en": "addition", "comments": "Basic concepts, T.B." },
+  { "lt": "atimtis", "en": "subtraction", "comments": "Basic concepts, T.B." },
+  { "lt": "dalyba", "en": "division", "comments": "Basic concepts, T.B." },
+  { "lt": "dalus", "en": "divisible", "comments": "Basic concepts, T.B." },
+  {
+    "lt": "daugyba",
+    "en": "multiplication",
+    "comments": "Basic concepts, T.B."
+  },
+  { "lt": "skliaustai", "en": "brackets", "comments": "Basic concepts, T.B." },
+
+  { "lt": "sandauga", "en": "product", "comments": "Basic concepts, T.B." },
+  { "lt": "dalmuo", "en": "quotient", "comments": "Basic concepts, T.B." },
+  { "lt": "apibrėžti", "en": "define", "comments": "Basic concepts, T.B." },
+  {
+    "lt": "apibrėžimas",
+    "en": "definition",
+    "comments": "Basic concepts, T.B."
+  },
+  { "lt": "žymėti", "en": "denote", "comments": "Basic concepts, T.B." },
+  { "lt": "žymėjimas", "en": "notation", "comments": "" },
+  { "lt": "", "en": "hence", "comments": "Basic concepts, T.B." },
+  { "lt": "", "en": "hence or otherwise", "comments": "Basic concepts, T.B." },
+  {
+    "lt": "nupiešti eskizą",
+    "en": "sketch",
+    "comments": "Basic concepts, T.B."
+  },
+  { "lt": "", "en": "plot", "comments": "Basic concepts, T.B." },
+  {
+    "lt": "skaidyti, atskliausti",
+    "en": "expand",
+    "comments": "Basic concepts, T.B."
+  },
+  { "lt": "išraiška", "en": "expression", "comments": "Basic concepts, T.B." },
+  { "lt": "suprastinti", "en": "simplify", "comments": "Basic concepts, T.B." },
+  { "lt": "trupmena", "en": "fraction", "comments": "Basic concepts, T.B." },
+  { "lt": "skaitiklis", "en": "numerator", "comments": "Basic concepts, T.B." },
+  {
+    "lt": "vardiklis",
+    "en": "denominator",
+    "comments": "Basic concepts, T.B."
+  },
+  { "lt": "lygybė", "en": "equality", "comments": "Basic concepts, T.B." },
+  { "lt": "nelygybė", "en": "inequality", "comments": "Basic concepts, T.B." },
+  {
+    "lt": "koordinačių plokštuma",
+    "en": "coordinate plane / number plane / Cartesian plane",
+    "comments": "Basic concepts, T.B."
+  },
+  {
+    "lt": "koordinačių plokštumos pradžia",
+    "en": "origin",
+    "comments": "Basic concepts, T.B."
+  },
+  { "lt": "nežinomasis", "en": "unknown", "comments": "Basic concepts, T.B." },
+
+  {
+    "lt": "standartinė išraiška",
+    "en": "scientific notation",
+    "comments": "Algebra, T.B."
+  },
+  {
+    "lt": "išspręsti x atžvilgiu",
+    "en": "solve for x",
+    "comments": "Algebra, T.B."
+  },
+  {
+    "lt": "įsistatyti (į algebrinę išraišką)",
+    "en": "substitute",
+    "comments": "Algebra, T.B."
+  },
+  { "lt": "kartotinis", "en": "multiple", "comments": "Algebra, T.B." },
+  {
+    "lt": "mažiausias bendras kartotinis (MBK)",
+    "en": "least common multiple (lcm)",
+    "comments": "Algebra, T.B."
+  },
+  { "lt": "daliklis", "en": "divisor", "comments": "Algebra, T.B." },
+  {
+    "lt": "didžiausias bendras daliklis (DBD)",
+    "en": "greatest common divisor (gcd)",
+    "comments": "Algebra, T.B."
+  },
+  {
+    "lt": "lygties sprendiniai, šaknys",
+    "en": "roots",
+    "comments": "Algebra, T.B."
+  },
+  {
+    "lt": "išskirti kvadratą",
+    "en": "to complete the square",
+    "comments": "Algebra, T.B."
+  },
+  {
+    "lt": "pilnasis kvadratas",
+    "en": "perfect square",
+    "comments": "Algebra, T.B."
+  },
+  {
+    "lt": "skaidyti dauginamaisiais",
+    "en": "factorise",
+    "comments": "Algebra, T.B."
+  },
+  { "lt": "trinaris", "en": "trinomial", "comments": "Algebra, T.B." },
+  {
+    "lt": "daugianaris, polinomas",
+    "en": "polynomial",
+    "comments": "Algebra, T.B."
+  },
+  { "lt": "daugiklis", "en": "factor", "comments": "Algebra, T.B." },
+  { "lt": "liekana", "en": "remainder", "comments": "Algebra, T.B." },
+  { "lt": "riba", "en": "limit", "comments": "Algebra, T.B." },
+  { "lt": "atžvilgiu", "en": "respect", "comments": "Algebra, T.B." },
+  { "lt": "baigtinis", "en": "finite", "comments": "Algebra, T.B." },
+  { "lt": "begalinis", "en": "infinite", "comments": "Algebra, T.B." },
+  { "lt": "seka", "en": "sequence", "comments": "Algebra, T.B." },
+  {
+    "lt": "(sekos) narys, elementas",
+    "en": "term (of a sequence)",
+    "comments": "Algebra, T.B."
+  },
+  { "lt": "eilutė", "en": "series", "comments": "Algebra, T.B." },
+  {
+    "lt": "aritmetinė progresija",
+    "en": "arithmeetic sequence (arithmetic progression)",
+    "comments": "Algebra, T.B."
+  },
+  {
+    "lt": "aritmetinės progresijos skirtumas",
+    "en": "common difference",
+    "comments": "Algebra, T.B."
+  },
+  {
+    "lt": "geometrinė progresija",
+    "en": "geometric sequence (geometric progression)",
+    "comments": "Algebra, T.B."
+  },
+  {
+    "lt": "geometrinės progresijos vardiklis",
+    "en": "common ration",
+    "comments": "Algebra, T.B."
+  },
+
+  { "lt": "logaritmas", "en": "logarithm", "comments": "Algebra, T.B." },
+  { "lt": "aibė", "en": "set", "comments": "Set Algebra, T.B." },
+  { "lt": "sankirta", "en": "intersection", "comments": "Set Algebra, T.B." },
+  { "lt": "sąjunga", "en": "union", "comments": "Set Algebra, T.B." },
+  { "lt": "papildinys", "en": "complement", "comments": "Set Algebra, T.B." },
+  {
+    "lt": "aibių atimtis",
+    "en": "relative complement",
+    "comments": "Set Algebra, T.B."
+  },
+  {
+    "lt": "tuščioji aibė",
+    "en": "the empty (null) set",
+    "comments": "Set Algebra, T.B."
+  },
+
+  { "lt": "matrica", "en": "matrix", "comments": "Matrix Algebra, T.B." },
+  {
+    "lt": "vienetinė matrica",
+    "en": "identity matrix",
+    "comments": "Matrix Algebra, T.B."
+  },
+  {
+    "lt": "nulinė matrica",
+    "en": "zero matrix",
+    "comments": "Matrix Algebra, T.B."
+  },
+  {
+    "lt": "kvadratinė matrica",
+    "en": "square matrix",
+    "comments": "Matrix Algebra, T.B."
+  },
+  {
+    "lt": "atvirkštinė matrica",
+    "en": "inverse matrix",
+    "comments": "Matrix Algebra, T.B."
+  },
+  {
+    "lt": "determinantas",
+    "en": "determinant",
+    "comments": "Matrix Algebra, T.B."
+  },
+  {
+    "lt": "papildyta matrica",
+    "en": "augmented matrix",
+    "comments": "Matrix Algebra, T.B."
+  },
+
+  {
+    "lt": "trūkio taškas",
+    "en": "point of discontinuity",
+    "comments": "Functions, T.B."
+  },
+  {
+    "lt": "tiesinė lygtis",
+    "en": "linear equation",
+    "comments": "Functions, T.B."
+  },
+  { "lt": "apibrėžimo sritis", "en": "domain", "comments": "Functions, T.B." },
+  { "lt": "reikšmių sritis", "en": "range", "comments": "Functions, T.B." },
+  {
+    "lt": "sudėtinė (funkcija)",
+    "en": "composite",
+    "comments": "Functions, T.B."
+  },
+  {
+    "lt": "atvirkštinė (funkcija)",
+    "en": "inverse (function)",
+    "comments": "Functions, T.B."
+  },
+  {
+    "lt": "susikirtimas su x ašimi",
+    "en": "x-intercept",
+    "comments": "Functions, T.B."
+  },
+  { "lt": "lygiagretus", "en": "parallel", "comments": "Geometry, T.B." },
+  {
+    "lt": "status, statmenas",
+    "en": "perpendicular",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "posvyris, krypties koeficientas",
+    "en": "gradient (slope)",
+    "comments": "Geometry, T.B."
+  },
+  { "lt": "viršūnė", "en": "vertex", "comments": "Geometry, T.B." },
+  {
+    "lt": "statusis trikampis",
+    "en": "right-angled triangle",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "lygiašonis trikampis",
+    "en": "isosceles triangle",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "lygiakraštis trikampis",
+    "en": "equilateral triangle",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "lygūs trikampiai",
+    "en": "congruent triangles",
+    "comments": "Geometry, T.B."
+  },
+  { "lt": "keturkampis", "en": "quadrilateral", "comments": "Geometry, T.B." },
+  {
+    "lt": "stačiakampis",
+    "en": "rectangle (rectangular)",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "lygiagretainis",
+    "en": "parallelogram",
+    "comments": "Geometry, T.B."
+  },
+  { "lt": "rombas", "en": "rhombus", "comments": "Geometry, T.B." },
+  { "lt": "trapecija", "en": "trapezium", "comments": "Geometry, T.B." },
+  { "lt": "kraštinė", "en": "side", "comments": "Geometry, T.B." },
+  { "lt": "įžambinė", "en": "hypotenuse", "comments": "Geometry, T.B." },
+  { "lt": "pusiaukampinė", "en": "bisetor", "comments": "Geometry, T.B." },
+  { "lt": "pasviroji", "en": "oblique", "comments": "Geometry, T.B." },
+  { "lt": "aukštinė", "en": "altitude", "comments": "Geometry, T.B." },
+  {
+    "lt": "(tiesės) susikertančios viename taške",
+    "en": "concurrent",
+    "comments": "Geometry, T.B."
+  },
+  { "lt": "kirstinė", "en": "secant", "comments": "Geometry, T.B." },
+  { "lt": "lankas", "en": "arc", "comments": "Geometry, T.B." },
+  {
+    "lt": "įbrėžtinis kampas",
+    "en": "inscribed angle",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "centrinis kampas",
+    "en": "central angle",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "kampas prieš apskritimo lanką AB",
+    "en": "angle subtending arc AB",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "skritulio nuopjova / linijos atkarpa",
+    "en": "segment",
+    "comments": "Geometry, T.B."
+  },
+  { "lt": "išpjova", "en": "sector", "comments": "Geometry, T.B." },
+  { "lt": "styga", "en": "chord", "comments": "Geometry, T.B." },
+  { "lt": "kirstinė", "en": "transversal line", "comments": "Geometry, T.B." },
+  {
+    "lt": "gretutiniai kampai",
+    "en": "supplementary angles (??)",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "vidaus priešiniai",
+    "en": "alternate interior",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "išorės priešiniai",
+    "en": "alternate exterior",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "vidaus vienašaliai",
+    "en": "allied, co-interior",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "išorės vienašaliai",
+    "en": "co-exterior",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "spindulys, dalijantis kampą pusiau",
+    "en": "angle bisector",
+    "comments": "Geometry, T.B."
+  },
+  { "lt": "", "en": "angle of depression", "comments": "Geometry, T.B." },
+  { "lt": "", "en": "angle of elevation", "comments": "Geometry, T.B." },
+  { "lt": "plotas", "en": "area", "comments": "Geometry, T.B." },
+  { "lt": "tūris", "en": "volume", "comments": "Geometry, T.B." },
+  { "lt": "pagrindas", "en": "base", "comments": "Geometry, T.B." },
+  { "lt": "daugiakampis", "en": "polygon", "comments": "Geometry, T.B." },
+  {
+    "lt": "taisyklingasis daugiakampis",
+    "en": "regular polygon",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "taisyklingoji piramidė",
+    "en": "regular pyramid",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "piramidės viršūė, kūgio viršūnė, lygiašonio trikampio viršūnė kur susikera lygios kraštinės",
+    "en": "apex",
+    "comments": "Geometry, T.B."
+  },
+  { "lt": "gretasieis", "en": "parallelpiped", "comments": "Geometry, T.B." },
+  {
+    "lt": "stačiakampis gretasienis",
+    "en": "cuboid",
+    "comments": "Geometry, T.B."
+  },
+  {
+    "lt": "ritinys, cilindras",
+    "en": "cylinder",
+    "comments": "Geometry, T.B."
+  },
+  { "lt": "kūgis", "en": "cone", "comments": "Geometry, T.B." },
+  { "lt": "rutulys, sfera", "en": "sphere", "comments": "Geometry, T.B." }
 ]
