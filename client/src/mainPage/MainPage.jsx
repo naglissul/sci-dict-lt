@@ -41,6 +41,7 @@ function MainPage() {
         <li>AT - algoritmų teorija.</li>
       </p>
       <p>Contributors:</p>
+      <li>Me (Naglis Šuliokas)</li>
       <li>Tomas Babelis</li>
     </section>
   );

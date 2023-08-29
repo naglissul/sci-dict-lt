@@ -27,6 +27,12 @@ function App() {
         <MainPage />
         <aside></aside>
       </main>
+      <footer>
+        <p>
+          You can find my personal blog and other cool stuff here:{" "}
+          <a href="https://www.npw.lt">npw.lt</a>
+        </p>
+      </footer>
     </div>
   );
 }
