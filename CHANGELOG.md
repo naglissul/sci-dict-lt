@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - More references
 - Add more words (from npw.lt physics)
+- Add nice drawing to dark-light mode
 
 ## Fixed
 
