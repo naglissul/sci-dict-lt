@@ -573,5 +573,92 @@
     "comments": "Geometry, T.B."
   },
   { "lt": "kūgis", "en": "cone", "comments": "Geometry, T.B." },
-  { "lt": "rutulys, sfera", "en": "sphere", "comments": "Geometry, T.B." }
+  { "lt": "rutulys, sfera", "en": "sphere", "comments": "Geometry, T.B." },
+  {
+    "lt": "svyravimas",
+    "en": "oscillation",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "švytuoklė",
+    "en": "pendulum",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "banga",
+    "en": "wave",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "skersinė",
+    "en": "transverse",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "išilginė",
+    "en": "longitudinal",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "slopinamasis",
+    "en": "damped",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "bangos ilgis",
+    "en": "wavelenght",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "atstumas",
+    "en": "distance",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "poslinkis",
+    "en": "displacement",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "dažnis",
+    "en": "frequency",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "amplitudė",
+    "en": "amplitude",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "periodas",
+    "en": "period",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "greitis",
+    "en": "velocity",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "kinetinė energija",
+    "en": "kinetic energy",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "potencinė energija",
+    "en": "potential energy",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "rezonansas",
+    "en": "resonance",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+  {
+    "lt": "sklidimas",
+    "en": "propagation",
+    "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
+  },
+
+  { "lt": "tekstiniai uždaviniai", "en": "word problems", "comments": "" }
 ]
