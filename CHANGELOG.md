@@ -9,15 +9,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Added
 
-- More references
-- Add more words (from npw.lt physics)
-- Add nice drawing to dark-light mode
-
 ## Fixed
 
 ## Changed
 
 ## Removed
+
+## [1.0.2] - 2023-08-30
+
+## Added
+
+- More references
+- Add more words (from npw.lt physics)
+- Add nice drawing to dark-light mode
+
+## Changed
+
+- The bash script file. Might work now...
 
 ## [1.0.1] - 2023-08-29
 
@@ -40,6 +48,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial working deployed version
 
-[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.1...HEAD
+[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.2...HEAD
+[1.0.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/naglissul/sci-dict-lt/releases/tag/v1.0.0
