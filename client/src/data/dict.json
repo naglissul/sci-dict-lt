@@ -356,14 +356,18 @@
   },
 
   { "lt": "logaritmas", "en": "logarithm", "comments": "Algebra, T.B." },
-  { "lt": "aibė", "en": "set", "comments": "Set Algebra, T.B." },
-  { "lt": "sankirta", "en": "intersection", "comments": "Set Algebra, T.B." },
-  { "lt": "sąjunga", "en": "union", "comments": "Set Algebra, T.B." },
+  { "lt": "aibė", "en": "set", "comments": "Set Algebra, T.B., 11kl." },
+  {
+    "lt": "sankirta",
+    "en": "intersection",
+    "comments": "Set Algebra, T.B., 11kl."
+  },
+  { "lt": "sąjunga", "en": "union", "comments": "Set Algebra, T.B., 11kl." },
   { "lt": "papildinys", "en": "complement", "comments": "Set Algebra, T.B." },
   {
-    "lt": "aibių atimtis",
-    "en": "relative complement",
-    "comments": "Set Algebra, T.B."
+    "lt": "aibių atimtis, skirtumas",
+    "en": "relative complement, set difference",
+    "comments": "Set Algebra, T.B., 11kl."
   },
   {
     "lt": "tuščioji aibė",
@@ -660,5 +664,32 @@
     "comments": "Mechaniniai svyravimai ir bangos 8 kl., fiz"
   },
 
-  { "lt": "tekstiniai uždaviniai", "en": "word problems", "comments": "" }
+  { "lt": "tekstiniai uždaviniai", "en": "word problems", "comments": "" },
+  {
+    "lt": "procentinis didėjimas",
+    "en": "percent increase, percent change",
+    "comments": "10kl. procentai"
+  },
+  {
+    "lt": "procentinis mažėjimas",
+    "en": "percent decrease, percent change",
+    "comments": "10kl. procentai"
+  },
+  { "lt": "palūkanos", "en": "interest", "comments": "10kl. procentai" },
+  {
+    "lt": "palūkanų norma",
+    "en": "interest rate",
+    "comments": "10kl. procentai"
+  },
+  {
+    "lt": "sudėtinės palūkanos",
+    "en": "compound interest",
+    "comments": "10kl. procentai"
+  },
+  {
+    "lt": "paprastosios palūkanos",
+    "en": "simple interest",
+    "comments": "10kl. procentai"
+  },
+  { "lt": "paskola", "en": "loan", "comments": "10kl. procentai" }
 ]
