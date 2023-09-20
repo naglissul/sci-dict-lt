@@ -1,16 +1,53 @@
-import { Alert, Table } from "react-bootstrap";
+import { Alert, Button, Card, Table } from "react-bootstrap";
 import DictWord from "./DictWord";
 import dict from "../data/dict.json";
+import { useState } from "react";
 function MainPage() {
+  const [isButtonClicked, setIsButtonClicked] = useState(false);
   return (
     <section>
       <p>Not reviewed by other people (only me) </p>
+      <p>
+        <Card>
+          <Card.Body>
+            <Card.Title>
+              <strong>Give me motivation to do more!</strong>
+            </Card.Title>
+            <Card.Text>
+              <p
+                style={{
+                  textAlign: `${innerWidth <= 768 ? "right" : "left"}`,
+                  paddingTop: "10px",
+                  paddingRight: `${innerWidth <= 768 ? "10px" : "0px"}`,
+                }}
+              >
+                <Button
+                  variant={isButtonClicked ? "secondary" : "primary"}
+                  disabled={isButtonClicked}
+                  onClick={() => {
+                    if (!isButtonClicked) {
+                      setIsButtonClicked(true);
+                    }
+                  }}
+                >
+                  I was here
+                </Button>
+              </p>
+              <p>
+                By clicking this button you are increasing the public counter
+              </p>
+            </Card.Text>
+          </Card.Body>
+        </Card>
+      </p>
+
       <p>
         For a new word or a better translation suggestions please email me{" "}
         <a href="mailto:naglis.suliokas@gmail.com">naglis.suliokas@gmail.com</a>{" "}
         or create Pull request on{" "}
         <a href="https://github.com/naglissul/sci-dict-lt">GitHub</a>
       </p>
+
       <hr />
       <Alert variant="info">USE CTRL+F TO FIND YOUR WORD</Alert>
       <div className="table-container">

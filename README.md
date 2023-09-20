@@ -21,6 +21,7 @@ See mistakes? Know a word that's not here? Know a better translation?
 
 - React JS
 - Docker
+- React-bootstrap
 
 ### Run
 
@@ -47,3 +48,7 @@ docker-compose -f docker-compose.prod.yaml down
 Comment: should be possible to run with "./bin/prod_deploy.sh up|down" but it's not tested
 
 HAPPY CODING! :))
+
+## Future ideas
+
+There could be admin and user accounts. And a database.
