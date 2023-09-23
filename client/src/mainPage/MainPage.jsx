@@ -29,7 +29,7 @@ function MainPage() {
                     if (!isButtonClicked) {
                       setIsButtonClicked(true);
                       fetch(
-                        "http://localhost:5000/api/counters/i-was-here/inc",
+                        "http://sci-dict.lt:5000/api/counters/i-was-here/inc",
                         {
                           method: "PATCH",
                         }
