@@ -45,6 +45,16 @@ Shut down docker server:
 docker-compose -f docker-compose.prod.yaml down
 ```
 
+Deploy new release:
+
+```
+git pull
+docker-compose -f docker-compose.prod.yaml down
+docker image ls     (should see the client-prod-i image name)
+docker image rm client-prod-i
+docker-compose -f docker-compose.prod.yaml up
+```
+
 Comment: should be possible to run with "./bin/prod_deploy.sh up|down" but it's not tested
 
 HAPPY CODING! :))

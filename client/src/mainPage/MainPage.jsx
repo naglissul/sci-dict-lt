@@ -2,12 +2,13 @@ import { Alert, Button, Card, Table } from "react-bootstrap";
 import DictWord from "./DictWord";
 import dict from "../data/dict.json";
 import { useState } from "react";
+
 function MainPage() {
   const [isButtonClicked, setIsButtonClicked] = useState(false);
   return (
     <section>
       <p>Not reviewed by other people (only me) </p>
-      <p>
+      <div style={{ paddingTop: "10px", paddingBottom: "10px" }}>
         <Card>
           <Card.Body>
             <Card.Title>
@@ -27,6 +28,12 @@ function MainPage() {
                   onClick={() => {
                     if (!isButtonClicked) {
                       setIsButtonClicked(true);
+                      fetch(
+                        "http://localhost:5000/api/counters/i-was-here/inc",
+                        {
+                          method: "PATCH",
+                        }
+                      );
                     }
                   }}
                 >
@@ -39,7 +46,7 @@ function MainPage() {
             </Card.Text>
           </Card.Body>
         </Card>
-      </p>
+      </div>
 
       <p>
         For a new word or a better translation suggestions please email me{" "}
@@ -49,7 +56,9 @@ function MainPage() {
       </p>
 
       <hr />
-      <Alert variant="info">USE CTRL+F TO FIND YOUR WORD</Alert>
+      <Alert variant="info">
+        USE CTRL+F OR "FIND IN PAGE" TO FIND YOUR WORD
+      </Alert>
       <div className="table-container">
         <Table striped bordered hover>
           <tbody>
@@ -60,7 +69,7 @@ function MainPage() {
             </tr>
             {dict.map((word) => (
               <DictWord
-                key={word.en}
+                key={word.en + word.lt + word.comments}
                 lt={word.lt}
                 en={word.en}
                 comments={word.comments}

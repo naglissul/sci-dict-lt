@@ -691,5 +691,6 @@
     "en": "simple interest",
     "comments": "10kl. procentai"
   },
-  { "lt": "paskola", "en": "loan", "comments": "10kl. procentai" }
+  { "lt": "paskola", "en": "loan", "comments": "10kl. procentai" },
+  { "lt": "modulis", "en": "absolute value (abs)", "comments": "11kl." }
 ]
