@@ -8,6 +8,7 @@ Check out the deployed website here: [sci-dict.lt](http://sci-dict.lt)
 
 Use Ctrl+F of "Find in page" to find your word or category.  
 Click on the "I was here" counter! So I could carry on with this project  
+If curious what the count is, go to [http://sci-dict.lt:5000/api/counters/i-was-here](http://sci-dict.lt:5000/api/counters/i-was-here)
 
 ## How to contribute?
 
