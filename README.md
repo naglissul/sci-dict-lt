@@ -6,7 +6,8 @@ Check out the deployed website here: [sci-dict.lt](http://sci-dict.lt)
 
 ## How to use?
 
-Use Ctrl+F to find your word or category.
+Use Ctrl+F of "Find in page" to find your word or category.  
+Click on the "I was here" counter! So I could carry on with this project  
 
 ## How to contribute?
 

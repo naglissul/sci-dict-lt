@@ -20,6 +20,11 @@ app.patch("/api/counters/i-was-here/inc", (req, res) => {
   res.sendStatus(200);
 });
 
+app.get("/api/counters/i-was-here", (req, res) => {
+  let currentNumber = parseInt(fs.readFileSync("data.txt", "utf-8"));
+  res.send({"count": currentNumber});
+})
+
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
