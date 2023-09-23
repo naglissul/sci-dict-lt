@@ -55,7 +55,15 @@ docker image rm client-prod-i
 docker-compose -f docker-compose.prod.yaml up
 ```
 
-Comment: should be possible to run with "./bin/prod_deploy.sh up|down" but it's not tested
+run backend counter:
+
+```
+cd server
+(npm install)
+npm start
+```
+
+Comment: later should be possible to run with "./bin/prod_deploy.sh up|down" but it's not tested
 
 HAPPY CODING! :))
 
