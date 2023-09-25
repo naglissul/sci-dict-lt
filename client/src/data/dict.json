@@ -22,7 +22,7 @@
   { "lt": "Gretiniai", "en": "Permutations", "comments": "10,12kl." },
   { "lt": "Kėliniai", "en": "nPn permutations", "comments": "10,12kl." },
   { "lt": "matematinė viltis", "en": "expected value", "comments": "12kl." },
-  { "lt": "dispersija", "en": "varience", "comments": "12kl." },
+  { "lt": "dispersija", "en": "variance", "comments": "12kl." },
   {
     "lt": "vidutinis kvadratinis nuokrypis",
     "en": "Root-Mean-Square deviation (RMSD)",
@@ -53,7 +53,7 @@
   { "lt": "Laplaso teorema", "en": "Laplace expansion", "comments": "MPS" },
   {
     "lt": "Kontinuumo galia",
-    "en": "Cardinality of kontinuum",
+    "en": "Cardinality of the continuum",
     "comments": "DM"
   },
   { "lt": "Kūnas", "en": "Field", "comments": "MPS" },
