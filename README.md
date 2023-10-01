@@ -51,10 +51,25 @@ Deploy new release:
 ```
 git pull
 docker-compose -f docker-compose.prod.yaml down
-docker image ls     (should see the client-prod-i image name)
+docker image ls
 docker image rm client-prod-i
 docker-compose -f docker-compose.prod.yaml up
 ```
+
+with rollback:
+```
+git pull
+docker image ls
+docker tag client-prod-i:latest client-prod-old-i:latest
+docker-compose -f docker-compose.prod.yaml down
+docker image rm client-prod-i
+docker-compose -f docker-compose.prod.yaml up
+```
+and then if docker-compose up fails, run this
+```
+docker-compose -f docker-compose-rollback.prod.yaml up
+```
+and then good luck fixing your problems :D
 
 run backend counter:
 

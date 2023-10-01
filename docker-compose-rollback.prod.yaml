@@ -1,0 +1,11 @@
+version: "3"
+services:
+  client:
+    image: client-prod-i
+    build:
+      context: ./client
+      dockerfile: Dockerfile.prod
+    container_name: client-prod-c
+    network_mode: "host"
+    environment:
+      - NODE_ENV=production
