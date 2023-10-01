@@ -25,65 +25,57 @@ See mistakes? Know a word that's not here? Know a better translation?
 - Docker
 - React-bootstrap
 
-### Run
-
-Run dev server:
+### Run dev
 
 ```
 cd client
 npm install
 npm start
 ```
+```
+Ctrl + C
+```
 
-Run (as) prod with docker (on linux):
+Or with docker:
 
 ```
 docker-compose -f docker-compose.prod.yaml up
 ```
 
-Shut down docker server:
-
 ```
 docker-compose -f docker-compose.prod.yaml down
 ```
 
-Deploy new release:
+### Run prod
 
+New release:
 ```
 git pull
-docker-compose -f docker-compose.prod.yaml down
-docker image ls
-docker image rm client-prod-i
-docker-compose -f docker-compose.prod.yaml up
+./bin/prod_deploy.sh redeploy
+```
+In case of unsuccessful new release deployment:
+```
+./bin/prod_deploy.sh rollback
 ```
 
-with rollback:
-```
-git pull
-docker image ls
-docker tag client-prod-i:latest client-prod-old-i:latest
-docker-compose -f docker-compose.prod.yaml down
-docker image rm client-prod-i
-docker-compose -f docker-compose.prod.yaml up
-```
-and then if docker-compose up fails, run this
-```
-docker-compose -f docker-compose-rollback.prod.yaml up
-```
-and then good luck fixing your problems :D
-
-run backend counter:
+Separately run the counter:
 
 ```
 cd server
-(npm install)
+npm install
 npm start
 ```
 
-Comment: later should be possible to run with "./bin/prod_deploy.sh up|down" but it's not tested
-
 HAPPY CODING! :))
 
+Small comment:  
+If access is denied when running bash script, run this command:
+```
+chmod +x ./bin/prod_deploy.sh
+```
 ## Future ideas
 
-There could be admin and user accounts. And a database.
+There could be admin and user accounts. And a database. And categories. And voting.
+
+## Bugs
+Redeploy is still problematic
