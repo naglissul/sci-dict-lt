@@ -11,10 +11,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - 10th, 11th grade new words
 - Add "I was here" counter (separated from docker)
+- Add some syntax corrections
 
 ## Fixed
 
+- bash script for running docker-compose
+
 ## Changed
+
+- bash script to be able to rollback to old version in case of error
 
 ## Removed
 
