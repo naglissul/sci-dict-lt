@@ -39,11 +39,11 @@ Ctrl + C
 Or with docker:
 
 ```
-docker-compose -f docker-compose.prod.yaml up
+docker-compose up
 ```
 
 ```
-docker-compose -f docker-compose.prod.yaml down
+docker-compose down
 ```
 
 ### Run prod
@@ -51,11 +51,11 @@ docker-compose -f docker-compose.prod.yaml down
 New release:
 ```
 git pull
-./bin/prod_deploy.sh redeploy
+sh deploy redeploy
 ```
 In case of unsuccessful new release deployment:
 ```
-./bin/prod_deploy.sh rollback
+sh deploy rollback
 ```
 
 Separately run the counter:
@@ -69,13 +69,10 @@ npm start
 HAPPY CODING! :))
 
 Small comment:  
-If access is denied when running bash script, run this command:
+If access is denied when running bash script, try running this command:
 ```
-chmod +x ./bin/prod_deploy.sh
+chmod +x deploy
 ```
 ## Future ideas
 
 There could be admin and user accounts. And a database. And categories. And voting.
-
-## Bugs
-Redeploy is still problematic
