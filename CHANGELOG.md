@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Changed
 
-- bash script to be able to rollback to old version in case of error
+- bash script to be able to rollback to old version in case of error >> Implement Docker layer caching (not remove, but rebuild image)
 
 ## Removed
 
