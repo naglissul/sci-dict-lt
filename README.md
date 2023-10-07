@@ -75,4 +75,4 @@ chmod +x deploy
 ```
 ## Future ideas
 
-There could be admin and user accounts. And a database. And categories. And voting.
+There could be admin and user accounts. And a database. And categories (IMPORTANT to have categories, named after the specific syllabus/course that had these definitions but no english translation). And voting.
