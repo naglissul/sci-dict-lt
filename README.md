@@ -51,11 +51,11 @@ docker-compose down
 New release:
 ```
 git pull
-sh deploy redeploy
+./deploy redeploy
 ```
 In case of unsuccessful new release deployment:
 ```
-sh deploy rollback
+./deploy rollback
 ```
 
 Separately run the counter:

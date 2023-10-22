@@ -10,6 +10,6 @@ else
         docker image rm client-prod-old-i
         docker-compose up
     else
-        echo "Command should look like this: \n\n\tsh deploy redeploy \n\nor like this \n\n\tsh deploy rollback\n"
+        echo "Command should look like this: \n\n\t./deploy redeploy \n\nor like this \n\n\t./deploy rollback\n"
     fi
 fi

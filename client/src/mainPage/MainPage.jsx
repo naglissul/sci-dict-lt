@@ -24,7 +24,7 @@ function MainPage() {
               >
                 <Button
                   variant={isButtonClicked ? "secondary" : "primary"}
-                  disabled={isButtonClicked}
+                  disabled
                   onClick={() => {
                     if (!isButtonClicked) {
                       setIsButtonClicked(true);

@@ -4,7 +4,7 @@ services:
     image: client-prod-i
     build:
       context: ./client
-      dockerfile: Dockerfile.prod
+      dockerfile: Dockerfile
     container_name: client-prod-c
     network_mode: "host"
     environment:
