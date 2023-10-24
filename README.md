@@ -24,6 +24,9 @@ See mistakes? Know a word that's not here? Know a better translation?
 - React JS
 - Docker
 - React-bootstrap
+- Postgresql
+- Express
+- Nginx
 
 ### Run dev
 
@@ -47,6 +50,8 @@ docker-compose down
 ```
 
 ### Run prod
+
+make .env file from .env.template - enter your db details there (in root dir and in server/ dir)
 
 New release:
 ```
