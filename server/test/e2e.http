@@ -37,20 +37,20 @@ Content-Type: application/json
     "comments": ""
 }
 
-### Update word with id=2
+### Update word with id=216
 PUT http://localhost:5000/api/dict/word
 Content-Type: application/json
 
 {
-    "id": 2,
+    "id": 216,
     "lt": "sudėti", 
     "en": "to add",
     "comments": "Idk, can't find the translation."
 }
 
 
-### Delete word with id=11
-DELETE http://localhost:5000/api/dict/word/11
+### Delete word with id=214
+DELETE http://localhost:5000/api/dict/word/214
 
 ### Create dict table and initialize
 POST http://localhost:5000/api/dict/init

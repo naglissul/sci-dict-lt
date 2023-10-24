@@ -5,7 +5,7 @@ CREATE TABLE dict (
     comments VARCHAR(255) NOT NULL, 
     PRIMARY KEY (id)
 );
-INSERT INTO dict(lt,en,comments) VALUES ('išvestinė','derivative','MPS');
+INSERT INTO dict(lt,en,comments) VALUES ('išvestinė','derivative', 'MPS');
 INSERT INTO dict(lt,en,comments) VALUES ('tolydi','continuous','MPS');
 INSERT INTO dict(lt,en,comments) VALUES ('tolygiai tolydi','uniformly continuous','MPS');
 INSERT INTO dict(lt,en,comments) VALUES ('trūkiai (trūkio taškai)','Discontinuities (discontinuity points)','MPS');
@@ -80,7 +80,7 @@ INSERT INTO dict(lt,en,comments) VALUES ('dalmuo','quotient','Basic concepts, T.
 INSERT INTO dict(lt,en,comments) VALUES ('apibrėžti','define','Basic concepts, T.B.');
 INSERT INTO dict(lt,en,comments) VALUES ('apibrėžimas','definition','Basic concepts, T.B.');
 INSERT INTO dict(lt,en,comments) VALUES ('žymėti','denote','Basic concepts, T.B.');
-INSERT INTO dict(lt,en,comments) VALUES ('žymėjimas','notation',NULL);
+INSERT INTO dict(lt,en,comments) VALUES ('žymėjimas','notation', 'basic concept.');
 INSERT INTO dict(lt,en,comments) VALUES (NULL,'hence','Basic concepts, T.B.');
 INSERT INTO dict(lt,en,comments) VALUES (NULL,'hence or otherwise','Basic concepts, T.B.');
 INSERT INTO dict(lt,en,comments) VALUES ('nupiešti eskizą','sketch','Basic concepts, T.B.');
@@ -208,7 +208,7 @@ INSERT INTO dict(lt,en,comments) VALUES ('kinetinė energija','kinetic energy','
 INSERT INTO dict(lt,en,comments) VALUES ('potencinė energija','potential energy','Mechaniniai svyravimai ir bangos 8 kl., fiz');
 INSERT INTO dict(lt,en,comments) VALUES ('rezonansas','resonance','Mechaniniai svyravimai ir bangos 8 kl., fiz');
 INSERT INTO dict(lt,en,comments) VALUES ('sklidimas','propagation','Mechaniniai svyravimai ir bangos 8 kl., fiz');
-INSERT INTO dict(lt,en,comments) VALUES ('tekstiniai uždaviniai','word problems',NULL);
+INSERT INTO dict(lt,en,comments) VALUES ('tekstiniai uždaviniai','word problems', 'basic concepts.');
 INSERT INTO dict(lt,en,comments) VALUES ('procentinis didėjimas','percent increase, percent change','10kl. procentai');
 INSERT INTO dict(lt,en,comments) VALUES ('procentinis mažėjimas','percent decrease, percent change','10kl. procentai');
 INSERT INTO dict(lt,en,comments) VALUES ('palūkanos','interest','10kl. procentai');

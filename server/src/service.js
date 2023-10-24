@@ -1,5 +1,5 @@
 const pool = require("./database");
-const fs = require('fs');
+const fs = require("fs");
 
 async function fetchAllWords() {
   let client;
@@ -41,7 +41,7 @@ async function createNewWord(newWord) {
 
 async function updateExistingWord(updatedWord) {
   let client;
-  const { id, lt, en, comments} = updatedWord;
+  const { id, lt, en, comments } = updatedWord;
 
   try {
     client = await pool.connect();
@@ -85,13 +85,16 @@ async function initDictTable() {
   let client;
   try {
     client = await pool.connect();
+    await client.query("BEGIN");
 
     const sqlQuery = fs.readFileSync("dictInit.sql", "utf8");
 
+    await client.query("COMMIT");
     const result = await client.query(sqlQuery);
-    
+
     return result.rows;
   } catch (error) {
+    await client.query("ROLLBACK");
     throw error;
   } finally {
     if (client) {
@@ -105,5 +108,5 @@ module.exports = {
   createNewWord,
   updateExistingWord,
   deleteExistingWord,
-  initDictTable
+  initDictTable,
 };
