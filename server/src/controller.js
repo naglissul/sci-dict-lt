@@ -77,10 +77,32 @@ async function initDict(req, res) {
   }
 }
 
+async function getIWasHereCount(req, res) {
+  try {
+    const result = await dictService.getIWasHereCount();
+    res.status(200).json(result);
+  } catch (error) {
+    console.error("Error while getting I-was-here count:", error);
+    res.status(500).json({ error: "Internal server error" });
+  }
+}
+
+async function incIWasHereCount(req, res) {
+  try {
+    const result = await dictService.incIWasHereCount();
+    res.status(200).json(result);
+  } catch (error) {
+    console.error("Error while updating I-was-here count:", error);
+    res.status(500).json({ error: "Internal server error" });
+  }
+}
+
 module.exports = {
   getAllWords,
   createWord,
   updateWord,
   deleteWord,
   initDict,
+  getIWasHereCount,
+  incIWasHereCount
 };

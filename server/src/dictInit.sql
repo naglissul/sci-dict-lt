@@ -1,3 +1,11 @@
+CREATE TABLE counters (
+    name VARCHAR(16),
+    count INT,
+    PRIMARY KEY (name)
+);
+
+INSERT INTO counters(name, count) VALUES ('i-was-here', 90);
+
 CREATE TABLE dict (
     id SERIAL, 
     lt VARCHAR(255), 
@@ -5,6 +13,7 @@ CREATE TABLE dict (
     comments VARCHAR(255) NOT NULL, 
     PRIMARY KEY (id)
 );
+
 INSERT INTO dict(lt,en,comments) VALUES ('išvestinė','derivative', 'MPS');
 INSERT INTO dict(lt,en,comments) VALUES ('tolydi','continuous','MPS');
 INSERT INTO dict(lt,en,comments) VALUES ('tolygiai tolydi','uniformly continuous','MPS');

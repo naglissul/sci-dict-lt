@@ -1,6 +1,6 @@
 FROM node:alpine
-WORKDIR /
+WORKDIR /server
 COPY . .
 RUN npm install
 EXPOSE 5000
-CMD ["node", "src/routing.js"]
+CMD ["npm", "run", "start-be"]

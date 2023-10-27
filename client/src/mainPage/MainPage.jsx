@@ -24,14 +24,14 @@ function MainPage() {
               >
                 <Button
                   variant={isButtonClicked ? "secondary" : "primary"}
-                  disabled
+                  disabled={isButtonClicked}
                   onClick={() => {
                     if (!isButtonClicked) {
                       setIsButtonClicked(true);
                       fetch(
                         "http://sci-dict.lt:5000/api/counters/i-was-here/inc",
                         {
-                          method: "PATCH",
+                          method: "POST",
                         }
                       );
                     }

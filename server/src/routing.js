@@ -14,7 +14,7 @@ app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Headers", "*");
   next();
 });
-app.use("/api/dict", routes);
+app.use("/api", routes);
 
 app.listen(port, () => {
   console.log(`Listening on port ${port}`);

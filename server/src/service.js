@@ -82,15 +82,14 @@ async function deleteExistingWord(id) {
 }
 
 async function initDictTable() {
-  let client;
+  const client = await pool.connect();
   try {
-    client = await pool.connect();
     await client.query("BEGIN");
 
     const sqlQuery = fs.readFileSync("dictInit.sql", "utf8");
+    const result = await client.query(sqlQuery);
 
     await client.query("COMMIT");
-    const result = await client.query(sqlQuery);
 
     return result.rows;
   } catch (error) {
@@ -103,10 +102,49 @@ async function initDictTable() {
   }
 }
 
+async function getIWasHereCount() {
+  let client;
+  try {
+    client = await pool.connect();
+
+    const result = await client.query(
+      "SELECT count FROM counters WHERE name='i-was-here';"
+    );
+
+    return result.rows;
+  } catch (error) {
+    throw error;
+  } finally {
+    if (client) {
+      client.release();
+    }
+  }
+}
+
+async function incIWasHereCount() {
+  let client;
+  try {
+    client = await pool.connect();
+
+    const result = await client.query(
+      "UPDATE counters SET count = count + 1 WHERE name = 'i-was-here' RETURNING count;"
+    );
+
+    return result.rows;
+  } catch (error) {
+    throw error;
+  } finally {
+    if (client) {
+      client.release();
+    }
+  }
+}
 module.exports = {
   fetchAllWords,
   createNewWord,
   updateExistingWord,
   deleteExistingWord,
   initDictTable,
+  getIWasHereCount,
+  incIWasHereCount
 };

@@ -10,8 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Added
 
 - 10th, 11th grade new words
-- Add "I was here" counter (separated from docker)
+- Add "I was here" counter to the same project
 - Add some syntax corrections
+- Database and backend
 
 ## Fixed
 

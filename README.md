@@ -28,27 +28,6 @@ See mistakes? Know a word that's not here? Know a better translation?
 - Express
 - Nginx
 
-### Run dev
-
-```
-cd client
-npm install
-npm start
-```
-```
-Ctrl + C
-```
-
-Or with docker:
-
-```
-docker-compose up
-```
-
-```
-docker-compose down
-```
-
 ### Run prod
 
 make .env file from .env.template - enter your db details there (in root dir and in server/ dir)
@@ -63,21 +42,15 @@ In case of unsuccessful new release deployment:
 ./deploy rollback
 ```
 
-Separately run the counter:
-
-```
-cd server
-npm install
-npm start
-```
-
-HAPPY CODING! :))
-
 Small comment:  
 If access is denied when running bash script, try running this command:
 ```
 chmod +x deploy
 ```
+
+### Run dev
+
+Just decipher ./deploy file... :D But, jokes aside, this is basic react app, express backend and postgresql database. I'm sure you will figure this out.
 ## Future ideas
 
-There could be admin and user accounts. And a database. And categories (IMPORTANT to have categories, named after the specific syllabus/course that had these definitions but no english translation). And voting.
+There could be admin and user accounts. And categories (IMPORTANT to have categories, named after the specific syllabus/course that had these definitions but no english translation). And voting.

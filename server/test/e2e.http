@@ -1,5 +1,5 @@
 ### Increment public counter
-PATCH http://localhost:5000/api/counters/i-was-here/inc
+POST http://localhost:5000/api/counters/i-was-here/inc
 
 ### Get counter
 GET http://localhost:5000/api/counters/i-was-here
@@ -53,4 +53,4 @@ Content-Type: application/json
 DELETE http://localhost:5000/api/dict/word/214
 
 ### Create dict table and initialize
-POST http://localhost:5000/api/dict/init
+POST http://localhost:5000/api/init
