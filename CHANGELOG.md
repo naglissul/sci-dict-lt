@@ -9,6 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Added
 
+## Fixed
+
+## Changed
+
+## Removed
+
+## [1.1.0] - 2023-10-27
+
+## Added
+
 - 10th, 11th grade new words
 - Add "I was here" counter to the same project
 - Add some syntax corrections
@@ -23,6 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - bash script to be able to rollback to old version in case of error >> Implement Docker layer caching (not remove, but rebuild image)
 
 ## Removed
+
+- dict.json data file. Changed with relational database
 
 ## [1.0.2] - 2023-08-30
 
@@ -57,7 +69,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial working deployed version
 
-[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.2...HEAD
+[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.2...v1.1.0
 [1.0.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/naglissul/sci-dict-lt/releases/tag/v1.0.0

@@ -15,7 +15,7 @@ If curious what the count is, go to [http://sci-dict.lt:5000/api/counters/i-was-
 See mistakes? Know a word that's not here? Know a better translation?
 
 - Email me [naglis.suliokas@gmail.com](mailto:naglis.suliokas@gmail.com) or
-- Fork repo and create a PR after modifying [./client/src/data/dict.json](./client/src/data/dict.json) file.
+- Fork repo and create a PR after modifying [./server/src/dictInit.sql](./server/src/dictInit.sql) file.
 
 ## For developers
 
@@ -30,7 +30,7 @@ See mistakes? Know a word that's not here? Know a better translation?
 
 ### Run prod
 
-make .env file from .env.template - enter your db details there (in root dir and in server/ dir)
+make .env file from .env.template - enter your db details there (in root dir and in server/ dir). For the first time deployment run docker-compose up. After each deploy/redeploy send a POST request to initiate db tables: POST http://sci-dict.lt:5000/api/init
 
 New release:
 ```
@@ -51,6 +51,7 @@ chmod +x deploy
 ### Run dev
 
 Just decipher ./deploy file... :D But, jokes aside, this is basic react app, express backend and postgresql database. I'm sure you will figure this out.
+
 ## Future ideas
 
 There could be admin and user accounts. And categories (IMPORTANT to have categories, named after the specific syllabus/course that had these definitions but no english translation). And voting.

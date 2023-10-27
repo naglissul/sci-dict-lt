@@ -1,10 +1,23 @@
 import { Alert, Button, Card, Table } from "react-bootstrap";
 import DictWord from "./DictWord";
-import dict from "../data/dict.json";
-import { useState } from "react";
+//import dict from "../data/dict.json";
+import { useState, useEffect } from "react";
 
 function MainPage() {
   const [isButtonClicked, setIsButtonClicked] = useState(false);
+  const [dict, setDict] = useState();
+
+  useEffect(() => {
+    fetch("http://sci-dict.lt:5000/api/dict", { method: "GET" })
+      .then((response) => response.json())
+      .then((data) => {
+        setDict(data);
+      })
+      .catch((error) => {
+        console.error("Error fetching data:", error);
+      });
+  }, []);
+
   return (
     <section>
       <p>Not reviewed by other people (only me) </p>
@@ -67,7 +80,7 @@ function MainPage() {
               <th>EN</th>
               <th>comments</th>
             </tr>
-            {dict.map((word) => (
+            {dict?.map((word) => (
               <DictWord
                 key={word.en + word.lt + word.comments}
                 lt={word.lt}
