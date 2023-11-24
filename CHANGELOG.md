@@ -10,8 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Added
 
 - Volumes (to persist db data)
+- If not deployed, pdf version.
 
 ## Fixed
+
+- .env.template not all vars
 
 ## Changed
 

@@ -4,6 +4,8 @@ When googling about math, transition to English easily!
 
 Check out the deployed website here: [sci-dict.lt](http://sci-dict.lt)
 
+If not deployed, this is the v1.1.0 pdf version of website [DOWNLOAD](https://github.com/naglissul/sci-dict-lt/files/13461074/Science.Dictionary.LT.-_.EN.pdf)
+
 ## How to use?
 
 Use Ctrl+F of "Find in page" to find your word or category.  
