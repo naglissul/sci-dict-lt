@@ -30,7 +30,10 @@ See mistakes? Know a word that's not here? Know a better translation?
 
 ### Run prod
 
-make .env file from .env.template - enter your db details there (in root dir and in server/ dir). For the first time deployment run docker-compose up. After each deploy/redeploy send a POST request to initiate db tables: POST http://sci-dict.lt:5000/api/init
+make .env file from .env.template - enter your db details there (in root dir and in server/ dir). For the first time deployment run docker-compose up. For the first deployment send a POST request to initiate db tables (later your set up volume should persist data): 
+```
+curl -X POST http://localhost:5000/api/init
+```
 
 New release:
 ```
