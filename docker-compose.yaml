@@ -28,6 +28,8 @@ services:
       - db
   db:
     image: postgres:latest
+    volumes: 
+      - ${POSTGRES_VOLUME_PATH}:/var/lib/postgresql/data
     container_name: sci-dict-db-c
     ports:
       - "${POSTGRES_PORT}:${POSTGRES_PORT}"
