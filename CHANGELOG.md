@@ -9,16 +9,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Added
 
-- Volumes (to persist db data)
-- If not deployed, pdf version.
-
 ## Fixed
-
-- .env.template not all vars
 
 ## Changed
 
 ## Removed
+
+## [1.1.1] 2023-12-02
+
+## Added
+
+- Volumes (to persist db data)
+- If not deployed, pdf version.
+- Full backup with descriptions
+
+## Fixed
+
+- .env.template not all vars
 
 ## [1.1.0] - 2023-10-27
 
@@ -74,7 +81,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial working deployed version
 
-[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.1.0...HEAD
+[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.1.1...HEAD
+[1.1.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.2...v1.1.0
 [1.0.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.0...v1.0.1

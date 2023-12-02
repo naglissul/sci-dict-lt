@@ -6,6 +6,8 @@ Check out the deployed website here: [sci-dict.lt](http://sci-dict.lt)
 
 If not deployed, this is the v1.1.0 pdf version of website [DOWNLOAD](https://github.com/naglissul/sci-dict-lt/files/13461074/Science.Dictionary.LT.-_.EN.pdf)
 
+The branch "dereleased" keeps the version v1.1.1 which for now will not be used and will be deleted, but in later versions will be used again.
+
 ## How to use?
 
 Use Ctrl+F of "Find in page" to find your word or category.  
@@ -32,23 +34,28 @@ See mistakes? Know a word that's not here? Know a better translation?
 
 ### Run prod
 
-make .env file from .env.template - enter your db details there (in root dir and in server/ dir). For the first time deployment run docker-compose up. For the first deployment send a POST request to initiate db tables (later your set up volume should persist data): 
+make .env file from .env.template - enter your db details there (in root dir and in server/ dir). For the first time deployment run docker-compose up. For the first deployment send a POST request to initiate db tables (later your set up volume should persist data):
+
 ```
 curl -X POST http://localhost:5000/api/init
 ```
 
 New release:
+
 ```
 git pull
 ./deploy redeploy
 ```
+
 In case of unsuccessful new release deployment:
+
 ```
 ./deploy rollback
 ```
 
 Small comment:  
 If access is denied when running bash script, try running this command:
+
 ```
 chmod +x deploy
 ```
