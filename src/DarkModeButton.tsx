@@ -2,7 +2,15 @@ import { Button } from "react-bootstrap";
 import { FiSun } from "react-icons/fi";
 import { BsMoonFill } from "react-icons/bs";
 
-export default function DarkModeButton({ isDarkMode, setIsDarkMode }) {
+interface DarkModeButtonProps {
+  isDarkMode: boolean;
+  setIsDarkMode: React.Dispatch<React.SetStateAction<boolean>>;
+}
+
+export default function DarkModeButton({
+  isDarkMode,
+  setIsDarkMode,
+}: DarkModeButtonProps) {
   return (
     <>
       <Button

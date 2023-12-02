@@ -1,4 +1,10 @@
-export default function DictWord({ lt, en, comments }) {
+interface DictWordProps {
+  lt?: string;
+  en?: string;
+  comments: string;
+}
+
+export default function DictWord({ lt, en, comments }: DictWordProps) {
   return (
     <tr>
       <td>{lt ? lt : <em>no translation</em>}</td>

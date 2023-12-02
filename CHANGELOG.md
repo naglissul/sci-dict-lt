@@ -13,7 +13,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Changed
 
+- The whole idea on how to sort word translations. Now will be in categories according to the literature they are used in.
+- Deployed with GitHub pages, instead of AWS with docker.
+- Migrate to Typescript.
+- Migrate to yarn (from npm).
+
 ## Removed
+
+- backend
+- not functioning jest tests
 
 ## [1.1.1] 2023-12-02
 

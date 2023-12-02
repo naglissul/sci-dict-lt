@@ -26,44 +26,13 @@ See mistakes? Know a word that's not here? Know a better translation?
 ### Tech
 
 - React JS
-- Docker
 - React-bootstrap
-- Postgresql
-- Express
-- Nginx
-
-### Run prod
-
-make .env file from .env.template - enter your db details there (in root dir and in server/ dir). For the first time deployment run docker-compose up. For the first deployment send a POST request to initiate db tables (later your set up volume should persist data):
-
-```
-curl -X POST http://localhost:5000/api/init
-```
-
-New release:
-
-```
-git pull
-./deploy redeploy
-```
-
-In case of unsuccessful new release deployment:
-
-```
-./deploy rollback
-```
-
-Small comment:  
-If access is denied when running bash script, try running this command:
-
-```
-chmod +x deploy
-```
+- GitHub Pages
 
 ### Run dev
 
-Just decipher ./deploy file... :D But, jokes aside, this is basic react app, express backend and postgresql database. I'm sure you will figure this out.
+Basic run for react app with npm.
 
 ## Future ideas
 
-There could be admin and user accounts. And categories (IMPORTANT to have categories, named after the specific syllabus/course that had these definitions but no english translation). And voting.
+Admin and user acc. User can provide a translation for the admin to review. Do that with API keys.
