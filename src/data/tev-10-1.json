@@ -1,0 +1,34 @@
+[
+  {
+    "lt": "procentinis didėjimas",
+    "en": "percent increase, percent change"
+  },
+  {
+    "lt": "procentinis mažėjimas",
+    "en": "percent decrease, percent change"
+  },
+  {
+    "lt": "palūkanos",
+    "en": "interest"
+  },
+  {
+    "lt": "palūkanų norma",
+    "en": "interest rate"
+  },
+  {
+    "lt": "sudėtinės palūkanos",
+    "en": "compound interest"
+  },
+  {
+    "lt": "paprastosios palūkanos",
+    "en": "simple interest"
+  },
+  {
+    "lt": "paskola",
+    "en": "loan"
+  },
+  {
+    "lt": "...",
+    "en": "..."
+  }
+]

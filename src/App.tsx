@@ -3,20 +3,35 @@ import "./App.css";
 import { useState } from "react";
 import DarkModeButton from "./DarkModeButton";
 import ArchivePage from "./archivePage/ArchivePage";
-import { Tab, Tabs } from "react-bootstrap";
+import { Dropdown, Tab, Tabs } from "react-bootstrap";
+import PrivacyComponent from "./components/PrivacyComponent";
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState<boolean>(true);
+  const [lang, setLang] = useState<string>("LT");
   return (
     <div
       data-bs-theme={`${isDarkMode && "dark"}`}
       className={`${isDarkMode && "bg-dark text-light"}`}
       style={{ minHeight: "100vh" }}
     >
+      <PrivacyComponent />
       <header>
-        <h1 className="title">
-          Science dictionary <br /> LT -{">"} EN
-        </h1>
+        <h1 className="title">sci-dict.org</h1>
+        <h1 className="subtitle">Mokslinis žodynas</h1>
+        <div className="subtitle">
+          <Dropdown>
+            <Dropdown.Toggle id="dropdown-basic" className="no-caret">
+              {lang}
+            </Dropdown.Toggle>
+            <Dropdown.Menu>
+              <Dropdown.Item>
+                NL <em>(coming soon)</em>
+              </Dropdown.Item>
+            </Dropdown.Menu>
+          </Dropdown>
+          -{">"} EN
+        </div>
         <div className="dark-button-container">
           <DarkModeButton
             isDarkMode={isDarkMode}

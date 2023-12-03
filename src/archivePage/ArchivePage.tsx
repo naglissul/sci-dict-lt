@@ -24,6 +24,7 @@ function ArchivePage() {
               <th>LT</th>
               <th>EN</th>
               <th>comments</th>
+              <th>paieškos frazė</th>
             </tr>
             {dict?.map((word) => (
               <DictWord

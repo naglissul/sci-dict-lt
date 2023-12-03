@@ -63,10 +63,29 @@ table {
 
 .title {
   text-align: center;
-  font-size: 40px;
+  font-size: 70px;
+}
+
+.subtitle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 26px;
 }
 
 footer {
   text-align: center;
   padding-bottom: 10px;
+}
+
+.no-caret {
+  font-size: 26px !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.no-caret::after {
+  display: none !important;
 }
