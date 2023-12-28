@@ -1,0 +1,26 @@
+{
+  "lt": [
+    {
+      "name": "Matematika tau+ 10 klasė 1 dalis. Leidykla TEV, 2012",
+      "id": "10kl-1"
+    },
+    {
+      "name": "11 kl. naujoji bendrojo ugdymo programa, nuo 2023-2024 m. m.",
+      "id": "11kl-1"
+    },
+    {
+      "name": "Matematika programų sistemoms I/III d. Dr. E. Mazėčio konspektas, 2021",
+      "id": "mps1"
+    },
+    {
+      "name": "Bendros sąvokos (be konkrečios literatūros)",
+      "id": "general"
+    }
+  ],
+  "nl": [
+    {
+      "name": "Getal en Ruimte VWO B Deel 3. Elfde editie. Noordhoff Uitgevers, 2015",
+      "id": "vwo-b3"
+    }
+  ]
+}

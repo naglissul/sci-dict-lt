@@ -1,10 +1,11 @@
-import MainPage from "./mainPage/MainPage";
 import "./App.css";
 import { useState } from "react";
 import DarkModeButton from "./DarkModeButton";
-import ArchivePage from "./archivePage/ArchivePage";
+import ArchivePage from "./LTPage/ArchivePage";
 import { Dropdown, Tab, Tabs } from "react-bootstrap";
 import PrivacyComponent from "./components/PrivacyComponent";
+import LTPage from "./LTPage/LTPage";
+import NLPage from "./NLPage/NLPage";
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState<boolean>(true);
@@ -18,15 +19,29 @@ function App() {
       <PrivacyComponent />
       <header>
         <h1 className="title">sci-dict.org</h1>
-        <h1 className="subtitle">Mokslinis žodynas</h1>
+        <h1 className="subtitle">
+          {lang === "LT"
+            ? "Mokslinis žodynas"
+            : lang === "NL"
+            ? "Wetenschappelijk woordenboek"
+            : "no-lang"}
+        </h1>
         <div className="subtitle">
           <Dropdown>
             <Dropdown.Toggle id="dropdown-basic" className="no-caret">
               {lang}
             </Dropdown.Toggle>
             <Dropdown.Menu>
-              <Dropdown.Item>
-                NL <em>(coming soon)</em>
+              <Dropdown.Item
+                onClick={() =>
+                  lang === "LT"
+                    ? setLang("NL")
+                    : lang === "NL"
+                    ? setLang("LT")
+                    : setLang("no-lang")
+                }
+              >
+                {lang === "LT" ? "NL" : lang === "NL" ? "LT" : "no-lang"}
               </Dropdown.Item>
             </Dropdown.Menu>
           </Dropdown>
@@ -43,13 +58,12 @@ function App() {
       <main>
         <aside></aside>
         <section>
-          <Tabs defaultActiveKey="main-page">
-            <Tab
-              eventKey="main-page"
-              title="Main"
-              style={{ marginTop: "20px" }}
-            >
-              <MainPage />
+          <Tabs defaultActiveKey="LT">
+            <Tab eventKey="LT" title="LT" style={{ marginTop: "20px" }}>
+              <LTPage />
+            </Tab>
+            <Tab eventKey="NL" title="NL" style={{ marginTop: "20px" }}>
+              <NLPage />
             </Tab>
             <Tab
               eventKey="archive-page"

@@ -1,0 +1,294 @@
+{
+  "10kl-1": [
+    {
+      "from": "procentai",
+      "en": "percent"
+    },
+    {
+      "from": "procentinis didėjimas",
+      "en": "percent increase, percent change"
+    },
+    {
+      "from": "procentinis mažėjimas",
+      "en": "percent decrease, percent change"
+    },
+    {
+      "from": "palūkanos",
+      "en": "interest"
+    },
+    {
+      "from": "palūkanų norma",
+      "en": "interest rate"
+    },
+    {
+      "from": "sudėtinės palūkanos",
+      "en": "compound interest"
+    },
+    {
+      "from": "paprastosios palūkanos",
+      "en": "simple interest"
+    },
+    {
+      "from": "paskola",
+      "en": "loan"
+    },
+
+    {
+      "from": "trupmeniniai raidiniai reiškiniai",
+      "en": "rational expressions"
+    },
+    {
+      "from": "prastinimas",
+      "en": "simplification"
+    },
+    {
+      "from": "skaidymas dauginamaisiais",
+      "en": "factor"
+    },
+    {
+      "from": "kvadratinio trinario šaknys",
+      "en": "trinomial roots"
+    },
+    {
+      "from": "neturi prasmės",
+      "en": "is undefined"
+    },
+    {
+      "from": "apibrėžimo sritis",
+      "en": "domain"
+    },
+
+    {
+      "from": "trupmeninės lygtys",
+      "en": "rational equations"
+    },
+    {
+      "from": "judėjimo uždaviniai, greičio uždaviniai",
+      "en": "rate word problems"
+    },
+    {
+      "from": "judėjimo upe uždaviniai",
+      "en": "upstream and downstream word problems"
+    },
+    {
+      "from": "darbo uždaviniai",
+      "en": "time and work word problems"
+    },
+    {
+      "from": "lygčių sistema",
+      "en": "system of equations"
+    },
+    {
+      "from": "keitimo būdas",
+      "en": "by substitution"
+    },
+    {
+      "from": "tiesinė lygtis",
+      "en": "linear equation"
+    },
+
+    {
+      "from": "nelygybių sistemos, kvadratinės nelygybės",
+      "en": "systems of inequalities, quadratic inequalities"
+    },
+    {
+      "from": "tiesinė nelygybė",
+      "en": "linear inequality"
+    },
+    {
+      "from": "tiesinių nelygybių sistema",
+      "en": "system of inequalities in one variable, compound linear inequality in 'and' notation, conjunction of inequalities"
+    },
+    {
+      "from": "dviguboji nelygybė",
+      "en": "double inequality, compound inequality with 'and' double inequality notation"
+    },
+    {
+      "from": "kvadratinių nelygybių sprendimas",
+      "en": "loan"
+    },
+    {
+      "from": "...",
+      "en": "..."
+    }
+  ],
+  "11kl-1": [
+    {
+      "from": "artinys",
+      "en": "approximation"
+    },
+    {
+      "from": "absoliučioji paklaida",
+      "en": "absolute error"
+    },
+    {
+      "from": "santykinė paklaida",
+      "en": "percent error, relative error"
+    }
+  ],
+  "mps1": [
+    {
+      "from": "tiesinių lygčių sistema",
+      "en": "system of linear equations"
+    },
+    {
+      "from": "Gauso metodas",
+      "en": "Gaussian elimination"
+    },
+    {
+      "from": "antros eilės kvadratinė matrica",
+      "en": "2x2 (square) matrix"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "trikampių taisyklė (3x3 matricos determinantas), Sariuso taisyklė",
+      "en": "Rule of Sarrus"
+    },
+    {
+      "from": "Laplaso teorema",
+      "en": "Laplace expansion"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "zodis",
+      "en": "word"
+    },
+    {
+      "from": "Kūnas",
+      "en": "Field"
+    },
+    {
+      "from": "Kėliniai",
+      "en": "Permutation group (one-line notation)",
+      "comments": "MPS"
+    },
+    {
+      "from": "Keitiniai",
+      "en": "Permutation group (two-line notation)",
+      "comments": "MPS"
+    },
+    {
+      "from": "Prasilenkiančios tiesės",
+      "en": "Skew lines",
+      "comments": "MPS"
+    },
+    {
+      "from": "mišrioji vektorių daugyba",
+      "en": "triple scalar/box product",
+      "comments": "MPS"
+    },
+    {
+      "from": "skaliarinė vektorių daugyba",
+      "en": "dot product",
+      "comments": "MPS, 11kl"
+    },
+    {
+      "from": "vektorinė vektorių daugyba",
+      "en": "cross product",
+      "comments": "MPS"
+    },
+    {
+      "from": "koši-buniakovsio nelygybė",
+      "en": "Cauchy-Schwarz-Buniakowsky inequality",
+      "comments": "MPS"
+    },
+    {
+      "from": "Kanoninės lygtys",
+      "en": "Symmetric equations :DD",
+      "comments": "MPS"
+    },
+    {
+      "from": "Matricos rangas",
+      "en": "matrix rank",
+      "comments": "related (?) to matrix column space, MPS, T.B."
+    },
+    {
+      "from": "",
+      "en": "matrix column space",
+      "comments": "related (?) to matrix rank, MPS, T.B."
+    },
+    { "from": "(ne-)apibrėžta (lygčių sistema)", "en": "", "comments": "MPS" },
+    {
+      "from": "(ne-)suderinta (lygčių sistema)",
+      "en": "(in-)consistent",
+      "comments": "MPS"
+    }
+  ],
+  "general": [
+    {
+      "from": "trupmena",
+      "en": "fraction"
+    },
+    {
+      "from": "skaitiklis",
+      "en": "numerator"
+    },
+    {
+      "from": "vardiklis",
+      "en": "denominator"
+    },
+    {
+      "from": "daugianaris",
+      "en": "polynomial"
+    },
+    {
+      "from": "šaknis",
+      "en": "root, radical"
+    },
+    {
+      "from": "reiškinys",
+      "en": "expression"
+    },
+    {
+      "from": "bendras",
+      "en": "common"
+    },
+    {
+      "from": "sudėties būdas",
+      "en": "elimination method"
+    }
+  ],
+  "vwo-b3": [
+    { "from": "afgeleide", "en": "derivative" },
+    { "from": "rekenregels voor logaritmen", "en": "logarithmic properties" }
+  ]
+}

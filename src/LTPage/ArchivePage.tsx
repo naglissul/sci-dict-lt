@@ -1,6 +1,6 @@
 import { Alert, Table } from "react-bootstrap";
 import DictWord from "../components/DictWord";
-import dict from "../data/dict-archive.json";
+import dict from "../data/archive.json";
 
 function ArchivePage() {
   return (
@@ -29,9 +29,10 @@ function ArchivePage() {
             {dict?.map((word) => (
               <DictWord
                 key={word.en + word.lt + word.comments}
-                lt={word.lt}
+                from={word.lt}
                 en={word.en}
                 comments={word.comments}
+                lang="lt"
               />
             ))}
           </tbody>

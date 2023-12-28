@@ -1,9 +1,13 @@
 import { Alert, Table, Card } from "react-bootstrap";
-import DictSection from "./DictSection";
+import DictSection from "../components/DictSection";
 
-function MainPage() {
+function NLPage() {
   return (
     <>
+      <p>
+        This is more of a "how to google" than a "dictionary of scientific
+        terms".
+      </p>
       <p>
         Translations are not reviewed - the purpose of this is just to give a
         general idea of translation, so it would be possible to "google out"
@@ -45,9 +49,9 @@ function MainPage() {
         </Card.Body>
       </Card>
       <hr />
-      <DictSection />
+      <DictSection lang="nl" />
     </>
   );
 }
 
-export default MainPage;
+export default NLPage;
