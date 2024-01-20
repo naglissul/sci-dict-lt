@@ -102,14 +102,6 @@
     {
       "from": "dviguboji nelygybė",
       "en": "double inequality, compound inequality with 'and' double inequality notation"
-    },
-    {
-      "from": "matricos minoras",
-      "en": "matrix minor"
-    },
-    {
-      "from": "matricos adjunktas",
-      "en": "matrix cofactor"
     }
   ],
   "11kl-1": [
@@ -195,6 +187,14 @@
     {
       "from": "(ne-)suderinta (lygčių sistema)",
       "en": "(in-)consistent"
+    },
+    {
+      "from": "matricos minoras",
+      "en": "matrix minor"
+    },
+    {
+      "from": "matricos adjunktas",
+      "en": "matrix cofactor"
     }
   ],
   "general": [
