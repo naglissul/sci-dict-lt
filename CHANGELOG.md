@@ -13,6 +13,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Changed
 
+## Removed
+
+## [2.0.0] - 2024-01-20
+
+## Added
+
+- Search bar(s)
+
+## Changed
+
 - The whole idea on how to sort word translations. Now will be in categories according to the literature they are used in.
 - Deployed with GitHub pages, instead of AWS with docker.
 - Migrate to Typescript.
@@ -89,7 +99,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial working deployed version
 
-[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v1.1.1...HEAD
+[unreleased]: https://github.com/naglissul/sci-dict-lt/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/naglissul/sci-dict-lt/compare/v1.1.1...v2.0.0
 [1.1.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.2...v1.1.0
 [1.0.1]: https://github.com/naglissul/sci-dict-lt/compare/v1.0.1...v1.0.2
