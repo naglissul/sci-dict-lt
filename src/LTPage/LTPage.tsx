@@ -1,24 +1,24 @@
-import { Alert, Table, Card } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import DictSection from "../components/DictSection";
 
 function LTPage() {
   return (
     <>
       <p>
-        This is more of a "how to google" than a "dictionary of scientific
-        terms".
+        Čia yra daugiau "kaip googlinti" gidas, nei tikslus "mokslinių terminų
+        žodynas".
       </p>
       <p>
-        Translations are not reviewed - the purpose of this is just to give a
-        general idea of translation, so it would be possible to "google out"
-        related content with legit translations.
+        Vertimai nėra patvirtinami - šio puslapio tikslas yra tik pateikti
+        bendrą idėją vertimams, kad būtų galima "išgooglinti" susijusią
+        informaciją su patvirtintais vertimais.
       </p>
       <p>
-        For a new word / category (for the words from a specific literature) or
-        a better translation suggestions please email me{" "}
+        Naujam žodžiui / kategorijai (iš konkrečios literatūros) ar geresniems
+        vertimų pasiūlymams, prašau rašyti{" "}
         <a href="mailto:naglis.suliokas@gmail.com">naglis.suliokas@gmail.com</a>{" "}
-        or create Pull request on{" "}
-        <a href="https://github.com/naglissul/sci-dict-lt">GitHub</a>
+        arba sukurti Pull Request{" "}
+        <a href="https://github.com/naglissul/sci-dict-lt">GitHub'e</a>
       </p>
 
       <Card style={{ marginBottom: "15px" }}>

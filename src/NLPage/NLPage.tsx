@@ -1,11 +1,26 @@
-import { Alert, Table, Card } from "react-bootstrap";
 import DictSection from "../components/DictSection";
 
 function NLPage() {
   return (
     <>
       <p>
-        This is more of a "how to google" than a "dictionary of scientific
+        Dit is meer een 'hoe te googlen'-gids dan een 'woordenboek met
+        wetenschappelijke termen'.
+      </p>
+      <p>
+        Vertalingen worden niet beoordeeld. Het doel hiervan is alleen maar om
+        een algemeen idee van de vertaling te geven, zodat het mogelijk zou zijn
+        om gerelateerde inhoud te "googlen" met legitieme vertalingen.
+      </p>
+      <p>
+        Voor een nieuw woord/categorie (voor de woorden uit een specifieke
+        literatuur) of betere vertaalsuggesties kunt u mij een e-mail sturen{" "}
+        <a href="mailto:naglis.suliokas@gmail.com">naglis.suliokas@gmail.com</a>{" "}
+        of maken een Pull Request op{" "}
+        <a href="https://github.com/naglissul/sci-dict-lt">GitHub</a>
+      </p>
+      {/* <p>
+        This is more of a "how to google" guide rather than a "dictionary of scientific
         terms".
       </p>
       <p>
@@ -19,35 +34,7 @@ function NLPage() {
         <a href="mailto:naglis.suliokas@gmail.com">naglis.suliokas@gmail.com</a>{" "}
         or create Pull request on{" "}
         <a href="https://github.com/naglissul/sci-dict-lt">GitHub</a>
-      </p>
-
-      <Card style={{ marginBottom: "15px" }}>
-        <Card.Body>
-          <Card.Title>
-            <strong>
-              Piniginis parėmimas, kad galėčiau tęsti darbą, tobulinant puslapį:
-            </strong>
-          </Card.Title>
-          <Card.Text
-            style={{
-              paddingTop: "10px",
-              paddingLeft: "30px",
-            }}
-          >
-            <li>
-              PayPal donation – gan daug mokesčių PayPal pasiima:{" "}
-              <a
-                href="https://www.paypal.com/donate/?hosted_button_id=86R4K9Y6BLSXA"
-                target="_blank"
-                rel="noreferrer"
-              >
-                donation linkas
-              </a>
-            </li>
-            <li>Revolut pavedimu: Naglis Šuliokas LT943250092929077836</li>
-          </Card.Text>
-        </Card.Body>
-      </Card>
+      </p> */}
       <hr />
       <DictSection lang="nl" />
     </>

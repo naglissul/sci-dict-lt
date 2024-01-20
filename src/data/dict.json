@@ -104,12 +104,12 @@
       "en": "double inequality, compound inequality with 'and' double inequality notation"
     },
     {
-      "from": "kvadratinių nelygybių sprendimas",
-      "en": "loan"
+      "from": "matricos minoras",
+      "en": "matrix minor"
     },
     {
-      "from": "...",
-      "en": "..."
+      "from": "matricos adjunktas",
+      "en": "matrix cofactor"
     }
   ],
   "11kl-1": [
@@ -140,10 +140,6 @@
       "en": "2x2 (square) matrix"
     },
     {
-      "from": "zodis",
-      "en": "word"
-    },
-    {
       "from": "trikampių taisyklė (3x3 matricos determinantas), Sariuso taisyklė",
       "en": "Rule of Sarrus"
     },
@@ -152,105 +148,53 @@
       "en": "Laplace expansion"
     },
     {
-      "from": "zodis",
-      "en": "word"
+      "from": "kūnas",
+      "en": "field"
     },
     {
-      "from": "zodis",
-      "en": "word"
+      "from": "kėliniai",
+      "en": "permutation group (one-line notation)"
     },
     {
-      "from": "zodis",
-      "en": "word"
-    },
-
-    {
-      "from": "zodis",
-      "en": "word"
+      "from": "keitiniai",
+      "en": "permutation group (two-line notation)"
     },
     {
-      "from": "zodis",
-      "en": "word"
-    },
-    {
-      "from": "zodis",
-      "en": "word"
-    },
-    {
-      "from": "zodis",
-      "en": "word"
-    },
-    {
-      "from": "zodis",
-      "en": "word"
-    },
-    {
-      "from": "zodis",
-      "en": "word"
-    },
-    {
-      "from": "zodis",
-      "en": "word"
-    },
-    {
-      "from": "Kūnas",
-      "en": "Field"
-    },
-    {
-      "from": "Kėliniai",
-      "en": "Permutation group (one-line notation)",
-      "comments": "MPS"
-    },
-    {
-      "from": "Keitiniai",
-      "en": "Permutation group (two-line notation)",
-      "comments": "MPS"
-    },
-    {
-      "from": "Prasilenkiančios tiesės",
-      "en": "Skew lines",
-      "comments": "MPS"
+      "from": "prasilenkiančios tiesės",
+      "en": "skew lines"
     },
     {
       "from": "mišrioji vektorių daugyba",
-      "en": "triple scalar/box product",
-      "comments": "MPS"
+      "en": "triple scalar/box product"
     },
     {
       "from": "skaliarinė vektorių daugyba",
-      "en": "dot product",
-      "comments": "MPS, 11kl"
+      "en": "dot product"
     },
     {
       "from": "vektorinė vektorių daugyba",
-      "en": "cross product",
-      "comments": "MPS"
+      "en": "cross product"
     },
     {
       "from": "koši-buniakovsio nelygybė",
-      "en": "Cauchy-Schwarz-Buniakowsky inequality",
-      "comments": "MPS"
+      "en": "Cauchy-Schwarz-Buniakowsky inequality"
     },
     {
-      "from": "Kanoninės lygtys",
-      "en": "Symmetric equations :DD",
-      "comments": "MPS"
+      "from": "kanoninės lygtys",
+      "en": "symmetric equations :DD"
     },
     {
-      "from": "Matricos rangas",
-      "en": "matrix rank",
-      "comments": "related (?) to matrix column space, MPS, T.B."
+      "from": "matricos rangas",
+      "en": "matrix rank"
     },
     {
-      "from": "",
-      "en": "matrix column space",
-      "comments": "related (?) to matrix rank, MPS, T.B."
+      "from": "matricos rangas (?)",
+      "en": "matrix column space (?)"
     },
-    { "from": "(ne-)apibrėžta (lygčių sistema)", "en": "", "comments": "MPS" },
+    { "from": "(ne-)apibrėžta (lygčių sistema)", "en": "" },
     {
       "from": "(ne-)suderinta (lygčių sistema)",
-      "en": "(in-)consistent",
-      "comments": "MPS"
+      "en": "(in-)consistent"
     }
   ],
   "general": [
@@ -285,6 +229,18 @@
     {
       "from": "sudėties būdas",
       "en": "elimination method"
+    },
+    {
+      "from": "perstatomumo dėsnis",
+      "en": "commutative law"
+    },
+    {
+      "from": "jungiamumo dėsnis",
+      "en": "associativity law"
+    },
+    {
+      "from": "skirstomumo dėsnis",
+      "en": "distributivity law"
     }
   ],
   "vwo-b3": [
