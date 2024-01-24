@@ -11,8 +11,8 @@ type DictType = {
 const dict: DictType = dict_import;
 
 type LiteratureListType = {
-  lt: { name: string; id: string }[];
-  nl: { name: string; id: string }[];
+  lt: { name: string; id: string; source?: string }[];
+  nl: { name: string; id: string; source?: string }[];
 };
 
 const literature_list: LiteratureListType = literature_list_import;
@@ -80,6 +80,11 @@ export default function DictSection({ lang }: IDictSectionProps) {
             <Accordion.Item eventKey={book.id} key={book.id}>
               <Accordion.Header>
                 <h2>{book.name}</h2>
+                {book.source && (
+                  <a href={book.source} style={{ marginLeft: "10px" }}>
+                    Source
+                  </a>
+                )}
               </Accordion.Header>
               <Accordion.Body>
                 <FormControl

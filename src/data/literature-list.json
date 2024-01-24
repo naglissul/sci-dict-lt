@@ -5,12 +5,22 @@
       "id": "10kl-1"
     },
     {
-      "name": "11 kl. naujoji bendrojo ugdymo programa, nuo 2023-2024 m. m.",
-      "id": "11kl-1"
+      "name": "11 kl. naujoji matematikos bendrojo ugdymo programa, nuo 2023-2024 m. m.",
+      "id": "11kl-1",
+      "source": "https://www.emokykla.lt/bendrosios-programos/visos-bendrosios-programos/5?ach-1=6&ach-2=6&ach-3=6&clases=3677&ct=6&educations=&st=3&types=7"
     },
     {
       "name": "Matematika programų sistemoms I/III d. Dr. E. Mazėčio konspektas, 2021",
       "id": "mps1"
+    },
+    {
+      "name": "DI sąvokų žodynėlis. Doc. dr. Linas Petkevičius, 2023",
+      "id": "di",
+      "source": "https://klevas.mif.vu.lt/~linp/page/savokos.html"
+    },
+    {
+      "name": "English-Lithuanian HCI glossary. Doc. dr. Kristina Lapin, 2024",
+      "id": "hci"
     },
     {
       "name": "Bendros sąvokos (be konkrečios literatūros)",
