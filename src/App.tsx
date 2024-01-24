@@ -6,6 +6,7 @@ import { Dropdown, Tab, Tabs } from "react-bootstrap";
 import PrivacyComponent from "./components/PrivacyComponent";
 import LTPage from "./LTPage/LTPage";
 import NLPage from "./NLPage/NLPage";
+import LTContributePage from "./LTContributePage";
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState<boolean>(true);
@@ -71,6 +72,13 @@ function App() {
               style={{ marginTop: "20px" }}
             >
               <ArchivePage />
+            </Tab>
+            <Tab
+              eventKey="contribute-page"
+              title="LT Prisidėk"
+              style={{ marginTop: "20px" }}
+            >
+              <LTContributePage />
             </Tab>
           </Tabs>
         </section>
