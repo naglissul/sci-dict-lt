@@ -9,7 +9,7 @@ import {
   onValue,
   runTransaction,
 } from "firebase/database";
-import profanityList from "./profanity-list.json";
+import { profanityCheck, validateLTShort } from "./inputValidation";
 
 const firebaseConfig = {
   apiKey: "AIzaSyCmOEHthPkRpM7RO40qJUvDpqa9fpUwUDk",
@@ -26,16 +26,6 @@ const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
 const wordsRef = ref(db, "words/");
 
-const profanityCheck = (word: string) => {
-  let isProfane = true;
-  profanityList.forEach((profanity) => {
-    if (word.toLowerCase().includes(profanity.toLowerCase())) {
-      isProfane = false;
-    }
-  });
-  return isProfane;
-};
-
 export default function LTContributePage() {
   const [input, setInput] = useState<{
     from?: string;
@@ -50,6 +40,7 @@ export default function LTContributePage() {
       en?: string;
       literature: string;
       likes: number;
+      isApproved: boolean;
     }[]
   >([]);
 
@@ -74,10 +65,13 @@ export default function LTContributePage() {
     if (
       !profanityCheck(input?.literature) ||
       !profanityCheck(input?.from) ||
-      (input.en && !profanityCheck(input?.en))
+      (input.en && !profanityCheck(input?.en)) ||
+      !validateLTShort(input?.from) ||
+      !validateLTShort(input?.literature) ||
+      (input.en && !validateLTShort(input?.en))
     ) {
       alert(
-        "Oof... profanity, dude... Yep. You're banned.\nUnless you think this was a mistake, then email me"
+        "Nepraėjo validacijos. Jei manai, kad tai klaida, parašyk man į emailą"
       );
       return;
     }
@@ -89,8 +83,8 @@ export default function LTContributePage() {
       en: input?.en,
       literature: input?.literature,
       likes: 0,
+      isApproved: false,
     });
-    console.log(input);
     alert("Pateikta, ačiū!");
   };
 
@@ -111,18 +105,14 @@ export default function LTContributePage() {
       <p>
         Čia galite pateikti naujus žodžius su/be vertimų (būtina paminėti
         literatūrą, gali būti ir ne iš dabartinio sąrašo) - žodžiai bus
-        peržiūrimi admino (Naglio Šulioko) ir patvirtinami bei įtraukiami į
-        ilgalaikį sąrašą (arba nepatvirtinami).
+        peržiūrimi admino (Naglio Šulioko) pirmiausia nuo nepadoraus ir
+        netinkamo teksto, tuomet rodomi lentelėje žemiau ir tada patvirtinami
+        bei įtraukiami į ilgalaikį sąrašą (arba nepatvirtinami).
       </p>
       <p>
         Taip pat galite like'inti kitų žmonių parašytus žodžius su/be vertimų
         (kolkas tai tik atkreips dėmesį, vėliau bus padaryta sistema, kuri
         automatiškai patvirtins vertimus su daug like'ų).
-      </p>
-      <p>
-        Kadangi dar nėra labai griežtos automatinės validacijos, nepadorų tekstą
-        prašau reportinti paštu{" "}
-        <a href="mailto:naglis.suliokas@gmail.com">naglis.suliokas@gmail.com</a>
       </p>
       <hr />
       <h3 style={{ marginTop: "20px", marginBottom: "20px" }}>
@@ -154,11 +144,12 @@ export default function LTContributePage() {
           style={{ marginBottom: "10px", border: "2px solid #1383bf" }}
         />
         <Button variant="primary" onClick={sendSubmitData}>
-          Pateikti (bus matoma viešai)
+          Pateikti admino peržiūrai
         </Button>
       </Form>
       <h3 style={{ marginTop: "20px", marginBottom: "20px" }}>
-        Kitų pateikti žodžiai, dar nepatvirtinti admino (galima like'inti)
+        Kitų pateikti žodžiai, praėję pirminę admino validaciją, dar neįtraukti
+        į ilgalaikį sąrašą (galima like'inti)
       </h3>
       {words.length < 1 ? (
         "Nėra žodžių"
@@ -173,17 +164,22 @@ export default function LTContributePage() {
                 <th>Like'ai</th>
                 <th>Nusiųsti like'ą</th>
               </tr>
-              {words?.map((word) => (
-                <tr key={word.id}>
-                  <td>{word.from ? word.from : <em>nėra vertimo</em>}</td>
-                  <td>{word.en ? word.en : <em>no translation</em>}</td>
-                  <td>{word.literature}</td>
-                  <th>{word.likes}</th>
-                  <th>
-                    <Button onClick={() => incrementLike(word)}>Like</Button>
-                  </th>
-                </tr>
-              ))}
+              {words?.map(
+                (word) =>
+                  word.isApproved && (
+                    <tr key={word.id}>
+                      <td>{word.from ? word.from : <em>nėra vertimo</em>}</td>
+                      <td>{word.en ? word.en : <em>no translation</em>}</td>
+                      <td>{word.literature}</td>
+                      <th>{word.likes}</th>
+                      <th>
+                        <Button onClick={() => incrementLike(word)}>
+                          Like
+                        </Button>
+                      </th>
+                    </tr>
+                  )
+              )}
             </tbody>
           </Table>
         </div>
