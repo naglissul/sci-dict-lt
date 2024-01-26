@@ -9,6 +9,7 @@ import {
   onValue,
   runTransaction,
 } from "firebase/database";
+import profanityList from "./profanity-list.json";
 
 const firebaseConfig = {
   apiKey: "AIzaSyCmOEHthPkRpM7RO40qJUvDpqa9fpUwUDk",
@@ -24,6 +25,16 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
 const wordsRef = ref(db, "words/");
+
+const profanityCheck = (word: string) => {
+  let isProfane = true;
+  profanityList.forEach((profanity) => {
+    if (word.toLowerCase().includes(profanity.toLowerCase())) {
+      isProfane = false;
+    }
+  });
+  return isProfane;
+};
 
 export default function LTContributePage() {
   const [input, setInput] = useState<{
@@ -60,6 +71,16 @@ export default function LTContributePage() {
       alert("Literatūra ir lietuviška frazė yra privalomi");
       return;
     }
+    if (
+      !profanityCheck(input?.literature) ||
+      !profanityCheck(input?.from) ||
+      (input.en && !profanityCheck(input?.en))
+    ) {
+      alert(
+        "Oof... profanity, dude... Yep. You're banned.\nUnless you think this was a mistake, then email me"
+      );
+      return;
+    }
 
     const newWordRef = push(wordsRef);
     set(newWordRef, {
@@ -69,6 +90,7 @@ export default function LTContributePage() {
       literature: input?.literature,
       likes: 0,
     });
+    console.log(input);
     alert("Pateikta, ačiū!");
   };
 
@@ -141,28 +163,30 @@ export default function LTContributePage() {
       {words.length < 1 ? (
         "Nėra žodžių"
       ) : (
-        <Table striped bordered hover>
-          <tbody>
-            <tr>
-              <th>LT</th>
-              <th>EN</th>
-              <th>Literatūra</th>
-              <th>Like'ai</th>
-              <th>Nusiųsti like'ą</th>
-            </tr>
-            {words?.map((word) => (
-              <tr key={word.id}>
-                <td>{word.from ? word.from : <em>nėra vertimo</em>}</td>
-                <td>{word.en ? word.en : <em>no translation</em>}</td>
-                <td>{word.literature}</td>
-                <th>{word.likes}</th>
-                <th>
-                  <Button onClick={() => incrementLike(word)}>Like</Button>
-                </th>
+        <div className="table-container">
+          <Table striped bordered hover>
+            <tbody>
+              <tr>
+                <th>LT</th>
+                <th>EN</th>
+                <th>Literatūra</th>
+                <th>Like'ai</th>
+                <th>Nusiųsti like'ą</th>
               </tr>
-            ))}
-          </tbody>
-        </Table>
+              {words?.map((word) => (
+                <tr key={word.id}>
+                  <td>{word.from ? word.from : <em>nėra vertimo</em>}</td>
+                  <td>{word.en ? word.en : <em>no translation</em>}</td>
+                  <td>{word.literature}</td>
+                  <th>{word.likes}</th>
+                  <th>
+                    <Button onClick={() => incrementLike(word)}>Like</Button>
+                  </th>
+                </tr>
+              ))}
+            </tbody>
+          </Table>
+        </div>
       )}
     </>
   );
