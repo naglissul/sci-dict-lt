@@ -23,6 +23,10 @@
       "id": "hci"
     },
     {
+      "name": "Diferencialinės lygtys",
+      "id": "differential-equations"
+    },
+    {
       "name": "Bendros sąvokos (be konkrečios literatūros)",
       "id": "general"
     }
