@@ -241,6 +241,14 @@
     {
       "from": "skirstomumo dėsnis",
       "en": "distributivity law"
+    },
+    {
+      "from": "Hyper-paviršius",
+      "en": "Hypersurface"
+    },
+    {
+      "from": "Pastovus koeficientas",
+      "en": "Constant coefficient"
     }
   ],
   "di": [
@@ -1513,6 +1521,28 @@
     {
       "from": "Vedlys",
       "en": "Wizard"
+    }
+  ],
+  "differential-equations": [
+    {
+      "from": "Homogeninis(-ė)",
+      "en": "Homogeneous"
+    },
+    {
+      "from": "Atskirasis sprendinys",
+      "en": "Particular solution"
+    },
+    {
+      "from": "Bendrasis sprendinys",
+      "en": "General solution"
+    },
+    {
+      "from": "Fundamentalioji lygties sprendinių sistema",
+      "en": "Fundamental set of solutions"
+    },
+    {
+      "from": "Konstantų variavimo metodas",
+      "en": "Method of undetermined coefficients"
     }
   ],
   "vwo-b3": [
