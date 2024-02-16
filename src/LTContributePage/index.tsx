@@ -164,21 +164,34 @@ export default function LTContributePage() {
                 <th>Like'ai</th>
                 <th>Nusiųsti like'ą</th>
               </tr>
-              {words?.map(
-                (word) =>
-                  word.isApproved && (
-                    <tr key={word.id}>
-                      <td>{word.from ? word.from : <em>nėra vertimo</em>}</td>
-                      <td>{word.en ? word.en : <em>no translation</em>}</td>
-                      <td>{word.literature}</td>
-                      <th>{word.likes}</th>
-                      <th>
-                        <Button onClick={() => incrementLike(word)}>
-                          Like
-                        </Button>
-                      </th>
-                    </tr>
-                  )
+              {words?.map((word) =>
+                word.isApproved ? (
+                  <tr key={word.id}>
+                    <td>{word.from ? word.from : <em>nėra vertimo</em>}</td>
+                    <td>{word.en ? word.en : <em>no translation</em>}</td>
+                    <td>{word.literature}</td>
+                    <th>{word.likes}</th>
+                    <th>
+                      <Button onClick={() => incrementLike(word)}>Like</Button>
+                    </th>
+                  </tr>
+                ) : (
+                  <tr key={word.id}>
+                    <td style={{ color: "grey" }}>
+                      Žodis, pateiktas validacijai
+                    </td>
+                    <td style={{ color: "grey" }}>
+                      Žodis, pateiktas validacijai
+                    </td>
+                    <td style={{ color: "grey" }}>
+                      Žodis, pateiktas validacijai
+                    </td>
+                    <th style={{ color: "grey" }}>0</th>
+                    <th>
+                      <Button disabled>Like</Button>
+                    </th>
+                  </tr>
+                )
               )}
             </tbody>
           </Table>
