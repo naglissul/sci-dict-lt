@@ -253,1120 +253,1328 @@
   ],
   "di": [
     {
-      "from": "Adaptyvi tiesioginė normalizacija",
-      "en": "Adaptive Instance Normalization (AdaIN)"
+      "en": "Action",
+      "from": "Veiksmas"
     },
     {
-      "from": "Pranašumas",
-      "en": "Advantage"
+      "en": "Adaptive Instance Normalization (AdaIN)",
+      "from": "Adaptyvi tiesioginė normalizacija"
     },
     {
-      "from": "Sudėtingas aktoriaus-kritiko modelis",
-      "en": "Advantage Actor Critic model"
+      "en": "Advantage",
+      "from": "Pranašumas"
     },
     {
-      "from": "Tikslumas",
-      "en": "Accuracy"
+      "en": "Advantage Actor Critic model",
+      "from": "Sudėtingas aktoriaus-kritiko modelis"
     },
     {
-      "from": "Aktyvacijos funkcija",
-      "en": "Activation function"
+      "en": "Accuracy",
+      "from": "Tikslumas"
     },
     {
-      "from": "Aktyvacijų žemėlapis",
-      "en": "Activation map"
+      "en": "Activation function",
+      "from": "Aktyvacijos funkcija"
     },
     {
-      "from": "Strategijos &#960; veiksmo reikšmių funkcija",
-      "en": "Action-value function for policy &#960;"
+      "en": "Activation map",
+      "from": "Aktyvacijų žemėlapis"
     },
     {
-      "from": "Afininė transformacija",
-      "en": "Affine transform"
+      "en": "Action-value function for policy &#960;",
+      "from": "Strategijos &#960; veiksmo reikšmių funkcija"
     },
     {
-      "from": "Atraminiai stačiakampiai",
-      "en": "Anchors"
+      "en": "AI agent",
+      "from": "DI agentas"
     },
     {
-      "from": "Dirbtinis intelektas",
-      "en": "Artificial Intelligence"
+      "en": "AI bias and fairness",
+      "from": "DI šališkumas ir teisingumas"
     },
     {
-      "from": "Dėmesio sutelkimo transformacija/mechanizmas",
-      "en": "Attention mechanism"
+      "en": "AI component",
+      "from": "DI komponentas"
     },
     {
-      "from": "Sutelkimo vidurkinant sluoksnis",
-      "en": "Average pooling layer"
+      "en": "AI developer",
+      "from": "DI kūrėjas"
     },
     {
-      "from": "Vidutinis preciziškumas",
-      "en": "Average precision"
+      "en": "AI ecosystem",
+      "from": "DI ekosistema"
     },
     {
-      "from": "Fundamentas",
-      "en": "Backbone"
+      "en": "AI evaluator",
+      "from": "DI vertintojas"
     },
     {
-      "from": "Duomenų rinkinys",
-      "en": "Batch"
+      "en": "AI explainability",
+      "from": "DI paaiškinamumas"
     },
     {
-      "from": "Rinkinio normalizacija",
-      "en": "Batch normalization"
+      "en": "AI function",
+      "from": "DI paskirtis"
     },
     {
-      "from": "Atgalinio sklidimo algoritmas",
-      "en": "Backpropagation algorithm"
+      "en": "AI platform provider",
+      "from": "DI platformos teikėjas"
     },
     {
-      "from": "Atgalinis sklidimas laike",
-      "en": "Backpropagation through time (BPTT)"
+      "en": "AI predictability",
+      "from": "DI prognozuojamumas"
     },
     {
-      "from": "Dvitiesinis atsitiktinis atrinkimas",
-      "en": "Bilinear sampling"
+      "en": "AI provider",
+      "from": "DI teikėjas"
     },
     {
-      "from": "Dvikryptis ilgos trumpalaikės atminties modelis",
-      "en": "Bidirectional long short-term memory"
+      "en": "AI reliability",
+      "from": "DI patikimumas"
     },
     {
-      "from": "Kūno sanariai",
-      "en": "Body joints"
+      "en": "AI resilience",
+      "from": "DI atsparumas"
     },
     {
-      "from": "Stačiakampis",
-      "en": "Bounding box"
+      "en": "AI robustness",
+      "from": "DI robastiškumas"
     },
     {
-      "from": "Laisvasis narys",
-      "en": "Bias"
+      "en": "AI stakeholder roles",
+      "from": "DI suiteresuotųjų šalių vaidmenys"
     },
     {
-      "from": "Dviejų klasių klasifikavimas",
-      "en": "Binary classification"
+      "en": "AI subject",
+      "from": "DI subjektas"
     },
     {
-      "from": "Kapsulinis neuroninis tinklas",
-      "en": "Capsule neural network"
+      "en": "AI system integrator",
+      "from": "DI sistemos integruotojas"
     },
     {
-      "from": "Pakopinis klasifikatorius",
-      "en": "Cascade Classifier"
+      "en": "AI system life cycle",
+      "from": "DI sistemos gyvavimo ciklas"
     },
     {
-      "from": "Priežastingumo analizavimas",
-      "en": "Causal inference"
+      "en": "AI system life cycle model",
+      "from": "DI sistemos gyvavimo ciklo modelis"
     },
     {
-      "from": "Teksto skaidymas į teksto vienetus procesas teksto vienetams priskiriant unikalius teksto simbolius.",
-      "en": "Character-based tokenization"
+      "en": "AI system life cycle stages and processes",
+      "from": "DI sistemos gyvavimo ciklo būsenos ir procesai"
     },
     {
-      "from": "Cikliškai pastovus",
-      "en": "Cyclic consistency"
+      "en": "AI transparency",
+      "from": "DI skaidrumas"
     },
     {
-      "from": "Kompiuterinės regos",
-      "en": "Computer vision"
+      "en": "AI users",
+      "from": "DI naudotojai"
     },
     {
-      "from": "Pasikliovimo žemėlapis",
-      "en": "Confidence map"
+      "en": "AI verification and validation",
+      "from": "DI verifikavimas ir validavimas"
     },
     {
-      "from": "Klasifikavimo lentelė",
-      "en": "Confusion matrix"
+      "en": "Affine transform",
+      "from": "Afininė transformacija"
     },
     {
-      "from": "Turinio paveikslas",
-      "en": "Content image"
+      "en": "Anchors",
+      "from": "Atraminiai stačiakampiai"
     },
     {
-      "from": "Konvoliucinis sluoksnis",
-      "en": "Convolutional layer"
+      "en": "Artificial Intelligence",
+      "from": "Dirbtinis intelektas"
     },
     {
-      "from": "Konvoliuciniai neuroniniai tinklai",
-      "en": "Convolutional neural networks"
+      "en": "Attention mechanism",
+      "from": "Dėmesio sutelkimo transformacija/mechanizmas"
     },
     {
-      "from": "Konvoliucijos operacija",
-      "en": "Convolutional operation"
+      "en": "Average pooling layer",
+      "from": "Sutelkimo vidurkinant sluoksnis"
     },
     {
-      "from": "Tęstinis mokymasis",
-      "en": "Continual learning"
+      "en": "Average precision",
+      "from": "Vidutinis preciziškumas"
     },
     {
-      "from": "Kaštų funkcija",
-      "en": "Cost function"
+      "en": "Backbone",
+      "from": "Fundamentas"
     },
     {
-      "from": "Apkarpyta surogatinė funkcija",
-      "en": "Clipped Surrogate function"
+      "en": "Batch",
+      "from": "Duomenų rinkinys"
     },
     {
-      "from": "Kryžminė entropija",
-      "en": "Cross-entropy"
+      "en": "Batch normalization",
+      "from": "Rinkinio normalizacija"
     },
     {
-      "from": "Duomenų augmentacijos",
-      "en": "Data augmentation"
+      "en": "Backpropagation algorithm",
+      "from": "Atgalinio sklidimo algoritmas"
     },
     {
-      "from": "Praretintos konvoliucijos operacija",
-      "en": "Dilated convolution"
+      "en": "Backpropagation through time (BPTT)",
+      "from": "Atgalinis sklidimas laike"
     },
     {
-      "from": "Orientuotas",
-      "en": "Directed"
+      "en": "bias",
+      "from": "šališkumas"
     },
     {
-      "from": "Diskontuotas ateities atlygis",
-      "en": "Discounted future reward"
+      "en": "Bilinear sampling",
+      "from": "Dvitiesinis atsitiktinis atrinkimas"
     },
     {
-      "from": "Dinaminis maršrutizavimas",
-      "en": "Dynamic routing"
+      "en": "Bidirectional long short-term memory",
+      "from": "Dvikryptis ilgos trumpalaikės atminties modelis"
     },
     {
-      "from": "Dinaminis laiko atstatymo modelis",
-      "en": "Dynamic time warping models"
+      "en": "Body joints",
+      "from": "Kūno sanariai"
     },
     {
-      "from": "Dingusio dalimis tiesinio vieneto gradiento problema",
-      "en": "Dead ReLU problem"
+      "en": "Bounding box",
+      "from": "Stačiakampis"
     },
     {
-      "from": "Skiriamoji sritis",
-      "en": "Decision boundary"
+      "en": "Bias",
+      "from": "Laisvasis narys"
     },
     {
-      "from": "Vaizdinė klastotė",
-      "en": "Deep fake"
+      "en": "Binary classification",
+      "from": "Dviejų klasių klasifikavimas"
     },
     {
-      "from": "Gilusis mokymasis",
-      "en": "Deep learning"
+      "en": "Capsule neural network",
+      "from": "Kapsulinis neuroninis tinklas"
     },
     {
-      "from": "Gylis",
-      "en": "Depth"
+      "en": "Cascade Classifier",
+      "from": "Pakopinis klasifikatorius"
     },
     {
-      "from": "Gylio žemėlapis",
-      "en": "Depth map"
+      "en": "Causal inference",
+      "from": "Priežastingumo analizavimas"
     },
     {
-      "from": "Atsitiktinio praretinimo transformacija",
-      "en": "Dropout"
+      "en": "Character-based tokenization",
+      "from": "Teksto skaidymas į teksto vienetus procesas teksto vienetams priskiriant unikalius teksto simbolius."
     },
     {
-      "from": "Skaliarinė sandauga",
-      "en": "Dot product"
+      "en": "Cyclic consistency",
+      "from": "Cikliškai pastovus"
     },
     {
-      "from": "Kraštų žemėlapis",
-      "en": "Edge maps"
+      "en": "Computer vision",
+      "from": "Kompiuterinės regos"
     },
     {
-      "from": "Įterpiniai",
-      "en": "Embeddings"
+      "en": "Confidence map",
+      "from": "Pasikliovimo žemėlapis"
     },
     {
-      "from": "Tikrinis vektorius",
-      "en": "Eigen vector"
+      "en": "Confusion matrix",
+      "from": "Klasifikavimo lentelė"
     },
     {
-      "from": "Tikrinė reikšmė",
-      "en": "Eigen value"
+      "en": "Continuous learning",
+      "from": "Nuolatinis mokymasis"
     },
     {
-      "from": "Tikrinių vektorių erdvė",
-      "en": "Eigenspace"
+      "en": "Content image",
+      "from": "Turinio paveikslas"
     },
     {
-      "from": "Egocentrių veiksmų atpažinimas",
-      "en": "Egocentric action recognition"
+      "en": "Convolutional layer",
+      "from": "Konvoliucinis sluoksnis"
     },
     {
-      "from": "Įterpinių reprezentacijų erdvė",
-      "en": "Embeddings space"
+      "en": "Convolutional neural networks",
+      "from": "Konvoliuciniai neuroniniai tinklai"
     },
     {
-      "from": "Epizodas",
-      "en": "Epoch"
+      "en": "Convolutional operation",
+      "from": "Konvoliucijos operacija"
     },
     {
-      "from": "Epsilion godus algoritmas",
-      "en": "Epsilon-greedy algorithm"
+      "en": "Continual learning",
+      "from": "Tęstinis mokymasis"
     },
     {
-      "from": "Paklaida",
-      "en": "Error"
+      "en": "Cost function",
+      "from": "Kaštų funkcija"
     },
     {
-      "from": "Įvertis",
-      "en": "Estimate"
+      "en": "Clipped Surrogate function",
+      "from": "Apkarpyta surogatinė funkcija"
     },
     {
-      "from": "Įvertinys",
-      "en": "Estimator"
+      "en": "Cross-attention",
+      "from": "kryžminis dėmesio sutelkimas"
     },
     {
-      "from": "Vidurkio maksimizavimo metodas",
-      "en": "Expectation-maximization (EM)"
+      "en": "Cross-entropy",
+      "from": "Kryžminė entropija"
     },
     {
-      "from": "Vidurkio maksimizavimo metodas segmentavimui",
-      "en": "Expectation-maximization for segmentation"
+      "en": "data acquisition",
+      "from": "duomenų rinkimas"
     },
     {
-      "from": "Eksponentinis tiesinis vienetas",
-      "en": "Exponential linear unit (ELU)"
+      "en": "data annotation",
+      "from": "duomenų anotavimas"
     },
     {
-      "from": "Atvirumas",
-      "en": "Exposure"
+      "en": "data labelling",
+      "from": "duomenų žymėjimas"
     },
     {
-      "from": "Tyrinėjantis algoritmas",
-      "en": "Exploration algorithms"
+      "en": "Data augmentation",
+      "from": "Duomenų augmentacijos"
     },
     {
-      "from": "Sprogstančių gradientų problema",
-      "en": "Exploding gradient problem"
+      "en": "dataset",
+      "from": "duomenų rinkinys"
     },
     {
-      "from": "Eksplotuojantis algoritmas",
-      "en": "Exploitation algorithms"
+      "en": "Denoising",
+      "from": "triukšmo šalinimas"
     },
     {
-      "from": "",
-      "en": "the explotation concentrates on making efficient decition now."
+      "en": "Dilated convolution",
+      "from": "Praretintos konvoliucijos operacija"
     },
     {
-      "from": "",
-      "en": "Jei tyrinėjantis algoritmas suteikia atlygį naujiems (prieštai nebandytiems) sprendimams (veiksmams), tai dabartinėmis žiniomis besiriamentis algoritmas maksimizuoja trumpalaikį atlygį iš dabartinės situacijos."
+      "en": "Directed",
+      "from": "Orientuotas"
     },
     {
-      "from": "Federuotas mašininis mokymas",
-      "en": "Federated machine learning"
+      "en": "Discounted future reward",
+      "from": "Diskontuotas ateities atlygis"
     },
     {
-      "from": "F1 statistika",
-      "en": "F1 measure"
+      "en": "Dynamic routing",
+      "from": "Dinaminis maršrutizavimas"
     },
     {
-      "from": "Modelio adaptavimas naujai užduočiai iš kelių pavyzdžių",
-      "en": "Few-shot learning"
+      "en": "Dynamic time warping models",
+      "from": "Dinaminis laiko atstatymo modelis"
     },
     {
-      "from": "Tapatybė",
-      "en": "Identity"
+      "en": "Dead ReLU problem",
+      "from": "Dingusio dalimis tiesinio vieneto gradiento problema"
     },
     {
-      "from": "Išvadų darymas",
-      "en": "Inference"
+      "en": "Decision",
+      "from": "Sprendimas"
     },
     {
-      "from": "Vaizdo patobulinimas",
-      "en": "Image Enhancement"
+      "en": "Decision boundary",
+      "from": "Skiriamoji sritis"
     },
     {
-      "from": "Vaizdų kokybės vertinimas",
-      "en": "Image quality assessment"
+      "en": "Deep fake",
+      "from": "Vaizdinė klastotė"
     },
     {
-      "from": "Vaizdų panašumo metrikos",
-      "en": "Image similarity metrics"
+      "en": "Deep learning",
+      "from": "Gilusis mokymasis"
     },
     {
-      "from": "Įvestis",
-      "en": "Input"
+      "en": "Depth",
+      "from": "Gylis"
     },
     {
-      "from": "Atidarymo sklendė",
-      "en": "Input gate"
+      "en": "Depth map",
+      "from": "Gylio žemėlapis"
     },
     {
-      "from": "Tiesioginė segmentacija",
-      "en": "Instant segmentation"
+      "en": "Dropout",
+      "from": "Atsitiktinio praretinimo transformacija"
     },
     {
-      "from": "Vidinė būsena",
-      "en": "Internal state"
+      "en": "Dot product",
+      "from": "Skaliarinė sandauga"
     },
     {
-      "from": "Susikirtimas padalintas iš sąjungos",
-      "en": "Intersection over union (IOU)"
+      "en": "Edge maps",
+      "from": "Kraštų žemėlapis"
     },
     {
-      "from": "Išsibasrtymo klasių viduje ir tarp klasių problema.",
-      "en": "Inter-class similarity and intra-class variability problem"
+      "en": "Embeddings",
+      "from": "Įterpiniai"
     },
     {
-      "from": "Autoenkoderis su dėmesio sutelkimo mechanizmu paveikslėlyje",
-      "en": "Inter-frame attention encoder"
+      "en": "Eigen vector",
+      "from": "Tikrinis vektorius"
     },
     {
-      "from": "Iteracija",
-      "en": "Iteration"
+      "en": "Eigen value",
+      "from": "Tikrinė reikšmė"
     },
     {
-      "from": "Iteratyvus rekonstrukcijos algoritmas",
-      "en": "Iterative reconstruction algorithm"
+      "en": "Eigenspace",
+      "from": "Tikrinių vektorių erdvė"
     },
     {
-      "from": "F_1 statistikos reikšmė",
-      "en": "F_1 score"
+      "en": "Egocentric action recognition",
+      "from": "Egocentrių veiksmų atpažinimas"
     },
     {
-      "from": "Adaptuoti",
-      "en": "Fine-tune"
+      "en": "Embeddings space",
+      "from": "Įterpinių reprezentacijų erdvė"
     },
     {
-      "from": "Požymiai",
-      "en": "Features"
+      "en": "Epoch",
+      "from": "Epizodas"
     },
     {
-      "from": "Piramidinis požymių tinklas",
-      "en": "Feature pyramid networks"
+      "en": "Epsilon-greedy algorithm",
+      "from": "Epsilion godus algoritmas"
     },
     {
-      "from": "Požymių žemėlapiai",
-      "en": "Feature map"
+      "en": "Error",
+      "from": "Paklaida"
     },
     {
-      "from": "Ištiesinimo sluoksnis",
-      "en": "Flatten layer"
+      "en": "Estimate",
+      "from": "Įvertis"
     },
     {
-      "from": "Tiesionis skaičiavimas",
-      "en": "Forward pass"
+      "en": "Estimator",
+      "from": "Įvertinys"
     },
     {
-      "from": "Tiesioginio sklidimo",
-      "en": "Feedforward"
+      "en": "Expectation-maximization (EM)",
+      "from": "Vidurkio maksimizavimo metodas"
     },
     {
-      "from": "Frešė  atstumas vaizdams",
-      "en": "Frechet inception distance"
+      "en": "Expectation-maximization for segmentation",
+      "from": "Vidurkio maksimizavimo metodas segmentavimui"
     },
     {
-      "from": "Užmiršimo sklendė",
-      "en": "Forgot gate"
+      "en": "Exponential linear unit (ELU)",
+      "from": "Eksponentinis tiesinis vienetas"
     },
     {
-      "from": "Židinio nuostolių funkcija",
-      "en": "Focal loss"
+      "en": "Exposure",
+      "from": "Atvirumas"
     },
     {
-      "from": "Pilnai sujungtų sąryšių sluoksnis",
-      "en": "Fully connected layer"
+      "en": "Exploration algorithms",
+      "from": "Tyrinėjantis algoritmas"
     },
     {
-      "from": "Pilnai konvoliucinis tinklas",
-      "en": "Fully Convolutional Network"
+      "en": "Exploding gradient problem",
+      "from": "Sprogstančių gradientų problema"
     },
     {
-      "from": "Generalizacija",
-      "en": "Generalization"
+      "en": "Exploitation algorithms",
+      "from": "Eksplotuojantis algoritmas"
     },
     {
-      "from": "Generatyviniai adversariniai tinklai",
-      "en": "Generative Adversarial Networks (GAN)"
+      "en": "the explotation concentrates on making efficient decition now.",
+      "from": ""
     },
     {
-      "from": "Grafo išretinimas",
-      "en": "Graph sparsification"
+      "en": "Jei tyrinėjantis algoritmas suteikia atlygį naujiems (prieštai nebandytiems) sprendimams (veiksmams), tai dabartinėmis žiniomis besiriamentis algoritmas maksimizuoja trumpalaikį atlygį iš dabartinės situacijos.",
+      "from": ""
     },
     {
-      "from": "Gradientinis nusileidimas",
-      "en": "Gradient Descent"
+      "en": "Federated machine learning",
+      "from": "Federuotas mašininis mokymas"
     },
     {
-      "from": "Juodai baltų spalvos lygių atsikartojimų matrica",
-      "en": "Gray Level Co-occurrence Matrix (GLCM)"
+      "en": "F1 measure",
+      "from": "F1 statistika"
     },
     {
-      "from": "Sklendžių rekurentinių vienetų  modelis",
-      "en": "Gated recurrent unit (GRU) model"
+      "en": "Feature extractor",
+      "from": "informatyvių požymių ištraukimo metodas"
     },
     {
-      "from": "Gausinis tiesinis vienetas",
-      "en": "Gaussian error linear unit (GELU)"
+      "en": "Few-shot learning",
+      "from": "Modelio adaptavimas naujai užduočiai iš kelių pavyzdžių"
     },
     {
-      "from": "Sklendė",
-      "en": "Gate"
+      "en": "Identity",
+      "from": "Tapatybė"
     },
     {
-      "from": "Paslėpti sluoksniai",
-      "en": "Hidden layers"
+      "en": "Fraud detection",
+      "from": "Sukčiavimo aptikimas"
     },
     {
-      "from": "Kryptinių gradientų histograma",
-      "en": "Histogram of oriented gradients (HOG)"
+      "en": "Inference",
+      "from": "Išvadų darymas"
     },
     {
-      "from": "Hiperparametrai",
-      "en": "Hyperparameter"
+      "en": "Image Enhancement",
+      "from": "Vaizdo patobulinimas"
     },
     {
-      "from": "Filtro branduolys",
-      "en": "Kernel"
+      "en": "Image quality assessment",
+      "from": "Vaizdų kokybės vertinimas"
     },
     {
-      "from": "Žymuo",
-      "en": "Label"
+      "en": "Image similarity metrics",
+      "from": "Vaizdų panašumo metrikos"
     },
     {
-      "from": "Mokymo žingsnis",
-      "en": "Learning rate"
+      "en": "Input",
+      "from": "Įvestis"
     },
     {
-      "from": "Pralaidus dalimis tiesinis vienetas",
-      "en": "Leaky ReLU"
+      "en": "Input gate",
+      "from": "Atidarymo sklendė"
     },
     {
-      "from": "Sutelkimo imant L2 normą sluoksnis",
-      "en": "L2 norm pooling"
+      "en": "Instant segmentation",
+      "from": "Tiesioginė segmentacija"
     },
     {
-      "from": "Lokali matymo sritis",
-      "en": "Local receptive fields"
+      "en": "Internal state",
+      "from": "Vidinė būsena"
     },
     {
-      "from": "Nuostoliai",
-      "en": "Loss"
+      "en": "Intersection over union (IOU)",
+      "from": "Susikirtimas padalintas iš sąjungos"
     },
     {
-      "from": "Nuostolių apskaičiavimas",
-      "en": "Loss computation"
+      "en": "Inter-class similarity and intra-class variability problem",
+      "from": "Išsibasrtymo klasių viduje ir tarp klasių problema."
     },
     {
-      "from": "Nuostolių funkcija",
-      "en": "Loss function"
+      "en": "Inter-frame attention encoder",
+      "from": "Autoenkoderis su dėmesio sutelkimo mechanizmu paveikslėlyje"
     },
     {
-      "from": "Sluoksnis",
-      "en": "Layers"
+      "en": "Iteration",
+      "from": "Iteracija"
     },
     {
-      "from": "Duomenų nutekėjimas",
-      "en": "Leakage"
+      "en": "Iterative reconstruction algorithm",
+      "from": "Iteratyvus rekonstrukcijos algoritmas"
     },
     {
-      "from": "Pagrindinės žodžio formos nustatymas",
-      "en": "Lemmatization"
+      "en": "F_1 score",
+      "from": "F_1 statistikos reikšmė"
     },
     {
-      "from": "Ilgos trumpalaikės atminties modelis",
-      "en": "Long short-term memory (LSTM)"
+      "en": "Fine-tune",
+      "from": "Adaptuoti"
     },
     {
-      "from": "Mašininis mokymas",
-      "en": "Machine learning"
+      "en": "Features",
+      "from": "Požymiai"
     },
     {
-      "from": "Markovo sprendimo priėmimo procesai",
-      "en": "Markov decision process"
+      "en": "Feature pyramid networks",
+      "from": "Piramidinis požymių tinklas"
     },
     {
-      "from": "Užmaskavimas",
-      "en": "Mask"
+      "en": "Feature map",
+      "from": "Požymių žemėlapiai"
     },
     {
-      "from": "Užmaskuotas gylio žemėlapis",
-      "en": "Masked depth maps"
+      "en": "Flatten layer",
+      "from": "Ištiesinimo sluoksnis"
     },
     {
-      "from": "Sutelkimo imant maksimalią reikšmę sluoksnis",
-      "en": "Max pooling layer"
+      "en": "Forward pass",
+      "from": "Tiesionis skaičiavimas"
     },
     {
-      "from": "Vidutinė kvadratinė paklaida",
-      "en": "Mean squared error (MSE)"
+      "en": "Feedforward",
+      "from": "Tiesioginio sklidimo"
     },
     {
-      "from": "Mel transformacija",
-      "en": "Mel-frequency transformation"
+      "en": "Frechet inception distance",
+      "from": "Frešė  atstumas vaizdams"
     },
     {
-      "from": "Atminties lastelė",
-      "en": "Memory cell"
+      "en": "Forgot gate",
+      "from": "Užmiršimo sklendė"
     },
     {
-      "from": "Min-maks. normalizacija",
-      "en": "Min-max normalization method"
+      "en": "Focal loss",
+      "from": "Židinio nuostolių funkcija"
     },
     {
-      "from": "Inercija",
-      "en": "Momentum"
+      "en": "Fully connected layer",
+      "from": "Pilnai sujungtų sąryšių sluoksnis"
     },
     {
-      "from": "Judėjimas",
-      "en": "Motion"
+      "en": "Fully Convolutional Network",
+      "from": "Pilnai konvoliucinis tinklas"
     },
     {
-      "from": "Bendro dėmesio sutelkimo apjungimo blokas",
-      "en": "Mutual-attentional fusion block"
+      "en": "Generalization",
+      "from": "Generalizacija"
     },
     {
-      "from": "Daugelio klasių klasifikavimas",
-      "en": "Multiclass classification"
+      "en": "Generative Adversarial Networks (GAN)",
+      "from": "Generatyviniai adversariniai tinklai"
     },
     {
-      "from": "Daugelio žymenų klasifikavimas",
-      "en": "Multilabel classification"
+      "en": "Graph sparsification",
+      "from": "Grafo išretinimas"
     },
     {
-      "from": "Daugiasluoksnį perceptroną",
-      "en": "Multilayer perceptron"
+      "en": "Gradient Descent",
+      "from": "Gradientinis nusileidimas"
     },
     {
-      "from": "Daugiatikslis mokymas",
-      "en": "Multitask learning"
+      "en": "Gray Level Co-occurrence Matrix (GLCM)",
+      "from": "Juodai baltų spalvos lygių atsikartojimų matrica"
     },
     {
-      "from": "Skaitmeninis natūraliosios kalbos apdorojimas",
-      "en": "Natural language processing (NLP)"
+      "en": "Gated recurrent unit (GRU) model",
+      "from": "Sklendžių rekurentinių vienetų  modelis"
     },
     {
-      "from": "Išplėtimas taikant artimiausio kaimyno metodą",
-      "en": "Nearest neighbour upsampling"
+      "en": "Gaussian error linear unit (GELU)",
+      "from": "Gausinis tiesinis vienetas"
     },
     {
-      "from": "Neuronas",
-      "en": "Neurons"
+      "en": "Gate",
+      "from": "Sklendė"
     },
     {
-      "from": "Neuroniniais tinklais paremtas vaizdų stiliaus perkėlimas",
-      "en": "Neural Style Transfer"
+      "en": "Hidden layers",
+      "from": "Paslėpti sluoksniai"
     },
     {
-      "from": "Kontrastinis triukšmo vertinimas",
-      "en": "Noise-contrastive estimation"
+      "en": "ground truth",
+      "from": "etalonas"
     },
     {
-      "from": "nestacionarus",
-      "en": "Non-Stationary"
+      "en": "Histogram of oriented gradients (HOG)",
+      "from": "Kryptinių gradientų histograma"
     },
     {
-      "from": "Netiesinis modelis",
-      "en": "Non-linear model"
+      "en": "Hyperparameter",
+      "from": "Hiperparametrai"
     },
     {
-      "from": "Ne maksimalaus apjungimo algoritmas",
-      "en": "Non-maximum suppression algorithm"
+      "en": "Kernel",
+      "from": "Filtro branduolys"
     },
     {
-      "from": "Objektų aptikimas",
-      "en": "Object detection"
+      "en": "KDD (knowledge discovery in data)",
+      "from": "žinių atradimas duomenyse"
     },
     {
-      "from": "Tikslo funkcija",
-      "en": "Objective function"
+      "en": "Label",
+      "from": "žymė"
     },
     {
-      "from": "Stebėjimai",
-      "en": "Observation"
+      "en": "Learning rate",
+      "from": "Mokymo žingsnis"
     },
     {
-      "from": "Uždengimas",
-      "en": "Occlusion"
+      "en": "Learning rate scheduler",
+      "from": "mokymo žingsnio planuotojas"
     },
     {
-      "from": "Atviri duomenys",
-      "en": "Open data"
+      "en": "Leaky ReLU",
+      "from": "Pralaidus dalimis tiesinis vienetas"
     },
     {
-      "from": "Atviro kodo",
-      "en": "Open-source"
+      "en": "life cycle",
+      "from": "gyvavimo ciklas"
     },
     {
-      "from": "Išvestis",
-      "en": "Output"
+      "en": "L2 norm pooling",
+      "from": "Sutelkimo imant L2 normą sluoksnis"
     },
     {
-      "from": "Išvesties sklendė",
-      "en": "Output gate"
+      "en": "Local receptive fields",
+      "from": "Lokali matymo sritis"
     },
     {
-      "from": "Persimokymas",
-      "en": "Over-fitting"
+      "en": "Loss",
+      "from": "Nuostoliai"
     },
     {
-      "from": "Papildymo transformacija",
-      "en": "Padding"
+      "en": "Loss computation",
+      "from": "Nuostolių apskaičiavimas"
     },
     {
-      "from": "Apytikslis mokymasis pagal tikimybę",
-      "en": "Probably approximately correct (PAC) learning"
+      "en": "Loss function",
+      "from": "Nuostolių funkcija"
     },
     {
-      "from": "Sričių afininiai laukai",
-      "en": "Part affinity fields (PAR)"
+      "en": "Layers",
+      "from": "Sluoksnis"
     },
     {
-      "from": "Parametrizuotas dalimis tiesinis vienetas",
-      "en": "Parametric ReLU"
+      "en": "Leakage",
+      "from": "Duomenų nutekėjimas"
     },
     {
-      "from": "Šablonas",
-      "en": "Pattern"
+      "en": "Lemmatization",
+      "from": "Pagrindinės žodžio formos nustatymas"
     },
     {
-      "from": "Maksimalaus signalo ir triukšmo santykis",
-      "en": "Peak signal to noise ratio"
+      "en": "Long short-term memory (LSTM)",
+      "from": "Ilgos trumpalaikės atminties modelis"
     },
     {
-      "from": "Pikselio intensyvumas",
-      "en": "Pixel intensity"
+      "en": "Machine learning",
+      "from": "Mašininis mokymas"
     },
     {
-      "from": "Suvokimas",
-      "en": "Perceptual"
+      "en": "Markov decision process",
+      "from": "Markovo sprendimo priėmimo procesai"
     },
     {
-      "from": "Suvokimo srities",
-      "en": "Perceptual path"
+      "en": "Mask",
+      "from": "Užmaskavimas"
     },
     {
-      "from": "Suvokimo srities vertės",
-      "en": "Perceptual path Length"
+      "en": "Masked depth maps",
+      "from": "Užmaskuotas gylio žemėlapis"
     },
     {
-      "from": "Strategija",
-      "en": "Policy"
+      "en": "Max pooling layer",
+      "from": "Sutelkimo imant maksimalią reikšmę sluoksnis"
     },
     {
-      "from": "Poziciniai artefaktai",
-      "en": "Phase artifacts"
+      "en": "Mean squared error (MSE)",
+      "from": "Vidutinė kvadratinė paklaida"
     },
     {
-      "from": "Dviserijinė taškinė koreliacija",
-      "en": "Point biserial correlation"
+      "en": "Mel-frequency transformation",
+      "from": "Mel transformacija"
     },
     {
-      "from": "Strategijos gradientas",
-      "en": "Policy gradient"
+      "en": "Memory cell",
+      "from": "Atminties lastelė"
     },
     {
-      "from": "Sutelkimo transformacija",
-      "en": "Pooling transformation"
+      "en": "Min-max normalization method",
+      "from": "Min-maks. normalizacija"
     },
     {
-      "from": "Sutelkimo sluoksnis",
-      "en": "Pooling layer"
+      "en": "Momentum",
+      "from": "Inercija"
     },
     {
-      "from": "Privatumą išsaugantys algoritmai",
-      "en": "Privacy-Preserving algorithms"
+      "en": "Motion",
+      "from": "Judėjimas"
     },
     {
-      "from": "Preciziškumas",
-      "en": "Precision"
+      "en": "Mutual-attentional fusion block",
+      "from": "Bendro dėmesio sutelkimo apjungimo blokas"
     },
     {
-      "from": "Prognozė",
-      "en": "Prediction"
+      "en": "Multiclass classification",
+      "from": "Daugelio klasių klasifikavimas"
     },
     {
-      "from": "Tikimybių žemėlapis",
-      "en": "Probability map"
+      "en": "Multilabel classification",
+      "from": "Daugelio žymenų klasifikavimas"
     },
     {
-      "from": "Stategijos artutinis optimizavimas",
-      "en": "Proximal Policy Optimization"
+      "en": "Multilayer perceptron",
+      "from": "Daugiasluoksnį perceptroną"
     },
     {
-      "from": "Nuolatinis mokymasis",
-      "en": "Online learning"
+      "en": "Multitask learning",
+      "from": "Daugiatikslis mokymas"
     },
     {
-      "from": "Fiktyvūs kintamieji",
-      "en": "One-hot variables"
+      "en": "named entity recognition",
+      "from": ""
     },
     {
-      "from": "Modelio adaptavimas naujai užduočiai iš vieno pavyzdžio",
-      "en": "One-shot learning"
+      "en": "NER",
+      "from": "įvardytų esybių atpažinimas"
     },
     {
-      "from": "Optinis srautas",
-      "en": "Optical flow"
+      "en": "narrow AI",
+      "from": "siaurasis DI"
     },
     {
-      "from": "Persimokymas",
-      "en": "Overfitting"
+      "en": "optical character recognition",
+      "from": ""
     },
     {
-      "from": "Realaus laiko/realiu laiku",
-      "en": "Real-time"
+      "en": "OCR",
+      "from": "optinis simbolių atpažinimas"
     },
     {
-      "from": "Realiatyvios pozicijos normalizavimas",
-      "en": "Relative position normalization"
+      "en": "Natural language processing (NLP)",
+      "from": "Skaitmeninis natūraliosios kalbos apdorojimas"
     },
     {
-      "from": "Atkūrimo statistika",
-      "en": "Recall"
+      "en": "Nearest neighbour upsampling",
+      "from": "Išplėtimas taikant artimiausio kaimyno metodą"
     },
     {
-      "from": "Dalimis tiesinis vienetas",
-      "en": "Rectified Linear Unit (ReLu)"
+      "en": "Neurons",
+      "from": "Neuronas"
     },
     {
-      "from": "Rekurentiniai neuroniniai tinklai",
-      "en": "Recurrent neural networks (RNN)"
+      "en": "Neural Style Transfer",
+      "from": "Neuroniniais tinklais paremtas vaizdų stiliaus perkėlimas"
     },
     {
-      "from": "Skatinamasis mokymas",
-      "en": "Reinforcement learning"
+      "en": "Noise scheduler",
+      "from": "triukšmo keitimo planuotojas"
     },
     {
-      "from": "Sričių pasiūlymo tinklas",
-      "en": "Region proposal network"
+      "en": "Noise-contrastive estimation",
+      "from": "Kontrastinis triukšmo vertinimas"
     },
     {
-      "from": "Dominančios sritys",
-      "en": "Regions of interest (ROI)"
+      "en": "Non-Stationary",
+      "from": "nestacionarus"
     },
     {
-      "from": "Reguliarizacija",
-      "en": "Reguliarization"
+      "en": "Non-linear model",
+      "from": "Netiesinis modelis"
     },
     {
-      "from": "Bolcmano mašina su apribojimais",
-      "en": "Restricted Boltzmann machines"
+      "en": "Non-maximum suppression algorithm",
+      "from": "Ne maksimalaus apjungimo algoritmas"
     },
     {
-      "from": "Atstatymo sklendė",
-      "en": "Reset gate"
+      "en": "Object detection",
+      "from": "Objektų aptikimas"
     },
     {
-      "from": "Saveikos",
-      "en": "Relation"
+      "en": "Objective function",
+      "from": "Tikslo funkcija"
     },
     {
-      "from": "Liekanų neuroninis tinklas",
-      "en": "Residual Network (ResNet)"
+      "en": "Observation",
+      "from": "Stebėjimai"
     },
     {
-      "from": "Atlygis",
-      "en": "Reward"
+      "en": "Occlusion",
+      "from": "Uždengimas"
     },
     {
-      "from": "Spalvų sodrumas",
-      "en": "Saturates"
+      "en": "Open data",
+      "from": "Atviri duomenys"
     },
     {
-      "from": "Bendri parametrai",
-      "en": "Shared weights"
+      "en": "Open-source",
+      "from": "Atviro kodo"
     },
     {
-      "from": "Statistikos vertė",
-      "en": "Score"
+      "en": "Output",
+      "from": "Išvestis"
     },
     {
-      "from": "-",
-      "en": "Scaled exponential linear unit (SeLu)"
+      "en": "Output gate",
+      "from": "Išvesties sklendė"
     },
     {
-      "from": "Pasvertas sigmoidinis tiesinis vienetas",
-      "en": "Sigmoid-weighted linear unit (SiLU)"
+      "en": "Over-fitting",
+      "from": "Persimokymas"
     },
     {
-      "from": "Semantinis segmentavimas",
-      "en": "Semantic segmentation"
+      "en": "Padding",
+      "from": "Papildymo transformacija"
     },
     {
-      "from": "Segmentavimas",
-      "en": "Segmentation"
+      "en": "Probably approximately correct (PAC) learning",
+      "from": "Apytikslis mokymasis pagal tikimybę"
     },
     {
-      "from": "Segmentacija grįsta spalvų lyginimu",
-      "en": "Segmentation color-based"
+      "en": "Part affinity fields (PAR)",
+      "from": "Sričių afininiai laukai"
     },
     {
-      "from": "Segmentacija grįsta kraštų radimu",
-      "en": "Segmentation region-based"
+      "en": "Parametric ReLU",
+      "from": "Parametrizuotas dalimis tiesinis vienetas"
     },
     {
-      "from": "Jautrumas",
-      "en": "Sensitivity"
+      "en": "Pattern",
+      "from": "Šablonas"
     },
     {
-      "from": "Nuoseklūs duomenys",
-      "en": "Sequential data"
+      "en": "Peak signal to noise ratio",
+      "from": "Maksimalaus signalo ir triukšmo santykis"
     },
     {
-      "from": "Postūmiui invariantiškas",
-      "en": "Shift invariance"
+      "en": "Pixel intensity",
+      "from": "Pikselio intensyvumas"
     },
     {
-      "from": "Forma",
-      "en": "Shape"
+      "en": "Perceptual",
+      "from": "Suvokimas"
     },
     {
-      "from": "Formos užmaskavimas",
-      "en": "Shape mask"
+      "en": "Perceptual path",
+      "from": "Suvokimo srities"
     },
     {
-      "from": "Formos modelis",
-      "en": "Shape model"
+      "en": "Perceptual path Length",
+      "from": "Suvokimo srities vertės"
     },
     {
-      "from": "Sutelkimas taikant dėmesio sutelkimo mechanizmą",
-      "en": "self-attention pooling"
+      "en": "Policy",
+      "from": "Strategija"
     },
     {
-      "from": "Uždengimas savimi",
-      "en": "Self-occlusion"
+      "en": "Phase artifacts",
+      "from": "Poziciniai artefaktai"
     },
     {
-      "from": "Adaptyvi rankingo nuostolių funkcija",
-      "en": "Self-supervised progressive ranking loss"
+      "en": "Point biserial correlation",
+      "from": "Dviserijinė taškinė koreliacija"
     },
     {
-      "from": "Svarbiausi taškai",
-      "en": "Salient points"
+      "en": "Policy gradient",
+      "from": "Strategijos gradientas"
     },
     {
-      "from": "Sigmoidas",
-      "en": "Sigmoid"
+      "en": "Pooling transformation",
+      "from": "Sutelkimo transformacija"
     },
     {
-      "from": "Praleidimo jungtys",
-      "en": "Skip connections"
+      "en": "Pooling layer",
+      "from": "Sutelkimo sluoksnis"
     },
     {
-      "from": "Kūno pozos taškais grįsta sistema",
-      "en": "Skeleton-based system"
+      "en": "Privacy-Preserving algorithms",
+      "from": "Privatumą išsaugantys algoritmai"
     },
     {
-      "from": "Kūno pozos taškų judėjimas",
-      "en": "Skeleton edge motion"
+      "en": "Precision",
+      "from": "Preciziškumas"
     },
     {
-      "from": "Slenkančio lango",
-      "en": "Sliding windows"
+      "en": "Prediction",
+      "from": "Prognozė"
     },
     {
-      "from": "Erdvę ir laikinę informaciją turintys duomenys",
-      "en": "Spatial-temporal data"
+      "en": "Probability map",
+      "from": "Tikimybių žemėlapis"
     },
     {
-      "from": "Erdvis duomenų pjūvis",
-      "en": "Spatial branch"
+      "en": "Proximal Policy Optimization",
+      "from": "Stategijos artutinis optimizavimas"
     },
     {
-      "from": "Stiliaus vaizdas",
-      "en": "Style image"
+      "en": "Online learning",
+      "from": "Nuolatinis mokymasis"
     },
     {
-      "from": "Erdvinės transformacinis tinklas",
-      "en": "Spacial Transformer network"
+      "en": "One-hot variables",
+      "from": "Fiktyvūs kintamieji"
     },
     {
-      "from": "Informatyvūs taškai laike ir erdvėje",
-      "en": "Space time interest points"
+      "en": "One-shot learning",
+      "from": "Modelio adaptavimas naujai užduočiai iš vieno pavyzdžio"
     },
     {
-      "from": "Praretinta aktivacijos funkcija",
-      "en": "Sparse activation functions"
+      "en": "Optical flow",
+      "from": "Optinis srautas"
     },
     {
-      "from": "Rekursyvi suspaudimo sklendė",
-      "en": "Squeeze and recursion temporal gates (SRTG)"
+      "en": "Overfitting",
+      "from": "Persimokymas"
     },
     {
-      "from": "Apytikslūs artimiausi kaimynai",
-      "en": "Soft nearest neighbor"
+      "en": "Real-time",
+      "from": "Realaus laiko/realiu laiku"
     },
     {
-      "from": "Eksponentinis normalizavimas / Softmax funkcija",
-      "en": "Softmax"
+      "en": "Relative position normalization",
+      "from": "Realiatyvios pozicijos normalizavimas"
     },
     {
-      "from": "Stacionarus",
-      "en": "Stationary"
+      "en": "Recall",
+      "from": "Atkūrimo statistika"
     },
     {
-      "from": "Būsena",
-      "en": "State"
+      "en": "Rectified Linear Unit (ReLu)",
+      "from": "Dalimis tiesinis vienetas"
     },
     {
-      "from": "Strategijos &#960; būsenos vertės funkcija",
-      "en": "State-value function for policy &#960;"
+      "en": "Recurrent neural networks (RNN)",
+      "from": "Rekurentiniai neuroniniai tinklai"
     },
     {
-      "from": "Žingsnis",
-      "en": "Stride"
+      "en": "Reinforcement learning",
+      "from": "Skatinamasis mokymas"
     },
     {
-      "from": "Struktūrinis panašumas",
-      "en": "Structural similarity index"
+      "en": "Region proposal network",
+      "from": "Sričių pasiūlymo tinklas"
     },
     {
-      "from": "Struktūrinis subintensivumų panašumas",
-      "en": "Sub-level structural similarity index"
+      "en": "Regions of interest (ROI)",
+      "from": "Dominančios sritys"
     },
     {
-      "from": "Teksto skaidymas į teksto vienetus procesas teksto vienetams priskiriant unikalias teksto dalis.",
-      "en": "Subword tokenization"
+      "en": "Reguliarization",
+      "from": "Reguliarizacija"
     },
     {
-      "from": "Telkimo sumuojant sluoksnis",
-      "en": "Sum pooling layer"
+      "en": "Restricted Boltzmann machines",
+      "from": "Bolcmano mašina su apribojimais"
     },
     {
-      "from": "Prižiūrimas mokymas",
-      "en": "Supervised learning"
+      "en": "Reset gate",
+      "from": "Atstatymo sklendė"
     },
     {
-      "from": "Žodžio kamieno išskyrimas",
-      "en": "Stemming"
+      "en": "Relation",
+      "from": "Saveikos"
     },
     {
-      "from": "Švituojanti aktivacijos funkcija",
-      "en": "Swish activation function"
+      "en": "Residual Network (ResNet)",
+      "from": "Liekanų neuroninis tinklas"
     },
     {
-      "from": "Slenkstinė vertė",
-      "en": "Threshold"
+      "en": "Reward",
+      "from": "Atlygis"
     },
     {
-      "from": "Šablonas",
-      "en": "Template"
+      "en": "risk",
+      "from": "rizika"
     },
     {
-      "from": "Laikinųjų-skirtumų algoritmas",
-      "en": "Temporal Difference algorithm"
+      "en": "robustness",
+      "from": "robastiškumas"
     },
     {
-      "from": "Laikinių duomenų pjūvis",
-      "en": "Temporal branch"
+      "en": "Saturates",
+      "from": "Spalvų sodrumas"
     },
     {
-      "from": "Laikiškai pastovus",
-      "en": "Temporally consistent"
+      "en": "Shared weights",
+      "from": "Bendri parametrai"
     },
     {
-      "from": "Laikinė sklendė",
-      "en": "Temporal gates"
+      "en": "Score",
+      "from": "Statistikos vertė"
     },
     {
-      "from": "Testavimo duomenys",
-      "en": "Test data"
+      "en": "Scaled exponential linear unit (SeLu)",
+      "from": "-"
     },
     {
-      "from": "Transformerių neuroninis tinklas",
-      "en": "Transformer"
+      "en": "Sigmoid-weighted linear unit (SiLU)",
+      "from": "Pasvertas sigmoidinis tiesinis vienetas"
     },
     {
-      "from": "Kompromiso riba",
-      "en": "Trade-off"
+      "en": "Semantic segmentation",
+      "from": "Semantinis segmentavimas"
     },
     {
-      "from": "Apmokymo duomenys",
-      "en": "Training data"
+      "en": "semantic computing",
+      "from": "semantinė kompiuterija"
     },
     {
-      "from": "Transformacinis tinklas",
-      "en": "Transformation network"
+      "en": "semi-supervised machine learning",
+      "from": "pusiau prižiūrimas mašininis mokymasis"
     },
     {
-      "from": "Paieška bandymų-klaidų būdu",
-      "en": "Trial-and-error search"
+      "en": "Segmentation",
+      "from": "Segmentavimas"
     },
     {
-      "from": "Trejetų nuostolių (tikslo) funkcija",
-      "en": "Triplet loss function"
+      "en": "Segmentation color-based",
+      "from": "Segmentacija grįsta spalvų lyginimu"
     },
     {
-      "from": "Teksto vienetas",
-      "en": "Token"
+      "en": "Segmentation region-based",
+      "from": "Segmentacija grįsta kraštų radimu"
     },
     {
-      "from": "Teksto skaidymas į teksto vienetus",
-      "en": "Tokenization"
+      "en": "Sensitivity",
+      "from": "Jautrumas"
     },
     {
-      "from": "Teksto skaidymo į teksto vienetus modelis/transformacija",
-      "en": "Tokenizer"
+      "en": "Sequential data",
+      "from": "Nuoseklūs duomenys"
     },
     {
-      "from": "Atspaudimas",
-      "en": "Unpooling"
+      "en": "Shift invariance",
+      "from": "Postūmiui invariantiškas"
     },
     {
-      "from": "Validavimo duomenys",
-      "en": "Validation data"
+      "en": "Shape",
+      "from": "Forma"
     },
     {
-      "from": "Nykstančių gradientų problema",
-      "en": "Vanishing gradient problem"
+      "en": "Shape mask",
+      "from": "Formos užmaskavimas"
     },
     {
-      "from": "Vertės funkcija",
-      "en": "Value function"
+      "en": "Shape model",
+      "from": "Formos modelis"
     },
     {
-      "from": "Variacinis auto-enkoderis",
-      "en": "Variational Auto-Encoder"
+      "en": "self-attention pooling",
+      "from": "Sutelkimas taikant dėmesio sutelkimo mechanizmą"
     },
     {
-      "from": "Neorentuotas",
-      "en": "Undirected"
+      "en": "Self-occlusion",
+      "from": "Uždengimas savimi"
     },
     {
-      "from": "Neprižiūrimas mokymas",
-      "en": "Unsupervised learning"
+      "en": "Self-supervised progressive ranking loss",
+      "from": "Adaptyvi rankingo nuostolių funkcija"
     },
     {
-      "from": "Išplėtimas",
-      "en": "Upsampled"
+      "en": "Salient points",
+      "from": "Svarbiausi taškai"
     },
     {
-      "from": "Ištiesinimo sluoksnis",
-      "en": "View layer"
+      "en": "Sigmoid",
+      "from": "Sigmoidas"
     },
     {
-      "from": "Parametrai",
-      "en": "Weights"
+      "en": "Skip connections",
+      "from": "Praleidimo jungtys"
     },
     {
-      "from": "Pasvertas entropijos-dispersijos metodas",
-      "en": "Weighted entropy-variance method"
+      "en": "Skeleton-based system",
+      "from": "Kūno pozos taškais grįsta sistema"
     },
     {
-      "from": "Parametrų matrica",
-      "en": "Weight matrix"
+      "en": "Skeleton edge motion",
+      "from": "Kūno pozos taškų judėjimas"
     },
     {
-      "from": "Parametrų atnaujinimas",
-      "en": "Weight update"
+      "en": "Sliding windows",
+      "from": "Slenkančio lango"
     },
     {
-      "from": "Teksto skaidymas į teksto vienetus tai procesas teksto vienetams priskiriant unikalius teksto žodžius.",
-      "en": "Word tokenization"
+      "en": "Spatial-temporal data",
+      "from": "Erdvę ir laikinę informaciją turintys duomenys"
     },
     {
-      "from": "Atsitiktinio išlaikymo transformacija",
-      "en": "Zoneout"
+      "en": "Spatial branch",
+      "from": "Erdvis duomenų pjūvis"
     },
     {
-      "from": "Papildymas nuliais",
-      "en": "Zero padding"
+      "en": "Style image",
+      "from": "Stiliaus vaizdas"
     },
     {
-      "from": "Modelio adaptavimas naujai užduočiai nepateikiant pavyzdžių",
-      "en": "Zero-shot learning"
+      "en": "Spacial Transformer network",
+      "from": "Erdvinės transformacinis tinklas"
+    },
+    {
+      "en": "Space time interest points",
+      "from": "Informatyvūs taškai laike ir erdvėje"
+    },
+    {
+      "en": "Sparse activation functions",
+      "from": "Praretinta aktivacijos funkcija"
+    },
+    {
+      "en": "Squeeze and recursion temporal gates (SRTG)",
+      "from": "Rekursyvi suspaudimo sklendė"
+    },
+    {
+      "en": "Soft nearest neighbor",
+      "from": "Apytikslūs artimiausi kaimynai"
+    },
+    {
+      "en": "Softmax",
+      "from": "Eksponentinis normalizavimas / Softmax funkcija"
+    },
+    {
+      "en": "Stationary",
+      "from": "Stacionarus"
+    },
+    {
+      "en": "State",
+      "from": "Būsena"
+    },
+    {
+      "en": "State-value function for policy &#960;",
+      "from": "Strategijos &#960; būsenos vertės funkcija"
+    },
+    {
+      "en": "Stride",
+      "from": "Žingsnis"
+    },
+    {
+      "en": "Structural similarity index",
+      "from": "Struktūrinis panašumas"
+    },
+    {
+      "en": "symbolic AI",
+      "from": "simbolinis DI"
+    },
+    {
+      "en": "Sub-level structural similarity index",
+      "from": "Struktūrinis subintensivumų panašumas"
+    },
+    {
+      "en": "Subword tokenization",
+      "from": "Teksto skaidymas į teksto vienetus procesas teksto vienetams priskiriant unikalias teksto dalis."
+    },
+    {
+      "en": "Sum pooling layer",
+      "from": "Telkimo sumuojant sluoksnis"
+    },
+    {
+      "en": "Supervised learning",
+      "from": "Prižiūrimas mokymas"
+    },
+    {
+      "en": "Stemming",
+      "from": "Žodžio kamieno išskyrimas"
+    },
+    {
+      "en": "Swish activation function",
+      "from": "Švituojanti aktivacijos funkcija"
+    },
+    {
+      "en": "Threshold",
+      "from": "Slenkstinė vertė"
+    },
+    {
+      "en": "Template",
+      "from": "Šablonas"
+    },
+    {
+      "en": "Temporal Difference algorithm",
+      "from": "Laikinųjų-skirtumų algoritmas"
+    },
+    {
+      "en": "Temporal branch",
+      "from": "Laikinių duomenų pjūvis"
+    },
+    {
+      "en": "Temporally consistent",
+      "from": "Laikiškai pastovus"
+    },
+    {
+      "en": "Temporal gates",
+      "from": "Laikinė sklendė"
+    },
+    {
+      "en": "Test data",
+      "from": "Testavimo duomenys"
+    },
+    {
+      "en": "text2image",
+      "from": "Teksto transformavimas į vaizdą"
+    },
+    {
+      "en": "Transformer",
+      "from": "Transformerių neuroninis tinklas"
+    },
+    {
+      "en": "Trade-off",
+      "from": "Kompromiso riba"
+    },
+    {
+      "en": "Training data",
+      "from": "Apmokymo duomenys"
+    },
+    {
+      "en": "Transformation network",
+      "from": "Transformacinis tinklas"
+    },
+    {
+      "en": "Trial-and-error search",
+      "from": "Paieška bandymų-klaidų būdu"
+    },
+    {
+      "en": "Triplet loss function",
+      "from": "Trejetų nuostolių (tikslo) funkcija"
+    },
+    {
+      "en": "Token",
+      "from": "Teksto vienetas"
+    },
+    {
+      "en": "Tokenization",
+      "from": "Teksto skaidymas į teksto vienetus"
+    },
+    {
+      "en": "Tokenizer",
+      "from": "Teksto skaidymo į teksto vienetus modelis/transformacija"
+    },
+    {
+      "en": "Unpooling",
+      "from": "Atspaudimas"
+    },
+    {
+      "en": "Validation data",
+      "from": "Validavimo duomenys"
+    },
+    {
+      "en": "Vanishing gradient problem",
+      "from": "Nykstančių gradientų problema"
+    },
+    {
+      "en": "Value function",
+      "from": "Vertės funkcija"
+    },
+    {
+      "en": "Variational Auto-Encoder",
+      "from": "Variacinis auto-enkoderis"
+    },
+    {
+      "en": "Undirected",
+      "from": "Neorentuotas"
+    },
+    {
+      "en": "Unsupervised learning",
+      "from": "Neprižiūrimas mokymas"
+    },
+    {
+      "en": "Upsampled",
+      "from": "Išplėtimas"
+    },
+    {
+      "en": "Variance schedule",
+      "from": "dispersijos keitimo planuotojas"
+    },
+    {
+      "en": "View layer",
+      "from": "Ištiesinimo sluoksnis"
+    },
+    {
+      "en": "Weights",
+      "from": "Parametrai"
+    },
+    {
+      "en": "Weighted entropy-variance method",
+      "from": "Pasvertas entropijos-dispersijos metodas"
+    },
+    {
+      "en": "Weight matrix",
+      "from": "Parametrų matrica"
+    },
+    {
+      "en": "Weight update",
+      "from": "Parametrų atnaujinimas"
+    },
+    {
+      "en": "Word tokenization",
+      "from": "Teksto skaidymas į teksto vienetus tai procesas teksto vienetams priskiriant unikalius teksto žodžius."
+    },
+    {
+      "en": "Zoneout",
+      "from": "Atsitiktinio išlaikymo transformacija"
+    },
+    {
+      "en": "Zero padding",
+      "from": "Papildymas nuliais"
+    },
+    {
+      "en": "Zero-shot learning",
+      "from": "Modelio adaptavimas naujai užduočiai nepateikiant pavyzdžių"
     }
   ],
   "hci": [

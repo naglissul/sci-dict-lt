@@ -47,3 +47,9 @@ yarn deploy https://${username}:${gh_token}@github.com/${username}/${username}.g
 Admin and user acc. User can provide a translation for the admin to review. Do that with API keys.
 
 Add mini likes - translations with least like will be eliminated (archived)
+
+## Process of getting words from .md list
+
+Copying the .md table here and converting to JSON [https://tableconvert.com/markdown-to-markdown](https://tableconvert.com/markdown-to-markdown)
+
+Adding JSON to the dict.json

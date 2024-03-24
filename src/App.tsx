@@ -85,6 +85,7 @@ function App() {
         <aside></aside>
       </main>
       <footer>
+        <p>Last time updated: 2024-03-24</p>
         <p>
           You can find my personal blog and other cool stuff here:{" "}
           <a href="https://www.npw.lt">npw.lt</a>
