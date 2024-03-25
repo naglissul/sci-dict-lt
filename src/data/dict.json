@@ -249,6 +249,10 @@
     {
       "from": "Pastovus koeficientas",
       "en": "Constant coefficient"
+    },
+    {
+      "from": "Sąsūkos operacija",
+      "en": "Convolution"
     }
   ],
   "di": [
