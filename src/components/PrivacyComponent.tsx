@@ -6,9 +6,9 @@ export default function PrivacyComponent() {
       <Accordion defaultActiveKey="0" style={{ fontSize: "small" }}>
         <Accordion.Item eventKey="1">
           <Accordion.Header>
-            Šis puslapis naudoja Google Analytics, kad galima būtų sekti
-            tinklapio gyvybingumą. Naudodamiesi šiuo tinklapiu Jūs sutinkate su
-            Google Analytics nuostatais (išskleisti dėl daugiau informacijos)
+            This website uses Google Analytics, for managing website
+            improvements. By using this website you agree with Google Analytics
+            terms (expand for more info)
           </Accordion.Header>
           <Accordion.Body>
             <ul>

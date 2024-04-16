@@ -1,0 +1,4342 @@
+{
+  "1-2": [
+    {
+      "lt": "3 kartus po 6",
+      "en": "3 times 6",
+      "ru": "три раза по шесть",
+      "ua": ""
+    },
+    {
+      "lt": "amžius",
+      "en": "age",
+      "ru": "возраст",
+      "ua": ""
+    },
+    {
+      "lt": "amžius",
+      "en": "century",
+      "ru": "век",
+      "ua": ""
+    },
+    {
+      "lt": "ant",
+      "en": "on",
+      "ru": "на",
+      "ua": ""
+    },
+    {
+      "lt": "antradienis",
+      "en": "Tuesday",
+      "ru": "вторник",
+      "ua": ""
+    },
+    {
+      "lt": "antras",
+      "en": "second",
+      "ru": "второй",
+      "ua": ""
+    },
+    {
+      "lt": "apytikslis",
+      "en": "approximate",
+      "ru": "приближённый",
+      "ua": ""
+    },
+    {
+      "lt": "apskaičiuoti",
+      "en": "calculate",
+      "ru": "подсчитать",
+      "ua": ""
+    },
+    {
+      "lt": "apvali dešimtis",
+      "en": "round ten",
+      "ru": "круглые десятки",
+      "ua": ""
+    },
+    {
+      "lt": "arabiškieji skaitmenys",
+      "en": "arabic numerals",
+      "ru": "арабские цифры",
+      "ua": ""
+    },
+    {
+      "lt": "artimiausias",
+      "en": "Nearest / closest",
+      "ru": "ближайший",
+      "ua": ""
+    },
+    {
+      "lt": "aštuntas",
+      "en": "eighth",
+      "ru": "восьмой ",
+      "ua": ""
+    },
+    {
+      "lt": "aštuoniasdešimt",
+      "en": "eighty",
+      "ru": "восемьдесят ",
+      "ua": ""
+    },
+    {
+      "lt": "aštuoniolika",
+      "en": "eighteen",
+      "ru": "восемнадцать ",
+      "ua": ""
+    },
+    {
+      "lt": "aštuonis",
+      "en": "eight",
+      "ru": "восемь ",
+      "ua": ""
+    },
+    {
+      "lt": "atėminys",
+      "en": "subtrahend",
+      "ru": "вычитаемое",
+      "ua": ""
+    },
+    {
+      "lt": "atgal",
+      "en": "back",
+      "ru": "назад",
+      "ua": ""
+    },
+    {
+      "lt": "atimti",
+      "en": "Subtract / take away",
+      "ru": "отнять (вычесть)",
+      "ua": ""
+    },
+    {
+      "lt": "atimties veiksmas",
+      "en": "subtraction operation",
+      "ru": "действие вычитания",
+      "ua": ""
+    },
+    {
+      "lt": "atimtis",
+      "en": "subtraction",
+      "ru": "вычитание",
+      "ua": ""
+    },
+    {
+      "lt": "atimtis stulpeliu",
+      "en": "subtraction algorithm",
+      "ru": "вычитание в столбик",
+      "ua": ""
+    },
+    {
+      "lt": "atitikti",
+      "en": "correspond",
+      "ru": "соответствовать",
+      "ua": ""
+    },
+    {
+      "lt": "atitinkamas",
+      "en": "corresponding",
+      "ru": "соответствующий",
+      "ua": ""
+    },
+    {
+      "lt": "atkarpa",
+      "en": "line segment",
+      "ru": "отрезок",
+      "ua": ""
+    },
+    {
+      "lt": "atostogos",
+      "en": "vacation",
+      "ru": "каникулы",
+      "ua": ""
+    },
+    {
+      "lt": "atsakymas",
+      "en": "answer",
+      "ru": "ответ",
+      "ua": ""
+    },
+    {
+      "lt": "atspėti",
+      "en": "guess",
+      "ru": "угадать",
+      "ua": ""
+    },
+    {
+      "lt": "atstumas",
+      "en": "distance",
+      "ru": "расстояние",
+      "ua": ""
+    },
+    {
+      "lt": "balandis",
+      "en": "April",
+      "ru": "апрель",
+      "ua": ""
+    },
+    {
+      "lt": "balta",
+      "en": "white",
+      "ru": "белая (белый)",
+      "ua": ""
+    },
+    {
+      "lt": "banknotas",
+      "en": "banknote",
+      "ru": "банкнота",
+      "ua": ""
+    },
+    {
+      "lt": "birželis",
+      "en": "June",
+      "ru": "июнь",
+      "ua": ""
+    },
+    {
+      "lt": "brangesnis",
+      "en": "more expensive",
+      "ru": "более дорогой ",
+      "ua": ""
+    },
+    {
+      "lt": "brangu",
+      "en": "expensive",
+      "ru": "дорого",
+      "ua": ""
+    },
+    {
+      "lt": "brūkšniukas",
+      "en": "dash",
+      "ru": "чёрточка (дефис)",
+      "ua": ""
+    },
+    {
+      "lt": "centas",
+      "en": "cent",
+      "ru": "цент",
+      "ua": ""
+    },
+    {
+      "lt": "centimetras",
+      "en": "centimeter",
+      "ru": "сантиметр ",
+      "ua": ""
+    },
+    {
+      "lt": "daiktas",
+      "en": "thing",
+      "ru": "вещь (предмет)",
+      "ua": ""
+    },
+    {
+      "lt": "dalybos veiksmas",
+      "en": "division operation",
+      "ru": "действие деления ",
+      "ua": ""
+    },
+    {
+      "lt": "dalijasi iš",
+      "en": "is divisible by",
+      "ru": "делится на ",
+      "ua": ""
+    },
+    {
+      "lt": "dalijimas",
+      "en": "Sharing / dividing",
+      "ru": "делимость",
+      "ua": ""
+    },
+    {
+      "lt": "daliklis",
+      "en": "divisor",
+      "ru": "делитель",
+      "ua": ""
+    },
+    {
+      "lt": "dalinys",
+      "en": "dividend",
+      "ru": "делимое",
+      "ua": ""
+    },
+    {
+      "lt": "dalis",
+      "en": "part",
+      "ru": "часть",
+      "ua": ""
+    },
+    {
+      "lt": "dalyti",
+      "en": "Divide / share",
+      "ru": "делить",
+      "ua": ""
+    },
+    {
+      "lt": "dalmuo",
+      "en": "quotient",
+      "ru": "частное",
+      "ua": ""
+    },
+    {
+      "lt": "daugiakampis",
+      "en": "polygon",
+      "ru": "многоугольник",
+      "ua": ""
+    },
+    {
+      "lt": "daugiau",
+      "en": "more",
+      "ru": "больше ",
+      "ua": ""
+    },
+    {
+      "lt": "daugiau negu",
+      "en": "more than",
+      "ru": "больше чем ",
+      "ua": ""
+    },
+    {
+      "lt": "daugyba",
+      "en": "multiplication",
+      "ru": "умножение ",
+      "ua": ""
+    },
+    {
+      "lt": "daugyba iš 2",
+      "en": "multiplication by 2",
+      "ru": "умножение на два",
+      "ua": ""
+    },
+    {
+      "lt": "daugyba stulpeliu",
+      "en": "multiplication algorithm",
+      "ru": "умножение в столбик ",
+      "ua": ""
+    },
+    {
+      "lt": "daugybos veiksmas",
+      "en": "multiplication operation",
+      "ru": "действие умножения ",
+      "ua": ""
+    },
+    {
+      "lt": "daugiklis",
+      "en": "Multiplicand / multiplier / factor",
+      "ru": "множитель",
+      "ua": ""
+    },
+    {
+      "lt": "dauginamasis",
+      "en": "Multiplicand / multiplier / factor",
+      "ru": "множимое",
+      "ua": ""
+    },
+    {
+      "lt": "dėmuo",
+      "en": "addend",
+      "ru": "слагаемое",
+      "ua": ""
+    },
+    {
+      "lt": "dešimt",
+      "en": "ten",
+      "ru": "десять ",
+      "ua": ""
+    },
+    {
+      "lt": "dešimtas",
+      "en": "tenth",
+      "ru": "десятый ",
+      "ua": ""
+    },
+    {
+      "lt": "dešimtis",
+      "en": "a ten",
+      "ru": "десяток",
+      "ua": ""
+    },
+    {
+      "lt": "dešinė",
+      "en": "right",
+      "ru": "правая",
+      "ua": ""
+    },
+    {
+      "lt": "devyni",
+      "en": "nine",
+      "ru": "девять ",
+      "ua": ""
+    },
+    {
+      "lt": "devyniasdešimt",
+      "en": "ninety",
+      "ru": "девяносто ",
+      "ua": ""
+    },
+    {
+      "lt": "devyniolika",
+      "en": "nineteen",
+      "ru": "девятнадцать",
+      "ua": ""
+    },
+    {
+      "lt": "devintas",
+      "en": "ninth",
+      "ru": "девятый ",
+      "ua": ""
+    },
+    {
+      "lt": "diagrama",
+      "en": "diagram",
+      "ru": "диаграмма ",
+      "ua": ""
+    },
+    {
+      "lt": "didėja",
+      "en": "is increasing",
+      "ru": "возрастает",
+      "ua": ""
+    },
+    {
+      "lt": "didėjimo tvarka",
+      "en": "ascending order",
+      "ru": "в порядке возрастания (порядок возрастания.)",
+      "ua": ""
+    },
+    {
+      "lt": "diena",
+      "en": "day",
+      "ru": "день",
+      "ua": ""
+    },
+    {
+      "lt": "du",
+      "en": "du",
+      "ru": "два",
+      "ua": ""
+    },
+    {
+      "lt": "duomenys",
+      "en": "data",
+      "ru": "данное",
+      "ua": ""
+    },
+    {
+      "lt": "dvidešimt",
+      "en": "twenty",
+      "ru": "двадцать",
+      "ua": ""
+    },
+    {
+      "lt": "dvylika",
+      "en": "twelve",
+      "ru": "двенадцать ",
+      "ua": ""
+    },
+    {
+      "lt": "dviženklis",
+      "en": "Double-digit",
+      "ru": "двузначное",
+      "ua": ""
+    },
+    {
+      "lt": "eilutė",
+      "en": "row",
+      "ru": "строчка ",
+      "ua": ""
+    },
+    {
+      "lt": "euras",
+      "en": "euro",
+      "ru": "евро",
+      "ua": ""
+    },
+    {
+      "lt": "figūra",
+      "en": "shape",
+      "ru": "фигура ",
+      "ua": ""
+    },
+    {
+      "lt": "forma",
+      "en": "form",
+      "ru": "форма",
+      "ua": ""
+    },
+    {
+      "lt": "gauti",
+      "en": "get",
+      "ru": "получить",
+      "ua": ""
+    },
+    {
+      "lt": "gegužė",
+      "en": "May",
+      "ru": "май",
+      "ua": ""
+    },
+    {
+      "lt": "geltona",
+      "en": "yellow",
+      "ru": "жёлтая (жёлтый)",
+      "ua": ""
+    },
+    {
+      "lt": "geometrinis kūnas",
+      "en": "geometric body",
+      "ru": "геометрическое тело",
+      "ua": ""
+    },
+    {
+      "lt": "gimtadienis",
+      "en": "birthday",
+      "ru": "день рождения ",
+      "ua": ""
+    },
+    {
+      "lt": "grandinė",
+      "en": "chain",
+      "ru": "цепь",
+      "ua": ""
+    },
+    {
+      "lt": "gretimi skaičiai",
+      "en": "consecutive numbers",
+      "ru": "соседние числа",
+      "ua": ""
+    },
+    {
+      "lt": "gruodis",
+      "en": "December",
+      "ru": "декабрь",
+      "ua": ""
+    },
+    {
+      "lt": "ilgesnė",
+      "en": "longer",
+      "ru": "длиннее",
+      "ua": ""
+    },
+    {
+      "lt": "ilgis",
+      "en": "length",
+      "ru": "длина",
+      "ua": ""
+    },
+    {
+      "lt": "iš akies nustatyti",
+      "en": "ballpark estimate",
+      "ru": "определить на глаз",
+      "ua": ""
+    },
+    {
+      "lt": "iš eilės",
+      "en": "in succession",
+      "ru": "по порядку",
+      "ua": ""
+    },
+    {
+      "lt": "iš viso",
+      "en": "Altogether / total",
+      "ru": "всего",
+      "ua": ""
+    },
+    {
+      "lt": "išardyti",
+      "en": "dismantle",
+      "ru": "разобрать ",
+      "ua": ""
+    },
+    {
+      "lt": "iškonstruoti",
+      "en": "decompose",
+      "ru": "расконструировать",
+      "ua": ""
+    },
+    {
+      "lt": "išklotinė",
+      "en": "net",
+      "ru": "развёртка ",
+      "ua": ""
+    },
+    {
+      "lt": "išmatuoti",
+      "en": "measure",
+      "ru": "измерить",
+      "ua": ""
+    },
+    {
+      "lt": "išskaidyti",
+      "en": "decompose",
+      "ru": "разложить",
+      "ua": ""
+    },
+    {
+      "lt": "jungti",
+      "en": "connect",
+      "ru": "соединять (соединить)",
+      "ua": ""
+    },
+    {
+      "lt": "juoda",
+      "en": "black",
+      "ru": "чёрная (чёрный)",
+      "ua": ""
+    },
+    {
+      "lt": "juostelė",
+      "en": "strip",
+      "ru": "полоска",
+      "ua": ""
+    },
+    {
+      "lt": "kairė",
+      "en": "left",
+      "ru": "левая",
+      "ua": ""
+    },
+    {
+      "lt": "kalendorius",
+      "en": "calendar",
+      "ru": "календарь ",
+      "ua": ""
+    },
+    {
+      "lt": "kampas",
+      "en": "angle",
+      "ru": "угол ",
+      "ua": ""
+    },
+    {
+      "lt": "kauliukas",
+      "en": "dice",
+      "ru": "игральная кость (кубик)",
+      "ua": ""
+    },
+    {
+      "lt": "keliais būdais",
+      "en": "in several ways",
+      "ru": "сколькими способами",
+      "ua": ""
+    },
+    {
+      "lt": "keturi",
+      "en": "four",
+      "ru": "четыре ",
+      "ua": ""
+    },
+    {
+      "lt": "keturiasdešimt",
+      "en": "forty",
+      "ru": "сорок ",
+      "ua": ""
+    },
+    {
+      "lt": "keturiolika",
+      "en": "fourteen",
+      "ru": "четырнадцать ",
+      "ua": ""
+    },
+    {
+      "lt": "keturkampis",
+      "en": "quadrangle",
+      "ru": "четырёхугольник ",
+      "ua": ""
+    },
+    {
+      "lt": "ketvirtadalis",
+      "en": "quarter",
+      "ru": "четверть (четвёртая часть)",
+      "ua": ""
+    },
+    {
+      "lt": "ketvirtadienis",
+      "en": "Thursday",
+      "ru": "четверг",
+      "ua": ""
+    },
+    {
+      "lt": "ketvirtas",
+      "en": "fourth",
+      "ru": "четвёртый ",
+      "ua": ""
+    },
+    {
+      "lt": "ketvirtis",
+      "en": "quarter",
+      "ru": "четверть ",
+      "ua": ""
+    },
+    {
+      "lt": "kiek",
+      "en": "how much",
+      "ru": "сколько",
+      "ua": ""
+    },
+    {
+      "lt": "kiek kartų",
+      "en": "how many times",
+      "ru": "во сколько раз",
+      "ua": ""
+    },
+    {
+      "lt": "kiekvienas",
+      "en": "everyone",
+      "ru": "каждый ",
+      "ua": ""
+    },
+    {
+      "lt": "kilogramas",
+      "en": "kilogram",
+      "ru": "килограмм",
+      "ua": ""
+    },
+    {
+      "lt": "kilometras",
+      "en": "kilometer",
+      "ru": "километр ",
+      "ua": ""
+    },
+    {
+      "lt": "klaida",
+      "en": "Mistake / error",
+      "ru": "ошибка ",
+      "ua": ""
+    },
+    {
+      "lt": "kovas",
+      "en": "March",
+      "ru": "март",
+      "ua": ""
+    },
+    {
+      "lt": "kraštas",
+      "en": "side",
+      "ru": "край",
+      "ua": ""
+    },
+    {
+      "lt": "kreiva linija",
+      "en": "curve",
+      "ru": "кривая линия",
+      "ua": ""
+    },
+    {
+      "lt": "kryptis",
+      "en": "direction",
+      "ru": "направление ",
+      "ua": ""
+    },
+    {
+      "lt": "kubas",
+      "en": "cube",
+      "ru": "куб",
+      "ua": ""
+    },
+    {
+      "lt": "kubelis",
+      "en": "small cube",
+      "ru": "кубик",
+      "ua": ""
+    },
+    {
+      "lt": "kvadratas",
+      "en": "square",
+      "ru": "квадрат",
+      "ua": ""
+    },
+    {
+      "lt": "laikas",
+      "en": "time",
+      "ru": "время",
+      "ua": ""
+    },
+    {
+      "lt": "laikrodis",
+      "en": "clock",
+      "ru": "часы",
+      "ua": ""
+    },
+    {
+      "lt": "laipsnis",
+      "en": "degree",
+      "ru": "градус",
+      "ua": ""
+    },
+    {
+      "lt": "lapkritis",
+      "en": "November",
+      "ru": "ноябрь",
+      "ua": ""
+    },
+    {
+      "lt": "lengvas",
+      "en": "Easy / light",
+      "ru": "лёгкий ",
+      "ua": ""
+    },
+    {
+      "lt": "lengvesnis",
+      "en": "Easier / lighter",
+      "ru": "более лёгкий",
+      "ua": ""
+    },
+    {
+      "lt": "lentelė",
+      "en": "table",
+      "ru": "таблица ",
+      "ua": ""
+    },
+    {
+      "lt": "lentyna",
+      "en": "shelf",
+      "ru": "полка ",
+      "ua": ""
+    },
+    {
+      "lt": "liepa",
+      "en": "July",
+      "ru": "июль ",
+      "ua": ""
+    },
+    {
+      "lt": "lyginimas",
+      "en": "comparison",
+      "ru": "сравнение ",
+      "ua": ""
+    },
+    {
+      "lt": "lyginis",
+      "en": "even",
+      "ru": "равный",
+      "ua": ""
+    },
+    {
+      "lt": "lygios dalys",
+      "en": "equal parts",
+      "ru": "равные доли",
+      "ua": ""
+    },
+    {
+      "lt": "lygu",
+      "en": "equal",
+      "ru": "равно ",
+      "ua": ""
+    },
+    {
+      "lt": "likti",
+      "en": "Remain / stay",
+      "ru": "остаться ",
+      "ua": ""
+    },
+    {
+      "lt": "liniuotė",
+      "en": "ruler",
+      "ru": "линейка ",
+      "ua": ""
+    },
+    {
+      "lt": "litras",
+      "en": "liter",
+      "ru": "литр",
+      "ua": ""
+    },
+    {
+      "lt": "magiškasis kvadratas",
+      "en": "magic square",
+      "ru": "магический квадрат",
+      "ua": ""
+    },
+    {
+      "lt": "masė",
+      "en": "mass",
+      "ru": "масса ",
+      "ua": ""
+    },
+    {
+      "lt": "matavimas",
+      "en": "measurement",
+      "ru": "измерение",
+      "ua": ""
+    },
+    {
+      "lt": "matematika",
+      "en": "mathematics",
+      "ru": "математика ",
+      "ua": ""
+    },
+    {
+      "lt": "maždaug",
+      "en": "approximately",
+      "ru": "более менее ",
+      "ua": ""
+    },
+    {
+      "lt": "mažėti",
+      "en": "decrease",
+      "ru": "уменьшаться ",
+      "ua": ""
+    },
+    {
+      "lt": "mažejimo tvarka",
+      "en": "descending order",
+      "ru": "в порядке убывания ",
+      "ua": ""
+    },
+    {
+      "lt": "mažiau",
+      "en": "less",
+      "ru": "меньше ",
+      "ua": ""
+    },
+    {
+      "lt": "mažiau negu",
+      "en": "less than",
+      "ru": "меньше чем ",
+      "ua": ""
+    },
+    {
+      "lt": "mėlyna",
+      "en": "blue",
+      "ru": "синяя (синий)",
+      "ua": ""
+    },
+    {
+      "lt": "mėnuo",
+      "en": "month",
+      "ru": "месяц",
+      "ua": ""
+    },
+    {
+      "lt": "metai",
+      "en": "year",
+      "ru": "год",
+      "ua": ""
+    },
+    {
+      "lt": "metras",
+      "en": "meter",
+      "ru": "метр",
+      "ua": ""
+    },
+    {
+      "lt": "minus",
+      "en": "minus",
+      "ru": "минус",
+      "ua": ""
+    },
+    {
+      "lt": "minusas",
+      "en": "minus",
+      "ru": "минус",
+      "ua": ""
+    },
+    {
+      "lt": "minutė",
+      "en": "minute",
+      "ru": "минута ",
+      "ua": ""
+    },
+    {
+      "lt": "moneta",
+      "en": "coin",
+      "ru": "монета",
+      "ua": ""
+    },
+    {
+      "lt": "naktis",
+      "en": "night",
+      "ru": "ночь",
+      "ua": ""
+    },
+    {
+      "lt": "nelyginis",
+      "en": "odd",
+      "ru": "нечётный",
+      "ua": ""
+    },
+    {
+      "lt": "netinka",
+      "en": "not suitable / odd one out",
+      "ru": "не подходит",
+      "ua": ""
+    },
+    {
+      "lt": "nežinomas",
+      "en": "unknown",
+      "ru": "неизвестный ",
+      "ua": ""
+    },
+    {
+      "lt": "nubrėžti",
+      "en": "draw",
+      "ru": "начертить ",
+      "ua": ""
+    },
+    {
+      "lt": "nulis",
+      "en": "zero",
+      "ru": "нуль",
+      "ua": ""
+    },
+    {
+      "lt": "nuspalvinti",
+      "en": "color",
+      "ru": "закрасить",
+      "ua": ""
+    },
+    {
+      "lt": "oranžinė",
+      "en": "orange",
+      "ru": "оранжевая  (оранжевый)",
+      "ua": ""
+    },
+    {
+      "lt": "paaiškinti",
+      "en": "explain",
+      "ru": "объяснить ",
+      "ua": ""
+    },
+    {
+      "lt": "padalyti",
+      "en": "divide",
+      "ru": "поделить",
+      "ua": ""
+    },
+    {
+      "lt": "padidinimas",
+      "en": "increase",
+      "ru": "увеличение ",
+      "ua": ""
+    },
+    {
+      "lt": "padidinti",
+      "en": "increase",
+      "ru": "увеличить ",
+      "ua": ""
+    },
+    {
+      "lt": "pagaliukas",
+      "en": "stick",
+      "ru": "палочка",
+      "ua": ""
+    },
+    {
+      "lt": "pagrįsti",
+      "en": "justify",
+      "ru": "обосновать ",
+      "ua": ""
+    },
+    {
+      "lt": "pakeisti",
+      "en": "change",
+      "ru": "поменять ",
+      "ua": ""
+    },
+    {
+      "lt": "palyginti",
+      "en": "compare",
+      "ru": "сравнить ",
+      "ua": ""
+    },
+    {
+      "lt": "pamatuoti",
+      "en": "measure",
+      "ru": "измерить ",
+      "ua": ""
+    },
+    {
+      "lt": "panašus",
+      "en": "similar",
+      "ru": "подобный",
+      "ua": ""
+    },
+    {
+      "lt": "paneigti",
+      "en": "deny",
+      "ru": "отрицать ",
+      "ua": ""
+    },
+    {
+      "lt": "para",
+      "en": "day",
+      "ru": "сутки",
+      "ua": ""
+    },
+    {
+      "lt": "pasaulio kryptys",
+      "en": "cardinal directions",
+      "ru": "направление света ",
+      "ua": ""
+    },
+    {
+      "lt": "pasitikrinti",
+      "en": "check",
+      "ru": "проверить себя ",
+      "ua": ""
+    },
+    {
+      "lt": "paskutinis",
+      "en": "the last",
+      "ru": "последний ",
+      "ua": ""
+    },
+    {
+      "lt": "patikrinti",
+      "en": "check",
+      "ru": "проверить ",
+      "ua": ""
+    },
+    {
+      "lt": "pavaizduoti",
+      "en": "depict",
+      "ru": "изобразить",
+      "ua": ""
+    },
+    {
+      "lt": "pavasaris",
+      "en": "spring",
+      "ru": "весна",
+      "ua": ""
+    },
+    {
+      "lt": "penki",
+      "en": "five",
+      "ru": "пять",
+      "ua": ""
+    },
+    {
+      "lt": "penkiasdešimt",
+      "en": "fifty",
+      "ru": "пятьдесят ",
+      "ua": ""
+    },
+    {
+      "lt": "penkiolika",
+      "en": "fifteen",
+      "ru": "пятнадцать ",
+      "ua": ""
+    },
+    {
+      "lt": "penktadienis",
+      "en": "Friday",
+      "ru": "пятница ",
+      "ua": ""
+    },
+    {
+      "lt": "penktas",
+      "en": "fifth",
+      "ru": "пятый ",
+      "ua": ""
+    },
+    {
+      "lt": "pietūs",
+      "en": "lunch",
+      "ru": "обед",
+      "ua": ""
+    },
+    {
+      "lt": "pigesnis",
+      "en": "cheaper",
+      "ru": "более дешёвый ",
+      "ua": ""
+    },
+    {
+      "lt": "pigu",
+      "en": "cheap",
+      "ru": "дёшево ",
+      "ua": ""
+    },
+    {
+      "lt": "pilka",
+      "en": "grey",
+      "ru": "серая  (серый)",
+      "ua": ""
+    },
+    {
+      "lt": "pilna",
+      "en": "full",
+      "ru": "полная ",
+      "ua": ""
+    },
+    {
+      "lt": "pinigai",
+      "en": "money",
+      "ru": "деньги ",
+      "ua": ""
+    },
+    {
+      "lt": "pirkti",
+      "en": "buy",
+      "ru": "покупать ",
+      "ua": ""
+    },
+    {
+      "lt": "pirmadienis",
+      "en": "Monday",
+      "ru": "понедельник ",
+      "ua": ""
+    },
+    {
+      "lt": "pirmas",
+      "en": "first",
+      "ru": "первый",
+      "ua": ""
+    },
+    {
+      "lt": "pirmyn",
+      "en": "forward",
+      "ru": "вперёд ",
+      "ua": ""
+    },
+    {
+      "lt": "plius",
+      "en": "plus",
+      "ru": "плюс ",
+      "ua": ""
+    },
+    {
+      "lt": "plotas",
+      "en": "area",
+      "ru": "площадь ",
+      "ua": ""
+    },
+    {
+      "lt": "plotis",
+      "en": "width",
+      "ru": "ширина ",
+      "ua": ""
+    },
+    {
+      "lt": "po",
+      "en": "After / under",
+      "ru": "под",
+      "ua": ""
+    },
+    {
+      "lt": "po lygiai",
+      "en": "equally",
+      "ru": "поровну ",
+      "ua": ""
+    },
+    {
+      "lt": "pora",
+      "en": "pair",
+      "ru": "пара",
+      "ua": ""
+    },
+    {
+      "lt": "poryt",
+      "en": "the day after tomorrow",
+      "ru": "послезавтра ",
+      "ua": ""
+    },
+    {
+      "lt": "pridėti",
+      "en": "add",
+      "ru": "добавить ",
+      "ua": ""
+    },
+    {
+      "lt": "pusantro",
+      "en": "one and a half",
+      "ru": "полтора ",
+      "ua": ""
+    },
+    {
+      "lt": "pusė",
+      "en": "half",
+      "ru": "половина ",
+      "ua": ""
+    },
+    {
+      "lt": "raudona",
+      "en": "red",
+      "ru": "красная  (красный)",
+      "ua": ""
+    },
+    {
+      "lt": "reikšmė",
+      "en": "value",
+      "ru": "значение ",
+      "ua": ""
+    },
+    {
+      "lt": "ridenti",
+      "en": "throw",
+      "ru": "катить",
+      "ua": ""
+    },
+    {
+      "lt": "ryšys",
+      "en": "connection",
+      "ru": "связь ",
+      "ua": ""
+    },
+    {
+      "lt": "rytai",
+      "en": "east",
+      "ru": "запад ",
+      "ua": ""
+    },
+    {
+      "lt": "rytoj",
+      "en": "tomorrow",
+      "ru": "завтра",
+      "ua": ""
+    },
+    {
+      "lt": "rodyklė",
+      "en": "arrow",
+      "ru": "показатель",
+      "ua": ""
+    },
+    {
+      "lt": "rodyti",
+      "en": "show",
+      "ru": "показывать ",
+      "ua": ""
+    },
+    {
+      "lt": "romėniškieji skaitmenys",
+      "en": "roman numerals",
+      "ru": "римские цифры ",
+      "ua": ""
+    },
+    {
+      "lt": "rožinė",
+      "en": "pink",
+      "ru": "розовая (розовый)",
+      "ua": ""
+    },
+    {
+      "lt": "ruduo",
+      "en": "autumn",
+      "ru": "осень ",
+      "ua": ""
+    },
+    {
+      "lt": "rugpjūtis",
+      "en": "August",
+      "ru": "август",
+      "ua": ""
+    },
+    {
+      "lt": "rugsėjis",
+      "en": "September",
+      "ru": "сентябрь ",
+      "ua": ""
+    },
+    {
+      "lt": "rutuliukas",
+      "en": "circle",
+      "ru": "шарик",
+      "ua": ""
+    },
+    {
+      "lt": "sandara",
+      "en": "Structure / composition",
+      "ru": "строение ",
+      "ua": ""
+    },
+    {
+      "lt": "sandauga",
+      "en": "product",
+      "ru": "произведение",
+      "ua": ""
+    },
+    {
+      "lt": "sausis",
+      "en": "January",
+      "ru": "январь ",
+      "ua": ""
+    },
+    {
+      "lt": "sekmadienis",
+      "en": "Sunday",
+      "ru": "воскресенье ",
+      "ua": ""
+    },
+    {
+      "lt": "sekundė",
+      "en": "second",
+      "ru": "секунда",
+      "ua": ""
+    },
+    {
+      "lt": "septyni",
+      "en": "seven",
+      "ru": "семь ",
+      "ua": ""
+    },
+    {
+      "lt": "septyniasdešimt",
+      "en": "seventy",
+      "ru": "семьдесят ",
+      "ua": ""
+    },
+    {
+      "lt": "septyniolika",
+      "en": "seventeen",
+      "ru": "семнадцать ",
+      "ua": ""
+    },
+    {
+      "lt": "septintas",
+      "en": "seventh",
+      "ru": "седьмой ",
+      "ua": ""
+    },
+    {
+      "lt": "siena",
+      "en": "wall",
+      "ru": "старая",
+      "ua": ""
+    },
+    {
+      "lt": "simetrija",
+      "en": "symmetry",
+      "ru": "симметрия ",
+      "ua": ""
+    },
+    {
+      "lt": "skaičiaus kaimynas",
+      "en": "consecutive number",
+      "ru": "соседнее число ",
+      "ua": ""
+    },
+    {
+      "lt": "skaičiavimo būdas",
+      "en": "calculation method",
+      "ru": "метод подсчёта ",
+      "ua": ""
+    },
+    {
+      "lt": "skaičių apvalinimas",
+      "en": "rounding of numbers",
+      "ru": "округление числа ",
+      "ua": ""
+    },
+    {
+      "lt": "skaičių spindulys",
+      "en": "number ray",
+      "ru": "числовой луч",
+      "ua": ""
+    },
+    {
+      "lt": "skaičiuotuvas",
+      "en": "calculator",
+      "ru": "калькулятор ",
+      "ua": ""
+    },
+    {
+      "lt": "skaičius",
+      "en": "number",
+      "ru": "число ",
+      "ua": ""
+    },
+    {
+      "lt": "skaitinis reiškinys",
+      "en": "numerical expression",
+      "ru": "числовое значение ",
+      "ua": ""
+    },
+    {
+      "lt": "skaitmuo",
+      "en": "digit",
+      "ru": "цифра",
+      "ua": ""
+    },
+    {
+      "lt": "skirtumas",
+      "en": "difference",
+      "ru": "разность",
+      "ua": ""
+    },
+    {
+      "lt": "skritulys",
+      "en": "circle",
+      "ru": "круг",
+      "ua": ""
+    },
+    {
+      "lt": "spalis",
+      "en": "October",
+      "ru": "октябрь ",
+      "ua": ""
+    },
+    {
+      "lt": "spalva",
+      "en": "color",
+      "ru": "цвет",
+      "ua": ""
+    },
+    {
+      "lt": "sprendimas",
+      "en": "solution",
+      "ru": "решение ",
+      "ua": ""
+    },
+    {
+      "lt": "spręsti",
+      "en": "solve",
+      "ru": "решать ",
+      "ua": ""
+    },
+    {
+      "lt": "sprindis",
+      "en": "span",
+      "ru": "пядь",
+      "ua": ""
+    },
+    {
+      "lt": "stačiakampis",
+      "en": "rectangle",
+      "ru": "прямоугольник ",
+      "ua": ""
+    },
+    {
+      "lt": "stulpelis",
+      "en": "column",
+      "ru": "столбик ",
+      "ua": ""
+    },
+    {
+      "lt": "sudarymas",
+      "en": "composition",
+      "ru": "заключение ",
+      "ua": ""
+    },
+    {
+      "lt": "sudauginti",
+      "en": "multiply",
+      "ru": "помножить",
+      "ua": ""
+    },
+    {
+      "lt": "sudėti",
+      "en": "add",
+      "ru": "сложить ",
+      "ua": ""
+    },
+    {
+      "lt": "sudėtis stulpeliu",
+      "en": "addition algorithm",
+      "ru": "сложение в столбик ",
+      "ua": ""
+    },
+    {
+      "lt": "sudėties lentelė",
+      "en": "addition table",
+      "ru": "таблица сложения ",
+      "ua": ""
+    },
+    {
+      "lt": "sudėtis",
+      "en": "addition",
+      "ru": "сложение",
+      "ua": ""
+    },
+    {
+      "lt": "sukarpyti",
+      "en": "cut",
+      "ru": "разрезать ",
+      "ua": ""
+    },
+    {
+      "lt": "suma",
+      "en": "sum",
+      "ru": "сумма ",
+      "ua": ""
+    },
+    {
+      "lt": "sumažinimas",
+      "en": "reduction",
+      "ru": "уменьшение ",
+      "ua": ""
+    },
+    {
+      "lt": "sumažinti",
+      "en": "reduce",
+      "ru": "уменьшить ",
+      "ua": ""
+    },
+    {
+      "lt": "sumokėti",
+      "en": "pay",
+      "ru": "заплатить ",
+      "ua": ""
+    },
+    {
+      "lt": "sunkesnis",
+      "en": "heavier",
+      "ru": "более тяжёлый ",
+      "ua": ""
+    },
+    {
+      "lt": "sunkus",
+      "en": "heavy",
+      "ru": "тяжёлый ",
+      "ua": ""
+    },
+    {
+      "lt": "sunumeruoti",
+      "en": "enumerate",
+      "ru": "пронумеровать",
+      "ua": ""
+    },
+    {
+      "lt": "suporuoti",
+      "en": "pair",
+      "ru": "разбить по парам",
+      "ua": ""
+    },
+    {
+      "lt": "sutaupyti",
+      "en": "save",
+      "ru": "сэкономить (накопить)",
+      "ua": ""
+    },
+    {
+      "lt": "svarstyklės",
+      "en": "scales",
+      "ru": "весы",
+      "ua": ""
+    },
+    {
+      "lt": "sverti",
+      "en": "weigh",
+      "ru": "весить ",
+      "ua": ""
+    },
+    {
+      "lt": "šalčiau",
+      "en": "colder",
+      "ru": "холоднее ",
+      "ua": ""
+    },
+    {
+      "lt": "šalia",
+      "en": "near",
+      "ru": "рядом ",
+      "ua": ""
+    },
+    {
+      "lt": "šalta",
+      "en": "cold",
+      "ru": "холодно ",
+      "ua": ""
+    },
+    {
+      "lt": "šeši",
+      "en": "six",
+      "ru": "шесть ",
+      "ua": ""
+    },
+    {
+      "lt": "šešiasdešimt",
+      "en": "sixty",
+      "ru": "шестьдесят ",
+      "ua": ""
+    },
+    {
+      "lt": "šešiolika",
+      "en": "sixteen",
+      "ru": "шестнадцать ",
+      "ua": ""
+    },
+    {
+      "lt": "šeštadienis",
+      "en": "saturday",
+      "ru": "суббота ",
+      "ua": ""
+    },
+    {
+      "lt": "šeštas",
+      "en": "sixth",
+      "ru": "шестой ",
+      "ua": ""
+    },
+    {
+      "lt": "šiandien",
+      "en": "today",
+      "ru": "сегодня ",
+      "ua": ""
+    },
+    {
+      "lt": "šiaurė",
+      "en": "North",
+      "ru": "север",
+      "ua": ""
+    },
+    {
+      "lt": "šilčiau",
+      "en": "warmer",
+      "ru": "теплее ",
+      "ua": ""
+    },
+    {
+      "lt": "šilta",
+      "en": "warm",
+      "ru": "тепло ",
+      "ua": ""
+    },
+    {
+      "lt": "šimtas",
+      "en": "hundred",
+      "ru": "сто",
+      "ua": ""
+    },
+    {
+      "lt": "taisyklingai",
+      "en": "correctly",
+      "ru": "правильно ",
+      "ua": ""
+    },
+    {
+      "lt": "talpa",
+      "en": "capacity",
+      "ru": "ёмкость ",
+      "ua": ""
+    },
+    {
+      "lt": "tarpelis",
+      "en": "Gap / space",
+      "ru": "пробел ",
+      "ua": ""
+    },
+    {
+      "lt": "taškas",
+      "en": "point",
+      "ru": "точка ",
+      "ua": ""
+    },
+    {
+      "lt": "teiginys",
+      "en": "proposition",
+      "ru": "утверждение ",
+      "ua": ""
+    },
+    {
+      "lt": "temperatūra",
+      "en": "temperature",
+      "ru": "температура ",
+      "ua": ""
+    },
+    {
+      "lt": "termometras",
+      "en": "thermometer",
+      "ru": "термометр ",
+      "ua": ""
+    },
+    {
+      "lt": "tiesi linija",
+      "en": "line",
+      "ru": "прямая линия ",
+      "ua": ""
+    },
+    {
+      "lt": "tikslus",
+      "en": "accurate",
+      "ru": "точный ",
+      "ua": ""
+    },
+    {
+      "lt": "tilpti",
+      "en": "fit",
+      "ru": "уместиться ",
+      "ua": ""
+    },
+    {
+      "lt": "trečdalis",
+      "en": "third",
+      "ru": "третья часть",
+      "ua": ""
+    },
+    {
+      "lt": "trečiadienis",
+      "en": "Wednesday",
+      "ru": "среда",
+      "ua": ""
+    },
+    {
+      "lt": "trečias",
+      "en": "third",
+      "ru": "третий ",
+      "ua": ""
+    },
+    {
+      "lt": "trejetas",
+      "en": "three",
+      "ru": "тройка",
+      "ua": ""
+    },
+    {
+      "lt": "trikampis",
+      "en": "triangle",
+      "ru": "треугольник ",
+      "ua": ""
+    },
+    {
+      "lt": "trylika",
+      "en": "thirteen",
+      "ru": "тринадцать ",
+      "ua": ""
+    },
+    {
+      "lt": "trys",
+      "en": "three",
+      "ru": "три",
+      "ua": ""
+    },
+    {
+      "lt": "trisdešimt",
+      "en": "thirty",
+      "ru": "тридцать",
+      "ua": ""
+    },
+    {
+      "lt": "triženklis",
+      "en": "Triple-digit",
+      "ru": "трёхзначное ",
+      "ua": ""
+    },
+    {
+      "lt": "trukmė",
+      "en": "duration",
+      "ru": "протяжённость ",
+      "ua": ""
+    },
+    {
+      "lt": "trūksta",
+      "en": "is missing",
+      "ru": "не хватает ",
+      "ua": ""
+    },
+    {
+      "lt": "trumpesnė",
+      "en": "shorter",
+      "ru": "короче ",
+      "ua": ""
+    },
+    {
+      "lt": "turinys",
+      "en": "minuend",
+      "ru": "содержание ",
+      "ua": ""
+    },
+    {
+      "lt": "tuščias",
+      "en": "empty",
+      "ru": "пустой ",
+      "ua": ""
+    },
+    {
+      "lt": "tvarka",
+      "en": "order",
+      "ru": "порядок ",
+      "ua": ""
+    },
+    {
+      "lt": "uždavinys",
+      "en": "problem",
+      "ru": "задание ",
+      "ua": ""
+    },
+    {
+      "lt": "užduotis",
+      "en": "task",
+      "ru": "задача",
+      "ua": ""
+    },
+    {
+      "lt": "užtekti",
+      "en": "enough",
+      "ru": "хватить ",
+      "ua": ""
+    },
+    {
+      "lt": "užvakar",
+      "en": "The day before yesterday",
+      "ru": "позавчера ",
+      "ua": ""
+    },
+    {
+      "lt": "vakar",
+      "en": "yesterday",
+      "ru": "вчера ",
+      "ua": ""
+    },
+    {
+      "lt": "vakarai",
+      "en": "west",
+      "ru": "запад ",
+      "ua": ""
+    },
+    {
+      "lt": "valanda",
+      "en": "hour",
+      "ru": "час",
+      "ua": ""
+    },
+    {
+      "lt": "variantas",
+      "en": "option",
+      "ru": "вариант ",
+      "ua": ""
+    },
+    {
+      "lt": "vasara",
+      "en": "summer",
+      "ru": "лето ",
+      "ua": ""
+    },
+    {
+      "lt": "vasaris",
+      "en": "February",
+      "ru": "февраль ",
+      "ua": ""
+    },
+    {
+      "lt": "veiksmas",
+      "en": "operation",
+      "ru": "действие ",
+      "ua": ""
+    },
+    {
+      "lt": "veiksmo ženklas",
+      "en": "operation sign",
+      "ru": "знак действия",
+      "ua": ""
+    },
+    {
+      "lt": "veiksmų tvarka",
+      "en": "order of operations",
+      "ru": "порядок действий ",
+      "ua": ""
+    },
+    {
+      "lt": "vienas",
+      "en": "one",
+      "ru": "один",
+      "ua": ""
+    },
+    {
+      "lt": "vienaženklis",
+      "en": "Single-digit",
+      "ru": "однозначный ",
+      "ua": ""
+    },
+    {
+      "lt": "vienetas",
+      "en": "unit",
+      "ru": "единица ",
+      "ua": ""
+    },
+    {
+      "lt": "vienodas",
+      "en": "Same / equal",
+      "ru": "одинаковый ",
+      "ua": ""
+    },
+    {
+      "lt": "vienuolika",
+      "en": "eleven",
+      "ru": "одиннадцать ",
+      "ua": ""
+    },
+    {
+      "lt": "viršūnė",
+      "en": "vertex",
+      "ru": "вершина ",
+      "ua": ""
+    },
+    {
+      "lt": "žalia",
+      "en": "green",
+      "ru": "зелёная  (зелёный)",
+      "ua": ""
+    },
+    {
+      "lt": "žiema",
+      "en": "winter",
+      "ru": "зима ",
+      "ua": ""
+    },
+    {
+      "lt": "žingsnis",
+      "en": "step",
+      "ru": "шаг"
+    }
+  ],
+  "5-8": [
+    {
+      "lt": "DEŠIMTAINĖ POZICINĖ SISTEMA"
+    },
+    {
+      "lt": "Natūralusis skaičius",
+      "en": "Natural number",
+      "ua": "натуральне число"
+    },
+    {
+      "lt": "Dešimtainė pozicinė sistema",
+      "en": "Decimal positional system",
+      "ua": "десяткова (десятипозиційна) система числення"
+    },
+    {
+      "lt": "Dvejetainė",
+      "en": "Binary",
+      "ua": "двійковий, бінарний"
+    },
+    {
+      "lt": "Skaitmuo",
+      "en": "Digit",
+      "ua": ""
+    },
+    {
+      "lt": "Skaitvardis",
+      "en": "Numeral",
+      "ua": ""
+    },
+    {
+      "lt": "Skaičius",
+      "en": "Number",
+      "ua": "число(читаем чысло)"
+    },
+    {
+      "lt": "Tūkstantis",
+      "en": "Thousand",
+      "ua": "тисяча(читаем аналогично русскому тысяча)"
+    },
+    {
+      "lt": "Milijonas",
+      "en": "Million",
+      "ua": "мільйон"
+    },
+    {
+      "lt": "Milijardas",
+      "en": "Billion",
+      "ua": "мільярд"
+    },
+    {
+      "lt": "Trilijonas",
+      "en": "Trillion",
+      "ua": "три(ы)льйон"
+    },
+    {
+      "lt": "Kvadrilijonas",
+      "en": "Quadrillion",
+      "ua": "квадри(ы)льйон"
+    },
+    {
+      "lt": "Kvintilijonas",
+      "en": "Quintillion",
+      "ua": "квінти(ы)лион"
+    },
+    {
+      "lt": "Romėniškieji skaitmenys",
+      "en": "Roman numerals",
+      "ua": "римськи цифри"
+    },
+    {
+      "lt": "Daugiau",
+      "en": "More",
+      "ua": "більше"
+    },
+    {
+      "lt": "Mažiau",
+      "en": "Less",
+      "ua": "менше"
+    },
+    {
+      "lt": "Palyginti",
+      "en": "Compare",
+      "ua": "порівняти"
+    },
+    {
+      "lt": "Lygu",
+      "en": "Equal",
+      "ua": "дорівнює(как е русское)"
+    },
+    {
+      "lt": "Apvalinti",
+      "en": "Round",
+      "ua": "округли(ы)ти(ы)"
+    },
+    {
+      "lt": "Apvalinti iki dešimčių",
+      "en": "Round to the nearest ten",
+      "ua": "округлити до десятків"
+    },
+    {
+      "lt": "Skaičių spindulys",
+      "en": "Number ray",
+      "ua": "чи(ы)словий луч"
+    },
+    {
+      "lt": "Skaičių tiesė",
+      "en": "Number line",
+      "ua": "числова пряма"
+    },
+    {
+      "lt": "Vienetas",
+      "en": "Unit",
+      "ua": "одиниця"
+    },
+    {
+      "lt": "Vienaženklis",
+      "en": "Single-digit",
+      "ua": "однозначний"
+    },
+    {
+      "lt": "Dviženklis",
+      "en": "Double-digit",
+      "ua": "двозначний"
+    },
+    {
+      "lt": "Daugiaženklis",
+      "en": "Multi-digit",
+      "ua": "многозначний"
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "SUDĖTIS IR ATIMTIS",
+      "en": "",
+      "ua": "Додавання і віднімання"
+    },
+    {
+      "lt": "Suma",
+      "en": "Sum",
+      "ua": "сума"
+    },
+    {
+      "lt": "Dėmuo",
+      "en": "Addend / Summand / Term",
+      "ua": "доданок"
+    },
+    {
+      "lt": "Sudėtis",
+      "en": "Addition",
+      "ua": "додавання"
+    },
+    {
+      "lt": "Pliusas",
+      "en": "Plus",
+      "ua": "плюс"
+    },
+    {
+      "lt": "Sudėti",
+      "en": "Add / Sum",
+      "ua": "додати"
+    },
+    {
+      "lt": "Minusas",
+      "en": "Minus",
+      "ua": "Мінус"
+    },
+    {
+      "lt": "Atimtis",
+      "en": "Subtraction",
+      "ua": "Віднімання"
+    },
+    {
+      "lt": "Turinys",
+      "en": "Minuend",
+      "ua": "зменшуване"
+    },
+    {
+      "lt": "Atėminys",
+      "en": "Subtrahend",
+      "ua": "від'є́мник"
+    },
+    {
+      "lt": "Skirtumas",
+      "en": "Difference",
+      "ua": "різниця"
+    },
+    {
+      "lt": "Atimti",
+      "en": "Subtract / Take away",
+      "ua": "відняти"
+    },
+    {
+      "lt": "Sudėties perstatomumo dėsnis",
+      "en": "Commutative law of addition",
+      "ua": "переміщувальний закон складання"
+    },
+    {
+      "lt": "Sudėties jungiamumo dėsnis",
+      "en": "Associative law of addition",
+      "ua": "комбінований закон додавання"
+    },
+    {
+      "lt": "Sudėtis stulpeliu",
+      "en": "Standard algorithm of addition",
+      "ua": "додавання стовпця (додавання стовпця)"
+    },
+    {
+      "lt": "Atimtis stulpeliu",
+      "en": "Standard algorithm of subtraction",
+      "ua": "віднімання стовпця"
+    },
+    {
+      "lt": "Šimto sukūrimas",
+      "en": "Composition of a hundred",
+      "ua": ""
+    },
+    {
+      "lt": "Šimto išskaidymas",
+      "en": "Decomposition of a hundred",
+      "ua": ""
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "DAUGYBA IR DALYBA",
+      "en": "",
+      "ua": "Множення і ділення"
+    },
+    {
+      "lt": "Daugyba",
+      "en": "Multiplication",
+      "ua": ""
+    },
+    {
+      "lt": "Dauginamasis",
+      "en": "Multiplicand",
+      "ua": ""
+    },
+    {
+      "lt": "Dauginys",
+      "en": "Multiplier",
+      "ua": ""
+    },
+    {
+      "lt": "Daugiklis",
+      "en": "Factor",
+      "ua": ""
+    },
+    {
+      "lt": "Sandauga",
+      "en": "Product",
+      "ua": ""
+    },
+    {
+      "lt": "Dauginti",
+      "en": "Multiply",
+      "ua": ""
+    },
+    {
+      "lt": "Daugybos perstatomumo dėsnis",
+      "en": "Commutative law of multiplication",
+      "ua": ""
+    },
+    {
+      "lt": "Daugybos jungiamumo dėsnis",
+      "en": "Associative law of multiplication",
+      "ua": ""
+    },
+    {
+      "lt": "Daugybos skirstomumo dėsnis",
+      "en": "Distributive law of multiplication",
+      "ua": ""
+    },
+    {
+      "lt": "Kartotinė sudėtis",
+      "en": "Repeated addition",
+      "ua": ""
+    },
+    {
+      "lt": "Kart",
+      "en": "Times",
+      "ua": ""
+    },
+    {
+      "lt": "Daugyba stulpeliu",
+      "en": "Standard algorithm of multiplication",
+      "ua": ""
+    },
+    {
+      "lt": "Dalyba",
+      "en": "Division",
+      "ua": ""
+    },
+    {
+      "lt": "Dalinys",
+      "en": "Dividend",
+      "ua": ""
+    },
+    {
+      "lt": "Daliklis",
+      "en": "Divisor",
+      "ua": ""
+    },
+    {
+      "lt": "Dalmuo",
+      "en": "Quotient",
+      "ua": ""
+    },
+    {
+      "lt": "Dalyti",
+      "en": "Divide",
+      "ua": ""
+    },
+    {
+      "lt": "Dalyba kampu",
+      "en": "Long division",
+      "ua": ""
+    },
+    {
+      "lt": "Liekana",
+      "en": "Remainder",
+      "ua": ""
+    },
+    {
+      "lt": "Nepilnasis dalmuo",
+      "en": "Quotient",
+      "ua": ""
+    },
+    {
+      "lt": "Veiksmų tvarka",
+      "en": "Order of operations",
+      "ua": ""
+    },
+    {
+      "lt": "DALUMO POŽYMIAI",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Dalumo požymis",
+      "en": "Divisibility rule",
+      "ua": ""
+    },
+    {
+      "lt": "Dalumas",
+      "en": "Divisibility",
+      "ua": ""
+    },
+    {
+      "lt": "Lyginis skaičius",
+      "en": "Even number",
+      "ua": ""
+    },
+    {
+      "lt": "Nelyginis skaičius",
+      "en": "Odd number",
+      "ua": ""
+    },
+    {
+      "lt": "Dalus iš 5",
+      "en": "Divisible by 5",
+      "ua": ""
+    },
+    {
+      "lt": "DALIKLIAI IR KARTOTINIAI",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Skaičiaus $t$ daliklis",
+      "en": "Divisor of $t$ / Factor of $t$",
+      "ua": ""
+    },
+    {
+      "lt": "Skaičiaus $t$ kartotinis",
+      "en": "Multiple of $t$",
+      "ua": ""
+    },
+    {
+      "lt": "Didžiausias bendrasis daliklis",
+      "en": "Greatest common divisor / Greatest common factor",
+      "ua": ""
+    },
+    {
+      "lt": "Mažiausias bendrasis kartotinis",
+      "en": "Least common multiple",
+      "ua": ""
+    },
+    {
+      "lt": "DBD",
+      "en": "GCD / GCF",
+      "ua": ""
+    },
+    {
+      "lt": "MBK",
+      "en": "LCM",
+      "ua": ""
+    },
+    {
+      "lt": "PIRMINIAI SKAIČIAI",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Pirminis skaičius",
+      "en": "Prime number",
+      "ua": "просте число"
+    },
+    {
+      "lt": "Sudėtinis skaičius",
+      "en": "Composite number",
+      "ua": "складова кількість"
+    },
+    {
+      "lt": "Išskaidyti pirminiais dauginamaisiais",
+      "en": "Prime factorise",
+      "ua": "розкласти на прості множники"
+    },
+    {
+      "lt": "Pirminis skaidinys",
+      "en": "Prime factorisation",
+      "ua": ""
+    },
+    {
+      "lt": "Pagrindinė aritmetikos teorema",
+      "en": "Fundamental theorem of arithmetic",
+      "ua": "основна теорема арифметики"
+    },
+    {
+      "lt": "SĄVOKA, SKAIČIŲ SPINDULYS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Vienetinė atkarpa",
+      "en": "Unit segment",
+      "ua": ""
+    },
+    {
+      "lt": "Paprastoji trupmena",
+      "en": "Fraction",
+      "ua": "Дроб (простий дріб, звичайний дріб)"
+    },
+    {
+      "lt": "Skaitiklis",
+      "en": "Numerator",
+      "ua": "чисельник"
+    },
+    {
+      "lt": "Vardiklis",
+      "en": "Denominator",
+      "ua": "знаменник"
+    },
+    {
+      "lt": "Trupmenos brūkšnelis",
+      "en": "Fraction bar",
+      "ua": "дрібна риcка"
+    },
+    {
+      "lt": "Lygios dalys",
+      "en": "Equal parts",
+      "ua": "однакові частки (частини)"
+    },
+    {
+      "lt": "Lygios paprastosios trupmenos",
+      "en": "Equivalent fractions",
+      "ua": "рівні звичайні дроби"
+    },
+    {
+      "lt": "Paprastųjų trupmenų lyginimas",
+      "en": "Comparing fractions",
+      "ua": "порівняння звичайних дробів"
+    },
+    {
+      "lt": "Supaprastinti trupmeną",
+      "en": "Reduce a fraction",
+      "ua": "спростити дріб"
+    },
+    {
+      "lt": "Nesuprastinama trupmena",
+      "en": "Irreducible fraction",
+      "ua": "нескоротний дріб"
+    },
+    {
+      "lt": "Pusė",
+      "en": "Half",
+      "ua": "половина"
+    },
+    {
+      "lt": "Trečdalis",
+      "en": "Third",
+      "ua": "третя частина"
+    },
+    {
+      "lt": "Ketvirtadalis",
+      "en": "Quarter",
+      "ua": "четверта частина"
+    },
+    {
+      "lt": "Penktadalis",
+      "en": "Fifth",
+      "ua": "п'ята частина"
+    },
+
+    {
+      "lt": "MIŠRIEJI SKAIČIAI",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Taisyklingoji trupmena",
+      "en": "Proper fraction",
+      "ua": "правильний дріб"
+    },
+    {
+      "lt": "Netaisyklingoji trupmena",
+      "en": "Improper fraction",
+      "ua": "неправильний дріб"
+    },
+    {
+      "lt": "Mišrusis skaičius",
+      "en": "Mixed number",
+      "ua": "змішане число"
+    },
+    {
+      "lt": "Sveikoji skaičiaus dalis",
+      "en": "Whole part of a number",
+      "ua": "ціла частина числа"
+    },
+    {
+      "lt": "Trupmeninė skaičiaus dalis",
+      "en": "Fractional part of a number",
+      "ua": "дробова частина числа"
+    },
+    {
+      "lt": "Paversti į mišrųjį skaičių",
+      "en": "Convert to mixed number",
+      "ua": "перетворити на змішане число"
+    },
+    {
+      "lt": "Paversti į netaisyklingąją trupmeną",
+      "en": "Convert to improper fraction",
+      "ua": "звернути в неправильний дріб"
+    },
+    {
+      "lt": "Vienas sveikas ir dvi penktosios",
+      "en": "One and two fifths",
+      "ua": "одне ціле та дві п'ятих"
+    },
+    {
+      "lt": "Septyni sveiki ir trylika dvidešimttrečiųjų",
+      "en": "Seven and thirteen twenty-thirds",
+      "ua": ""
+    },
+    {
+      "lt": "SUDĖTIS IR ATIMTIS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Vienodi vardikliai",
+      "en": "Like denominators",
+      "ua": "однакові знаменники"
+    },
+    {
+      "lt": "Nevienodi vardikliai",
+      "en": "Unlike denominators",
+      "ua": "різні знаменники"
+    },
+    {
+      "lt": "Bendrasis vardiklis",
+      "en": "Common denominator",
+      "ua": "спільний знаменник"
+    },
+    {
+      "lt": "Paprasčiausioji trupmena",
+      "en": "Unit fraction",
+      "ua": "найпростіший дріб"
+    },
+    {
+      "lt": "Papildomi daugikliai",
+      "en": "",
+      "ua": "додаткові множники"
+    },
+    {
+      "lt": "DAUGYBA",
+      "en": "",
+      "ua": "множення"
+    },
+    {
+      "lt": "DALYBA",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Atvirkštinis skaičius",
+      "en": "Multiplicative inverse / Reciprocal",
+      "ua": "дділення"
+    },
+    {
+      "lt": "SĄVOKA, SKAIČIŲ SPINDULYS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Dešimtainė trupmena",
+      "en": "Decimal / Decimal fraction",
+      "ua": "десятковий дріб"
+    },
+    {
+      "lt": "Kablelis",
+      "en": "Decimal comma",
+      "ua": "кома"
+    },
+    {
+      "lt": "Dešimtoji",
+      "en": "Tenth",
+      "ua": "десята (частина)"
+    },
+    {
+      "lt": "Šimtoji",
+      "en": "Hundredth",
+      "ua": "сота (частина)"
+    },
+    {
+      "lt": "Tūkstantoji",
+      "en": "Thousandth",
+      "ua": "тисячна (частка)"
+    },
+    {
+      "lt": "Dešimttūkstantoji",
+      "en": "Ten thousandth",
+      "ua": "десятитисячна (частина, частка)"
+    },
+    {
+      "lt": "Šimtatūkstantoji",
+      "en": "Hundred thousandth",
+      "ua": "стотисячна (частина. частка)"
+    },
+    {
+      "lt": "Milijonoji",
+      "en": "Millionth",
+      "ua": "мільйонна (частина. частка)"
+    },
+    {
+      "lt": "Dešimtmilijonoji",
+      "en": "Ten millionth",
+      "ua": "десятимільйонна (частина, частка)"
+    },
+    {
+      "lt": "Šimtamilijonoji",
+      "en": "Hundred millionth",
+      "ua": "стомільйонна (частина, частка)"
+    },
+    {
+      "lt": "Milijardoji",
+      "en": "Billionth",
+      "ua": "мільярдна (частина, частка)"
+    },
+    {
+      "lt": "SUDĖTIS IR ATIMTIS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "DAUGYBA",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "DALYBA",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Begalinė dešimtainė trupmena",
+      "en": "Infinite decimal",
+      "ua": ""
+    },
+    {
+      "lt": "SĄVOKA, SKAIČIŲ TIESĖ, MODULIS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Neigiamasis skaičius",
+      "en": "Negative number",
+      "ua": "негативне число"
+    },
+    {
+      "lt": "Teigiamasis skaičius",
+      "en": "Positive number",
+      "ua": "позитивне число"
+    },
+    {
+      "lt": "Skaičių tiesė",
+      "en": "Number line",
+      "ua": "числова пряма"
+    },
+    {
+      "lt": "Skaičiaus ženklas",
+      "en": "Number sign",
+      "ua": "знак числа"
+    },
+    {
+      "lt": "Natūralieji skaičiai (be nulio)",
+      "en": "Natural numbers",
+      "ua": "натуральні числа (без нуля)"
+    },
+    {
+      "lt": "Natūralieji skaičiai (su nuliu)",
+      "en": "Whole numbers",
+      "ua": "натуральні числа (з нулем)"
+    },
+    {
+      "lt": "Sveikieji skaičiai",
+      "en": "Integers",
+      "ua": "цілі числа"
+    },
+    {
+      "lt": "Trupmeniniai skaičiai",
+      "en": "Rational numbers",
+      "ua": "дробові числа"
+    },
+    {
+      "lt": "Neteigiamas skaičius",
+      "en": "Nonpositive number",
+      "ua": "непозитивне число"
+    },
+    {
+      "lt": "Neneigiamas skaičius",
+      "en": "Nonnegative number",
+      "ua": "невід'ємне число"
+    },
+    {
+      "lt": "Priešingasis skaičius",
+      "en": "Additive inverse",
+      "ua": "протилежне число"
+    },
+    {
+      "lt": "Skaičiaus modulis",
+      "en": "Absolute value of a number",
+      "ua": "модуль числа"
+    },
+    {
+      "lt": "SUDĖTIS IR ATIMTIS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "DAUGYBA IR DALYBA",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Skaičiaus kvadratas",
+      "en": "Square of a number",
+      "ua": "квадрат числа"
+    },
+    {
+      "lt": "Skaičiaus kubas",
+      "en": "Cube of a number",
+      "ua": "куб числа"
+    },
+    {
+      "lt": "Pakelti skaičių kvadratu",
+      "en": "Square a number",
+      "ua": "число звести в квадрат (на другий ступінь)"
+    },
+    {
+      "lt": "Pakelti skaičių kubu",
+      "en": "Cube a number",
+      "ua": "число звести в куб (у третій ступінь)"
+    },
+    {
+      "lt": "Pakelti skaičių ketvirtuoju laipsniu",
+      "en": "To raise a number to the fourth power",
+      "ua": "звести число до четвертого ступеня"
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "LAIPSNIS, KAI RODIKLIS TEIGIAMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Laipsnis",
+      "en": "Power",
+      "ua": "ступінь"
+    },
+    {
+      "lt": "Laipsnio rodiklis",
+      "en": "Exponent / Index",
+      "ua": "показник ступеня"
+    },
+    {
+      "lt": "Laipsnio pagrindas",
+      "en": "Base",
+      "ua": "основа ступеня"
+    },
+    {
+      "lt": "Kėlimas laipsniu",
+      "en": "Exponentiation",
+      "ua": "зведення у ступінь"
+    },
+    {
+      "lt": "Kėlimo laipsnių taisyklės",
+      "en": "Exponent laws",
+      "ua": "правила зведення у ступінь"
+    },
+    {
+      "lt": "LAIPSNIS, KAI RODIKLIS NEIGIAMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "STANDARTINĖ SKAIČIAUS IŠRAIŠKA",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Standartinė išraiška",
+      "en": "Scientific notation / Standard form",
+      "ua": "стандартный вигляд числа"
+    },
+    {
+      "lt": "Skaičiaus eilė",
+      "en": "Order of magnitude",
+      "ua": ""
+    },
+    {
+      "lt": "KOORDINAČIŲ PLOKŠTUMA",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Koordinačių plokštuma",
+      "en": "Coordinate plane",
+      "ua": "координатна площина"
+    },
+    {
+      "lt": "$Ox$ ašis",
+      "en": "$x$ axis",
+      "ua": "вісь Ох (вісь абсцис)"
+    },
+    {
+      "lt": "$Oy$ ašis",
+      "en": "$y$ axis",
+      "ua": "вісь Оу (вісь ординат)"
+    },
+    {
+      "lt": "Taško koordinatės",
+      "en": "Coordinates of a point",
+      "ua": "координати точки"
+    },
+    {
+      "lt": "Abscisė",
+      "en": "Abscissa",
+      "ua": "абсцису"
+    },
+    {
+      "lt": "Ordinatė",
+      "en": "Ordinate",
+      "ua": "ордината"
+    },
+    {
+      "lt": "Koordinačių plokštumos ketvirtis",
+      "en": "Quadrant of a coordinate plane",
+      "ua": "координатні чверті координатної площини"
+    },
+    {
+      "lt": "ĮVADAS, PROPORCINGUMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Tiesioginis proporcingumas",
+      "en": "Direct proportionality",
+      "ua": ""
+    },
+    {
+      "lt": "PROCENTAI",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Procentas",
+      "en": "Percent",
+      "ua": "відсоток"
+    },
+    {
+      "lt": "Procentai",
+      "en": "Percentage",
+      "ua": "відсотки"
+    },
+    {
+      "lt": "MASTELIS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Mastelis",
+      "en": "Scale",
+      "ua": "масштаб"
+    },
+    {
+      "lt": "TIESIOGINIS PROPORCINGUMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Santykis",
+      "en": "Ratio",
+      "ua": ""
+    },
+    {
+      "lt": "Proporcija",
+      "en": "Proportion",
+      "ua": "пропорція"
+    },
+    {
+      "lt": "Tiesioginio proporcingumo koeficientas",
+      "en": "Proportionality constant",
+      "ua": "коефіцієнт прямої пропорційності"
+    },
+    {
+      "lt": "ATVIRKŠTINIS PROPORCINGUMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Atvirkštinis proporcingumas",
+      "en": "Inverse proportionality",
+      "ua": ""
+    },
+    {
+      "lt": "Atvirkštinio proporcingumo koeficientas",
+      "en": "Proportionality constant",
+      "ua": ""
+    },
+    {
+      "lt": "PAPRASTI RAIDINIAI REIŠKINIAI",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Raidinis reiškinys",
+      "en": "Algebraic expression",
+      "ua": "буквенний вираз"
+    },
+    {
+      "lt": "Kintamasis",
+      "en": "Variable",
+      "ua": "змінна"
+    },
+    {
+      "lt": "Reiškinio reikšmė",
+      "en": "Value of an expression",
+      "ua": "значення виразу"
+    },
+    {
+      "lt": "Vienanaris",
+      "en": "Monomial",
+      "ua": "одночлен"
+    },
+    {
+      "lt": "Dvinaris",
+      "en": "Binomial",
+      "ua": "Двучлен"
+    },
+    {
+      "lt": "Trinaris",
+      "en": "Trinomial",
+      "ua": "тричлен"
+    },
+    {
+      "lt": "Daugianaris",
+      "en": "Polynomial",
+      "ua": "Багаточлен"
+    },
+    {
+      "lt": "Narys",
+      "en": "Term",
+      "ua": "член"
+    },
+    {
+      "lt": "Nario koeficientas",
+      "en": "Term coefficient",
+      "ua": "коефіцієнт змінної"
+    },
+    {
+      "lt": "Panašieji vienanariai",
+      "en": "Like terms",
+      "ua": "подібні члени"
+    },
+    {
+      "lt": "Panašiųjų narių sutraukimas",
+      "en": "Combining like terms",
+      "ua": "приведення подібних членів"
+    },
+    {
+      "lt": "Suprastinti reiškinį",
+      "en": "Simplify an expression",
+      "ua": "спростити вираз"
+    },
+    {
+      "lt": "DAUGIANARIŲ DAUGYBA",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Tapatūs reiškiniai",
+      "en": "Equivalent expression",
+      "ua": "еквівалентні вирази"
+    },
+    {
+      "lt": "Tapatybė",
+      "en": "Identity",
+      "ua": "еквівалентність"
+    },
+    {
+      "lt": "Dvinario kvadratas",
+      "en": "Square of a binomial",
+      "ua": "квадрат двочлена"
+    },
+    {
+      "lt": "Dėsningumas",
+      "en": "Pattern",
+      "ua": "закономірність"
+    },
+    {
+      "lt": "Kvadratų skirtumas",
+      "en": "Difference of squares",
+      "ua": "різниця квадратів"
+    },
+    {
+      "lt": "DAUGIANARIŲ DALYBA (SKAIDYMAS DAUGINAMAISIAIS)",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Bendrasis dauginamasis",
+      "en": "Common factor",
+      "ua": "загальний множник"
+    },
+    {
+      "lt": "Iškelti prieš skliaustus",
+      "en": "Factor out / Factor",
+      "ua": "винести за дужки"
+    },
+    {
+      "lt": "Daugianario skaidymas dauginamaisiais",
+      "en": "Factorisation of a polynomial",
+      "ua": "розкладання багаточлена на множники"
+    },
+    {
+      "lt": "PIRMOJO LAIPSNIO LYGTYS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Lygybė",
+      "en": "Equality",
+      "ua": "рівність"
+    },
+    {
+      "lt": "Lygtis",
+      "en": "Equation",
+      "ua": "рівняння"
+    },
+    {
+      "lt": "Sprendinys",
+      "en": "Solution",
+      "ua": "Рішення"
+    },
+    {
+      "lt": "Nežinomasis",
+      "en": "Unknown",
+      "ua": "невідомий ліва частина рівняння"
+    },
+    {
+      "lt": "Kairė lygties pusė",
+      "en": "Left-hand side (LHS) of an equation",
+      "ua": "ліва частина рівняння"
+    },
+    {
+      "lt": "Dešinė lygties pusė",
+      "en": "Right-hand side (RHS) of an equation",
+      "ua": "права частина рівняння"
+    },
+    {
+      "lt": "Obuolių kiekį žymį $x$",
+      "en": "$x$ denotes the number of apples",
+      "ua": "позначення числа яблук (кількості яблук)"
+    },
+    {
+      "lt": "Iš eilės einantys",
+      "en": "Consecutive",
+      "ua": "що йдуть по порядку"
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": "trap"
+    },
+    {
+      "lt": "PIRMOJO LAIPSNIO NELYGYBĖS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Nelygybė",
+      "en": "Inequality",
+      "ua": "нерівність"
+    },
+    {
+      "lt": "Intervalas",
+      "en": "Interval",
+      "ua": "інтервал"
+    },
+    {
+      "lt": "Lenktiniai skliaustai",
+      "en": "Parentheses",
+      "ua": "круглі дужки"
+    },
+    {
+      "lt": "Laužtiniai skliaustai",
+      "en": "Brackets",
+      "ua": "квадратні дужки"
+    },
+    {
+      "lt": "Riestiniai skliaustai",
+      "en": "Curly brackets",
+      "ua": "фігурні дужки"
+    },
+    {
+      "lt": "$x$ yra didesnis už 2",
+      "en": "$x$ is greater than 2",
+      "ua": "більше двох"
+    },
+    {
+      "lt": "$x$ yra maženis už 2",
+      "en": "$x$ is less than 2",
+      "ua": "менше двох"
+    },
+    {
+      "lt": "NEPILNOSIOS ANTROJO LAIPSNIO LYGTYS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Antrojo laipsnio lygtis",
+      "en": "Second degree equation",
+      "ua": "рівняння другого порядку"
+    },
+    {
+      "lt": "Kvadratinė lygtis",
+      "en": "Quadratic equation",
+      "ua": "квадратне рівняння"
+    },
+    {
+      "lt": "STAČIAKAMPIS GRETASIENIS IR KUBAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Erdvinė figūra",
+      "en": "Solid",
+      "ua": "просторова фігура"
+    },
+    {
+      "lt": "Stačiakampis gretasienis",
+      "en": "Cuboid / Rectangular Parallelepiped",
+      "ua": "прямокутний паралелепіпед"
+    },
+    {
+      "lt": "Kubas",
+      "en": "Cube",
+      "ua": "куб"
+    },
+    {
+      "lt": "Briauna",
+      "en": "Edge",
+      "ua": "ребро"
+    },
+    {
+      "lt": "Viršūnė",
+      "en": "Vertex",
+      "ua": "вершина"
+    },
+    {
+      "lt": "Viršūnės",
+      "en": "Vertices",
+      "ua": "вершини"
+    },
+    {
+      "lt": "Siena",
+      "en": "Face",
+      "ua": "грань"
+    },
+    {
+      "lt": "Išklotinė",
+      "en": "Net",
+      "ua": "розгортка"
+    },
+    {
+      "lt": "Ilgis",
+      "en": "Length",
+      "ua": "довжина"
+    },
+    {
+      "lt": "Plotis",
+      "en": "Width",
+      "ua": "ширина"
+    },
+    {
+      "lt": "Aukštis",
+      "en": "Height",
+      "ua": "висота"
+    },
+    {
+      "lt": "TŪRIS IR PAVIRŠIAUS PLOTAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Tūris",
+      "en": "Volume",
+      "ua": "Об `єм"
+    },
+    {
+      "lt": "Paviršiaus plotas",
+      "en": "Surface area",
+      "ua": "площа поверхні"
+    },
+    {
+      "lt": "Kubinis centimetras",
+      "en": "Cubic centimeter",
+      "ua": "кубічний сантиметр"
+    },
+    {
+      "lt": "Šoninis paviršius",
+      "en": "Lateral surface",
+      "ua": "бічна поверхня"
+    },
+    {
+      "lt": "ERDVINIŲ FIGŪRŲ SKIRSTYMAS PAGAL POŽYMIUS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Skirstymas pagal požymius",
+      "en": "Classification",
+      "ua": "розподіл за ознаками"
+    },
+    {
+      "lt": "Briaunainis",
+      "en": "Polyhedron",
+      "ua": "багатогранник"
+    },
+    {
+      "lt": "Sukinys",
+      "en": "Solid of revolution",
+      "ua": "фігура обертання"
+    },
+    {
+      "lt": "Prizmė",
+      "en": "Prism",
+      "ua": "призма"
+    },
+    {
+      "lt": "Stačioji prizmė",
+      "en": "Right prism",
+      "ua": "пряма призма"
+    },
+    {
+      "lt": "Prizmės pagrindas",
+      "en": "Prism base",
+      "ua": "підстава призми"
+    },
+    {
+      "lt": "Prizmės aukštinė",
+      "en": "Prism height",
+      "ua": "висота призми"
+    },
+    {
+      "lt": "Piramidė",
+      "en": "Pyramid",
+      "ua": "піраміда"
+    },
+    {
+      "lt": "Trikampė piramidė",
+      "en": "Triangular pyramid",
+      "ua": "трикутна піраміда"
+    },
+    {
+      "lt": "Keturkampė piradinė",
+      "en": "Quadrilateral pyramid",
+      "ua": "чотирикутна піраміда"
+    },
+    {
+      "lt": "Piramidė, kurios pagrindas – kvadratas",
+      "en": "Square pyramid",
+      "ua": "піраміда, основою якої є квадрат"
+    },
+    {
+      "lt": "Piramidės viršūnė",
+      "en": "Apex",
+      "ua": "вершина піраміди"
+    },
+    {
+      "lt": "Ritinys",
+      "en": "Cylinder",
+      "ua": "циліндр"
+    },
+    {
+      "lt": "Kūgis",
+      "en": "Cone",
+      "ua": "конус"
+    },
+    {
+      "lt": "Rutulys",
+      "en": "Sphere",
+      "ua": "куля"
+    },
+    {
+      "lt": "PRIZMĖ IR PIRAMIDĖ",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Piramidės šoninės sienos aukštinė",
+      "en": "Slant height of a pyramid",
+      "ua": ""
+    },
+    {
+      "lt": "RITINYS IR KŪGIS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Kūgio sudaromoji",
+      "en": "Slant height of a cone",
+      "ua": ""
+    },
+    {
+      "lt": "MATAVIMAI IR BRAIŽYMAI",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Matuoti",
+      "en": "Measure",
+      "ua": "вимірювати"
+    },
+    {
+      "lt": "Braižyti",
+      "en": "Draw",
+      "ua": "креслити"
+    },
+    {
+      "lt": "Tiesė",
+      "en": "Line",
+      "ua": "пряма"
+    },
+    {
+      "lt": "Atkarpa",
+      "en": "Line segment",
+      "ua": "відрізок"
+    },
+    {
+      "lt": "Spindulys",
+      "en": "Ray",
+      "ua": "промінь"
+    },
+    {
+      "lt": "Taškas",
+      "en": "Point",
+      "ua": "крапка"
+    },
+    {
+      "lt": "Apskritimas",
+      "en": "Circle",
+      "ua": "коло"
+    },
+    {
+      "lt": "Apskritimo centras",
+      "en": "Center of a circle",
+      "ua": "центр кола"
+    },
+    {
+      "lt": "Apskritimo spindulys",
+      "en": "Radius of a circle",
+      "ua": "радіус кола"
+    },
+    {
+      "lt": "Apskritimo skersmuo",
+      "en": "Diameter of a circle",
+      "ua": "діаметр кола"
+    },
+    {
+      "lt": "Kampas",
+      "en": "Angle",
+      "ua": "кут"
+    },
+    {
+      "lt": "Kampo viršūnė",
+      "en": "Vertex of an angle",
+      "ua": "вершина кута"
+    },
+    {
+      "lt": "Kampo kraštinė",
+      "en": "Side / Arm of an angle",
+      "ua": "сторона кута"
+    },
+    {
+      "lt": "Kampo rūšis",
+      "en": "Type of angle",
+      "ua": "вид кута"
+    },
+    {
+      "lt": "Smailusis kampas",
+      "en": "Acute angle",
+      "ua": "гострий кут"
+    },
+    {
+      "lt": "Statusis kampas",
+      "en": "Right angle",
+      "ua": "прямий кут"
+    },
+    {
+      "lt": "Bukasis kampas",
+      "en": "Obtuse angle",
+      "ua": "тупий кут"
+    },
+    {
+      "lt": "Ištiestinis kampas",
+      "en": "Straight angle",
+      "ua": "розгорнутий кут"
+    },
+    {
+      "lt": "Laipsnis",
+      "en": "Degree",
+      "ua": "градус"
+    },
+    {
+      "lt": "Kampo didumas",
+      "en": "Measure of an angle",
+      "ua": "величина кута"
+    },
+    {
+      "lt": "Liniuotė",
+      "en": "Ruler",
+      "ua": "лінійка"
+    },
+    {
+      "lt": "Liniuotė be padalų",
+      "en": "Straightedge",
+      "ua": "лінійка без поділів"
+    },
+    {
+      "lt": "Skriestuvas",
+      "en": "Compass",
+      "ua": "циркуль"
+    },
+    {
+      "lt": "Matlankis",
+      "en": "Protractor",
+      "ua": "транспортир"
+    },
+    {
+      "lt": "PERIMETRAS IR PLOTAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Perimetras",
+      "en": "Perimeter",
+      "ua": "периметер"
+    },
+    {
+      "lt": "Plotas",
+      "en": "Area",
+      "ua": "площа"
+    },
+    {
+      "lt": "Plokštuma",
+      "en": "Plane",
+      "ua": "площина"
+    },
+    {
+      "lt": "Plokštumos figūra",
+      "en": "Planar figure",
+      "ua": ""
+    },
+    {
+      "lt": "Trikampis",
+      "en": "Triangle",
+      "ua": "трикутник"
+    },
+    {
+      "lt": "Keturkampis",
+      "en": "Quadrilateral",
+      "ua": "чотирикутник"
+    },
+    {
+      "lt": "Penkiakampis",
+      "en": "Pentagon",
+      "ua": "п'ятикутник"
+    },
+    {
+      "lt": "Šešiakampis",
+      "en": "Hexagon",
+      "ua": "шестикутник"
+    },
+    {
+      "lt": "Septynkampis",
+      "en": "Heptagon",
+      "ua": "семикутник"
+    },
+    {
+      "lt": "Aštuonkampis",
+      "en": "Octagon",
+      "ua": "восьмикутник"
+    },
+    {
+      "lt": "Devynkampis",
+      "en": "Nonagon",
+      "ua": "дев'ятикутник"
+    },
+    {
+      "lt": "Dešimtkampis",
+      "en": "Decagon",
+      "ua": "десятикутник"
+    },
+    {
+      "lt": "Stačiakampis",
+      "en": "Rectangle",
+      "ua": "прямокутник"
+    },
+    {
+      "lt": "Stačiaka\\~mpis",
+      "en": "Rectangular",
+      "ua": ""
+    },
+    {
+      "lt": "Daugiakampis",
+      "en": "Polygon",
+      "ua": "багатокутник"
+    },
+    {
+      "lt": "Kvadratas",
+      "en": "Square",
+      "ua": "квадрат"
+    },
+    {
+      "lt": "Ilgis",
+      "en": "Length",
+      "ua": "довжина"
+    },
+    {
+      "lt": "Plotis",
+      "en": "Width",
+      "ua": "ширина"
+    },
+    {
+      "lt": "Įstrižainė",
+      "en": "Diagonal",
+      "ua": "діагональ"
+    },
+    {
+      "lt": "Kvadratinis centimetras",
+      "en": "Square centimeter",
+      "ua": "квадратный сантиметр"
+    },
+    {
+      "lt": "Aras",
+      "en": "Are",
+      "ua": "ар"
+    },
+    {
+      "lt": "Hektaras",
+      "en": "Hectare",
+      "ua": "гектар"
+    },
+    {
+      "lt": "KAMPŲ SAVYBĖS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Gretutiniai kampai",
+      "en": "Supplementary angles",
+      "ua": "односторонні кути"
+    },
+    {
+      "lt": "Kryžminiai kampai",
+      "en": "Vertical angles",
+      "ua": "навхрест лежачі кути"
+    },
+    {
+      "lt": "Susikirsti",
+      "en": "Intersect",
+      "ua": "перетнутися"
+    },
+    {
+      "lt": "Priešingas",
+      "en": "Opposite",
+      "ua": "протилежний"
+    },
+    {
+      "lt": "Gretimas",
+      "en": "Adjacent",
+      "ua": "прилеглий"
+    },
+    {
+      "lt": "PLOKŠČIŲJŲ FIGŪRŲ SKIRSTYMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Sudėtinė figūra",
+      "en": "Composite figure",
+      "ua": "складова фігура"
+    },
+    {
+      "lt": "Trikampių rūšys",
+      "en": "Types of triangles",
+      "ua": "вид трикутника"
+    },
+    {
+      "lt": "Lygiašonis trikampis",
+      "en": "Isosceles triangle",
+      "ua": "рівнобедрений трикутник"
+    },
+    {
+      "lt": "Lygiakraštis trikampis",
+      "en": "Equilateral triangle",
+      "ua": "рівносторонній трикутник"
+    },
+    {
+      "lt": "Įvairiakraštis trikampis",
+      "en": "Scalene triangle",
+      "ua": "різносторонній трикутник"
+    },
+    {
+      "lt": "Lygios kraštinės",
+      "en": "Equal sides",
+      "ua": "рівні сторони"
+    },
+    {
+      "lt": "Lygūs kampai",
+      "en": "Equal angles",
+      "ua": "рівні кути"
+    },
+    {
+      "lt": "Pagrindas",
+      "en": "Base",
+      "ua": "підставу"
+    },
+    {
+      "lt": "Šoninė kraštinė (lygiašonio trikampio)",
+      "en": "Leg",
+      "ua": "бічна сторона (рівнобедреного трикутника)"
+    },
+    {
+      "lt": "Statusis trikampis",
+      "en": "Right triangle",
+      "ua": "прямокутний трикутник"
+    },
+    {
+      "lt": "Smailusis trikampis",
+      "en": "Acute triangle",
+      "ua": "гострокутний трикутник"
+    },
+    {
+      "lt": "Bukasis trikampis",
+      "en": "Obtuse triangle",
+      "ua": "тупокутний трикутник катет гіпотенуза"
+    },
+    {
+      "lt": "Statinis",
+      "en": "Leg",
+      "ua": "катет"
+    },
+    {
+      "lt": "Įžambinė",
+      "en": "Hypotenuse",
+      "ua": "гіпотенуза"
+    },
+    {
+      "lt": "PERIMETRAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Lankas",
+      "en": "Arc",
+      "ua": "дуга"
+    },
+    {
+      "lt": "Apskritimo ilgis",
+      "en": "Circumference",
+      "ua": "довжина кола"
+    },
+    {
+      "lt": "Styga",
+      "en": "Chord",
+      "ua": "хорда"
+    },
+    {
+      "lt": "Centrinis kampas",
+      "en": "Central angle",
+      "ua": "центральний кут"
+    },
+    {
+      "lt": "PLOTAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Išpjova",
+      "en": "Sector",
+      "ua": "сектор кола"
+    },
+    {
+      "lt": "Nuopjova",
+      "en": "Segment",
+      "ua": "сегмент кола"
+    },
+    {
+      "lt": "Trapecijos vidurinė linija",
+      "en": "Median / Midline of a trapezoid",
+      "ua": "середня лінія трапеції"
+    },
+    {
+      "lt": "TRIKAMPIŲ KLASIFIKACIJAS, PLOTAS IR PERIMETRAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Lygiagrečios tiesės",
+      "en": "Parallel lines",
+      "ua": "паралельні прямі"
+    },
+    {
+      "lt": "Susikertančios tiesės",
+      "en": "Intersecting lines",
+      "ua": "прямі, що перетинаються"
+    },
+    {
+      "lt": "Statmenos tiesės",
+      "en": "Perpendicular lines / Orthogonal lines",
+      "ua": "перпендикулярні прямі"
+    },
+    {
+      "lt": "Kirstinė",
+      "en": "Transversal",
+      "ua": "січна"
+    },
+    {
+      "lt": "Aksioma",
+      "en": "Axiom",
+      "ua": "аксіома"
+    },
+    {
+      "lt": "Atitinkamieji kampai",
+      "en": "Corresponding angles",
+      "ua": "відповідні кути"
+    },
+    {
+      "lt": "Vidaus vienašaliai kampai",
+      "en": "Interior consecutive angles",
+      "ua": "внутрішні односторонні кути"
+    },
+    {
+      "lt": "Išorės vienašaliai kampai",
+      "en": "Exterior consecutive angles",
+      "ua": "зовнішні односторонні кути"
+    },
+    {
+      "lt": "Vidaus priešiniai kampai",
+      "en": "Interior alternate angles",
+      "ua": "внутрішні хрест лежачі кути"
+    },
+    {
+      "lt": "Išorės priešiniai kampai",
+      "en": "Exterior alternate angles",
+      "ua": "зовнішні хрест лежачі кути"
+    },
+    {
+      "lt": "Trikampio nelygybė",
+      "en": "Triangle inequality",
+      "ua": "нерівність трикутника"
+    },
+    {
+      "lt": "Įrodymas",
+      "en": "Proof",
+      "ua": "Доведення"
+    },
+    {
+      "lt": "TRIKAMPIO VIDAUS LINIJOS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Aukštinė",
+      "en": "Height",
+      "ua": "висота"
+    },
+    {
+      "lt": "Pusiaukraštinė",
+      "en": "Median",
+      "ua": "медіана"
+    },
+    {
+      "lt": "Pusiaukampinė",
+      "en": "Angle bisector",
+      "ua": "бісектриса"
+    },
+    {
+      "lt": "TRIKAMPIŲ LYGUMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Lygūs trikampiai",
+      "en": "Congruent triangles",
+      "ua": "рівні трикутники"
+    },
+    {
+      "lt": "Trikampių lygumo požymis",
+      "en": "Triangle congruence criterion",
+      "ua": "ознака рівності трикутників"
+    },
+    {
+      "lt": "Trikampių lygumo požymis pagal tris kraštines",
+      "en": "Side-side-side (SSS) triangle congruence criterion",
+      "ua": "ознака рівності трикутників по трьох сторонах"
+    },
+    {
+      "lt": "Trikampių lygumo požymis pagal kraštinę ir du kampus prie jos",
+      "en": "Angle-side-angle (ASA) triangle congruence criterion",
+      "ua": "ознака рівності трикутників по стороні та двох кутів, що прилягають до неї."
+    },
+    {
+      "lt": "Trikampių lygumo požymis pagal dvi kraštines ir kampą tarp jų",
+      "en": "Side-angle-side (SAS) triangle congruence criterion",
+      "ua": "ознака рівності трикутників з обох боків та кутку між ними"
+    },
+    {
+      "lt": "LYGIAŠONIŲ IR LYGIAKRAŠČIŲ TRIKAMPIŲ SAVYBĖS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "TIESIOGINĖ IR ATVIRKŠTINĖ PITAGORO TEOREMOS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Tiesioginė Pitagoro teorema",
+      "en": "Direct Pythagorean theorem",
+      "ua": ""
+    },
+    {
+      "lt": "Atvirkštinė Pitagoro teorema",
+      "en": "Inverse Pythagorean theorem",
+      "ua": ""
+    },
+    {
+      "lt": "Pitagoro skaičių trejetas",
+      "en": "Pythagorean triple",
+      "ua": ""
+    },
+    {
+      "lt": "Atstumas",
+      "en": "Distance",
+      "ua": "Відстань"
+    },
+    {
+      "lt": "KETURKAMPIŲ KLASIFIKACIJA",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Keturkampis",
+      "en": "Quadrilateral",
+      "ua": "чотирикутник"
+    },
+    {
+      "lt": "Lygiagretainis",
+      "en": "Parellelogram",
+      "ua": "паралелограм"
+    },
+    {
+      "lt": "Trapecija",
+      "en": "Trapezoid",
+      "ua": "трапеція"
+    },
+    {
+      "lt": "Lygiašonė trapecija",
+      "en": "Isosceles trapezoid",
+      "ua": "рівнобедрена трапеція"
+    },
+    {
+      "lt": "Stačioji trapecija",
+      "en": "Right trapezoid",
+      "ua": "прямокутна трапеція"
+    },
+    {
+      "lt": "Rombas",
+      "en": "Rhombus",
+      "ua": "ромб"
+    },
+    {
+      "lt": "Deltoidas",
+      "en": "Deltoid",
+      "ua": "дельтоїд"
+    },
+    {
+      "lt": "Gretimos kraštinės",
+      "en": "Adjacent sides",
+      "ua": "сусідні сторони"
+    },
+    {
+      "lt": "Priešingos kraštinės",
+      "en": "Opposite sides",
+      "ua": "протилежні сторони"
+    },
+    {
+      "lt": "Iškilasis daugiakampis",
+      "en": "Convex polygon",
+      "ua": "опуклий багатокутник"
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "LYGIAGRETAINIAI",
+      "en": "Parellelograms",
+      "ua": ""
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "TRAPECIJOS",
+      "en": "Trapezoids",
+      "ua": ""
+    },
+    {
+      "lt": "PAPRASTŲJŲ FIGŪRŲ IR JŲ ELEMENTŲ BRAIŽYMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "SIMETRIJA",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Simetrija tiesės atžvilgiu",
+      "en": "Line symmetry",
+      "ua": "симетрія щодо осі (осьова симетрія)"
+    },
+    {
+      "lt": "Simetrija taško atžvilgiu",
+      "en": "Point symmetry",
+      "ua": "центральна симетрія (симетрія щодо точки)"
+    },
+    {
+      "lt": "DUOMENŲ RINKIMAS, APDOROJIMAS, PATEIKIMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Statistika",
+      "en": "Statistics",
+      "ua": "статистика"
+    },
+    {
+      "lt": "Tyrimas",
+      "en": "Research",
+      "ua": "дослідження"
+    },
+    {
+      "lt": "Atvirasis klausimas",
+      "en": "Open question",
+      "ua": ""
+    },
+    {
+      "lt": "Uždarasis klausimas",
+      "en": "Closed question",
+      "ua": ""
+    },
+    {
+      "lt": "Kokybiniai duomenys",
+      "en": "Qualitative data",
+      "ua": ""
+    },
+    {
+      "lt": "Kiekybiniai duomenys",
+      "en": "Quantitative data",
+      "ua": ""
+    },
+    {
+      "lt": "Dažnių lentelė",
+      "en": "Frequency table",
+      "ua": ""
+    },
+    {
+      "lt": "Diagrama",
+      "en": "Diagram / Chart",
+      "ua": ""
+    },
+    {
+      "lt": "Linijinė diagrama",
+      "en": "Line diagram / Line chart",
+      "ua": ""
+    },
+    {
+      "lt": "Stulpelinė diagrama",
+      "en": "Bar diagram / Bar chart",
+      "ua": ""
+    },
+    {
+      "lt": "Skritulinė diagrama",
+      "en": "Pie chart",
+      "ua": ""
+    },
+    {
+      "lt": "STATISTINIS TYRIMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "ĮVAIRUS DUOMENŲ PATEIKIMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Histograma",
+      "en": "Histogram",
+      "ua": ""
+    },
+    {
+      "lt": "STATISTINĖS CHARAKTERISTIKOS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Vidurkis",
+      "en": "Average",
+      "ua": "середнє"
+    },
+    {
+      "lt": "Aritmetinis vidurkis",
+      "en": "Arithmetic mean",
+      "ua": "середня артфметична"
+    },
+    {
+      "lt": "Mediana",
+      "en": "Median",
+      "ua": "медіана"
+    },
+    {
+      "lt": "Moda",
+      "en": "Mode",
+      "ua": "мода"
+    },
+    {
+      "lt": "RINKINIAI IR GALIMYBIŲ MEDIS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Galimybių medis",
+      "en": "Tree diagram",
+      "ua": "дерево можливостей"
+    },
+    {
+      "lt": "BANDYMAS, BAIGTIS, SANTYKINIS DAŽNIS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Bandymas",
+      "en": "Random experiment",
+      "ua": ""
+    },
+    {
+      "lt": "Baigtis",
+      "en": "Outcome",
+      "ua": ""
+    },
+    {
+      "lt": "Baigčių aibė",
+      "en": "Sample space",
+      "ua": ""
+    },
+    {
+      "lt": "Santykinis dažnis",
+      "en": "Empirical probability",
+      "ua": "відносна частота"
+    },
+    {
+      "lt": "KLASIKINIAI BANDYMAI",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Įvykis",
+      "en": "Event",
+      "ua": "подія"
+    },
+    {
+      "lt": "Įvykio tikimybė",
+      "en": "Probability of an event",
+      "ua": "ймовірність події"
+    },
+    {
+      "lt": "PAPRASTŲJŲ PLOKŠTUMOS FIGŪRŲ BRAIŽYMAS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Liniuotė",
+      "en": "Ruler",
+      "ua": "лінійка"
+    },
+    {
+      "lt": "Stačiakampis",
+      "en": "Rectangle",
+      "ua": "прямокутник"
+    },
+    {
+      "lt": "Plotis",
+      "en": "Width",
+      "ua": "ширина"
+    },
+    {
+      "lt": "Ilgis",
+      "en": "Length",
+      "ua": "довжина"
+    },
+    {
+      "lt": "Kvadratas",
+      "en": "Square",
+      "ua": "квадрат"
+    },
+    {
+      "lt": "Perimetras",
+      "en": "Perimeter",
+      "ua": "периметр"
+    },
+    {
+      "lt": "Keturkampis",
+      "en": "Quadrilateral",
+      "ua": "чотирикутник"
+    },
+    {
+      "lt": "Statusis kampas",
+      "en": "Right angle",
+      "ua": "прямий кут"
+    },
+    {
+      "lt": "Lygiagretu",
+      "en": "Parallel",
+      "ua": "паралельно"
+    },
+    {
+      "lt": "Kraštinė",
+      "en": "Side",
+      "ua": "сторона"
+    },
+    {
+      "lt": "Įstrižainė",
+      "en": "Diagonal",
+      "ua": "діагональ"
+    },
+    {
+      "lt": "Apskritimas",
+      "en": "Circle",
+      "ua": "коло"
+    },
+    {
+      "lt": "Skritulys",
+      "en": "Circle",
+      "ua": "коло"
+    },
+    {
+      "lt": "Apskritimo spindulys",
+      "en": "Radius of a circle",
+      "ua": "радіус кола"
+    },
+    {
+      "lt": "Apskritimo skersmuo",
+      "en": "Diameter of a circle",
+      "ua": "діаметр кола"
+    },
+    {
+      "lt": "Taškas",
+      "en": "Point",
+      "ua": "крапка"
+    },
+    {
+      "lt": "Styga",
+      "en": "Chord",
+      "ua": "хорда"
+    },
+    {
+      "lt": "Sfera",
+      "en": "Sphere",
+      "ua": "сфера"
+    },
+    {
+      "lt": "Rutulys",
+      "en": "Sphere",
+      "ua": "куля"
+    },
+    {
+      "lt": "Liestinė",
+      "en": "Tangent line",
+      "ua": "дотична"
+    },
+    {
+      "lt": "GREITIS",
+      "en": "",
+      "ua": ""
+    },
+    {
+      "lt": "Atstumas",
+      "en": "Distance",
+      "ua": "відстань"
+    },
+    {
+      "lt": "Valanda",
+      "en": "Hour",
+      "ua": "годину"
+    },
+    {
+      "lt": "Metras",
+      "en": "Meter",
+      "ua": "метр"
+    },
+    {
+      "lt": "Pėda",
+      "en": "Foot",
+      "ua": ""
+    },
+    {
+      "lt": "Tona",
+      "en": "Tone",
+      "ua": "тонна"
+    },
+    {
+      "lt": "Para",
+      "en": "Day",
+      "ua": "добу"
+    },
+    {
+      "lt": "Sekundė",
+      "en": "Second",
+      "ua": "секунда"
+    },
+    {
+      "lt": "Colis",
+      "en": "Inch",
+      "ua": "дюйм"
+    },
+    {
+      "lt": "Litras",
+      "en": "Liter",
+      "ua": "літр"
+    },
+    {
+      "lt": "Gramas",
+      "en": "Gram",
+      "ua": "грам"
+    },
+    {
+      "lt": "Amžius",
+      "en": "Century",
+      "ua": "вік"
+    },
+    {
+      "lt": "Šviesmetis",
+      "en": "Light-year",
+      "ua": "світловий рік"
+    },
+    {
+      "lt": "Laikas",
+      "en": "Time",
+      "ua": "час"
+    },
+    {
+      "lt": "Greitis",
+      "en": "Speed / Velocity",
+      "ua": "швидкість"
+    },
+    {
+      "lt": "Pastovus greitis",
+      "en": "Constant speed",
+      "ua": "постійна швидкість"
+    },
+    {
+      "lt": "Vidutinis greitis",
+      "en": "Average speed",
+      "ua": "Середня швидкість"
+    },
+    {
+      "lt": "Kilometrai per valandą",
+      "en": "Kilometers per hour",
+      "ua": "кілометрів на годину"
+    },
+    {
+      "lt": "Metrai per sekundę",
+      "en": "Meters per second",
+      "ua": "метрів за секунду"
+    }
+  ]
+}
