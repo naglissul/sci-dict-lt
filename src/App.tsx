@@ -24,7 +24,7 @@ function App() {
           {lang === "LT"
             ? "Mokslinis žodynas"
             : lang === "NL"
-            ? "Wetenschappelijk woordenboek"
+            ? "WetenschappelijkYY woordenboek"
             : "no-lang"}
         </h1>
         <div className="subtitle">
