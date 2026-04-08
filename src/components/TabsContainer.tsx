@@ -7,12 +7,14 @@ export default function TabsContainer({
   ArchiveTab,
   NlTab,
   ContributeTab,
+  LTVbeTab,
 }: {
   LtTab?: React.ReactNode;
   UaRuLtTab?: React.ReactNode;
   ArchiveTab?: React.ReactNode;
   NlTab?: React.ReactNode;
   ContributeTab?: React.ReactNode;
+  LTVbeTab?: React.ReactNode;
 }) {
   const navigate = useNavigate();
   const location = useLocation();
@@ -23,7 +25,10 @@ export default function TabsContainer({
 
   return (
     <Tabs activeKey={location.pathname} onSelect={handleSelect}>
-      <Tab eventKey="/" title="LT" style={{ marginTop: "20px" }}>
+      <Tab eventKey="/" title="LT-VBE" style={{ marginTop: "20px" }}>
+        {LTVbeTab}
+      </Tab>
+      <Tab eventKey="/lt" title="LT" style={{ marginTop: "20px" }}>
         {LtTab}
       </Tab>
       <Tab eventKey="/ua-ru-lt" title="UA-RU-LT" style={{ marginTop: "20px" }}>

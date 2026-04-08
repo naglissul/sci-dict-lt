@@ -10,6 +10,7 @@ import LTContributePage from "./LTContributePage";
 import TabsContainer from "./components/TabsContainer";
 import { BrowserRouter, Link, Route, Routes } from "react-router-dom";
 import UaRuLtPage from "./UaRuLtPage";
+import LTVbePage from "./LTVbePage";
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState<boolean>(true);
@@ -47,7 +48,14 @@ function App() {
           <aside></aside>
           <section>
             <Routes>
-              <Route index element={<TabsContainer LtTab={<LTPage />} />} />
+              <Route
+                index
+                element={<TabsContainer LTVbeTab={<LTVbePage />} />}
+              />
+              <Route
+                path="/lt"
+                element={<TabsContainer LtTab={<LTPage />} />}
+              />
               <Route
                 path="/ua-ru-lt"
                 element={<TabsContainer UaRuLtTab={<UaRuLtPage />} />}
@@ -64,6 +72,7 @@ function App() {
                 path="/lt-contribute"
                 element={<TabsContainer ContributeTab={<LTContributePage />} />}
               />
+
               <Route
                 path="*"
                 element={
