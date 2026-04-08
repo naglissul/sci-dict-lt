@@ -1,11 +1,92 @@
 {
   "mvbe": [
     {
-      "lt": "mokslinis žodynas",
-      "pl": "słownik naukowy",
-      "ru": "научный словарь",
-      "ua": "науковий словник",
-      "comment": ""
+      "lt": "vienetinis apskritimas",
+      "pl": "okrąg jednostkowy",
+      "ru": "единичная окружность",
+      "ua": "одиничне коло",
+      "comment": "2025-2-A-pag"
+    },
+    {
+      "lt": "posūkio kampas",
+      "pl": "kąt obrotu",
+      "ru": "угол поворота",
+      "ua": "кут повороту",
+      "comment": "2025-2-A-pag"
+    },
+    {
+      "lt": "atsitiktinio dydžio skirstinys",
+      "pl": "rozkład zmiennej losowej",
+      "ru": "распределение случайной величины",
+      "ua": "pозподіл випадкової величини",
+      "comment": "2025-2-A-pag"
+    },
+    {
+      "lt": "aritmetinė progresija",
+      "pl": "ciąg arytmetyczny",
+      "ru": "арифметическая прогрессия",
+      "ua": "арифметична прогресія",
+      "comment": "2025-2-A-pag"
+    },
+    {
+      "lt": "kūgis",
+      "pl": "stożek",
+      "ru": "конус",
+      "ua": "конус",
+      "comment": "2025-2-A-pag"
+    },
+    {
+      "lt": "ašinio pjūvio plotas",
+      "pl": "pole przekroju osiowego",
+      "ru": "площадь осевого сечения",
+      "ua": "площа осьового перерізу",
+      "comment": "2025-2-A-pag"
+    },
+
+    {
+      "lt": "pagrindo plokštuma",
+      "pl": "płaszczyzna podstawy",
+      "ru": "плоскость основания",
+      "ua": "площина основи",
+      "comment": "2025-2-A-pag"
+    },
+
+    {
+      "lt": "kolinearūs vektoriai",
+      "pl": "wektory współliniowe",
+      "ru": "коллинеарные векторы",
+      "ua": "колінеарні вектори",
+      "comment": "2025-2-A-pag"
+    },
+    {
+      "lt": "taisyklingoji trikampė piramidė",
+      "pl": "ostrosłup prawidłowy trójkątny",
+      "ru": "правильная треугольная пирамида",
+      "ua": "правильна трикутна піраміда",
+      "comment": "2025-2-A-pag"
+    },
+
+    {
+      "lt": "tūris",
+      "pl": "objętość",
+      "ru": "объём",
+      "ua": "oб'єм",
+      "comment": "2025-2-A-pag"
+    },
+
+    {
+      "lt": "šoninė siena",
+      "pl": "ściana boczna",
+      "ru": "боковая грань",
+      "ua": "бічна гранъ",
+      "comment": "2025-2-A-pag"
+    },
+    {
+      "lt": "liečia",
+      "pl": "jest styczna",
+      "ru": "касается",
+      "ua": "дотикається",
+      "comment": "2025-2-A-pag"
     }
   ]
 }

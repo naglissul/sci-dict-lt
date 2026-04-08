@@ -5,7 +5,13 @@ import dict_import from "../data/dict.json";
 import { useState } from "react";
 
 type DictType = {
-  [key: string]: { lt?: string; pl?: string; ru?: string; ua?: string; comment?: string }[];
+  [key: string]: {
+    lt?: string;
+    pl?: string;
+    ru?: string;
+    ua?: string;
+    comment?: string;
+  }[];
 };
 
 const dict: DictType = dict_import;
@@ -62,7 +68,7 @@ export default function LTVbeDictSection() {
                       />
                     );
                   }
-                })
+                }),
               )}
             </tbody>
           </Table>
@@ -98,6 +104,7 @@ export default function LTVbeDictSection() {
                         <th>PL</th>
                         <th>RU</th>
                         <th>UA</th>
+                        <th>Comment</th>
                       </tr>
                       {dict[book.id]?.map((word: any) => {
                         if (
@@ -121,12 +128,14 @@ export default function LTVbeDictSection() {
                                 word.pl +
                                 word.ru +
                                 word.ua +
+                                word.comment +
                                 Math.random()
                               }
                               lt={word.lt}
                               pl={word.pl}
                               ru={word.ru}
                               ua={word.ua}
+                              comment={word.comment}
                             />
                           );
                         }
